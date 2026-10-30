@@ -1,0 +1,322 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-09-30T17:31:55.634925Z",
+ "cycles": 1,
+ "divisionRank": 1,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 38,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Sluttspill",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 44,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 224,
+     "awayPlayerName": "Benjamin Nygard",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 210,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 6,
+       "id": 216,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 72,
+     "homePlayerName": "Andreas Fjermestad",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 68,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 333,
+     "awayPlayerName": "Sinus Moberg",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 211,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 217,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 29,
+     "homePlayerName": "Magnus Klippen",
+     "homeScore": 2,
+     "homeSeed": 2,
+     "id": 69,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 38
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 45,
+   "matches": [
+    {
+     "awayOrigin": "A2",
+     "awayPlayerId": 29,
+     "awayPlayerName": "Magnus Klippen",
+     "awayScore": 2,
+     "awaySeed": 2,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 6,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 218,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 220,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 72,
+     "homePlayerName": "Andreas Fjermestad",
+     "homeScore": 0,
+     "homeSeed": 1,
+     "id": 70,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 38
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 48,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 224,
+     "awayPlayerName": "Benjamin Nygard",
+     "awayScore": 1,
+     "awaySeed": 4,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 219,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A3",
+     "homePlayerId": 333,
+     "homePlayerName": "Sinus Moberg",
+     "homeScore": 0,
+     "homeSeed": 3,
+     "id": 73,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 38
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 72,
+   "playerName": "Andreas Fjermestad",
+   "seed": 1
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 29,
+   "playerName": "Magnus Klippen",
+   "seed": 2
+  },
+  {
+   "originLabel": "A3",
+   "playerId": 333,
+   "playerName": "Sinus Moberg",
+   "seed": 3
+  },
+  {
+   "originLabel": "A4",
+   "playerId": 224,
+   "playerName": "Benjamin Nygard",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "divisionRank": 1,
+   "name": "Mellomspill",
+   "stageId": 36
+  }
+ ],
+ "tournamentId": 3,
+ "tournamentName": "Jærliga 2026/27 #8",
+ "tournamentStages": [
+  {
+   "id": 32,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grunnspill",
+   "status": "Finished"
+  },
+  {
+   "id": 36,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Mellomspill",
+   "status": "Finished"
+  },
+  {
+   "id": 37,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "B-mellomspill",
+   "status": "Finished"
+  },
+  {
+   "id": 38,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Sluttspill",
+   "status": "Finished"
+  },
+  {
+   "id": 39,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "B-sluttspill",
+   "status": "Finished"
+  },
+  {
+   "id": 40,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Kamp om 5. plass",
+   "status": "Finished"
+  },
+  {
+   "id": 41,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "C-plasseringsspill",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

@@ -1,0 +1,1458 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-17T13:45:02.643229Z",
+ "cycles": 1,
+ "divisionRank": 1,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 154,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Play-off 1-12",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 3,
+   "startPlace": 3,
+   "status": "Generated"
+  },
+  {
+   "endPlace": 8,
+   "size": 4,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 2,
+   "startPlace": 5,
+   "status": "Available"
+  },
+  {
+   "endPlace": 12,
+   "size": 4,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 9,
+   "status": "Available"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 12,
+   "bandSize": 12,
+   "bandStartPlace": 1,
+   "bestOf": 7,
+   "gamesToWin": 4,
+   "id": 230,
+   "matches": [
+    {
+     "clinchedAt": -1,
+     "games": [
+      {
+       "gameNumber": 1,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 2,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 17,
+     "homePlayerName": "Regnars Vazolins",
+     "homeSeed": 1,
+     "id": 573,
+     "isBye": true,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A9",
+     "awayPlayerId": 20,
+     "awayPlayerName": "Alvis Silins",
+     "awayScore": 4,
+     "awaySeed": 9,
+     "clinchedAt": 6,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 1091,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 0,
+       "id": 1092,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 1108,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 4,
+       "homeScore": 4,
+       "id": 1109,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 5,
+       "homeScore": 3,
+       "id": 1110,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 6,
+       "homeScore": 1,
+       "id": 1111,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 7,
+       "homeScore": 0,
+       "id": 1112,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A8",
+     "homePlayerId": 10,
+     "homePlayerName": "Elvijs Silins",
+     "homeScore": 3,
+     "homeSeed": 8,
+     "id": 574,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 1,
+     "walkover": "None"
+    },
+    {
+     "clinchedAt": -1,
+     "games": [
+      {
+       "gameNumber": 1,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 2,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A4",
+     "homePlayerId": 23,
+     "homePlayerName": "Krista Annija Lagzdina",
+     "homeSeed": 4,
+     "id": 575,
+     "isBye": true,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 2,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A12",
+     "awayPlayerId": 42,
+     "awayPlayerName": "Janis Mikelis Bitmanis",
+     "awayScore": 0,
+     "awaySeed": 12,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 1093,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 1094,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 3,
+       "homeScore": 5,
+       "id": 1102,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 4,
+       "homeScore": 4,
+       "id": 1107,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 32,
+     "homePlayerName": "Henrijs Prokuratovs",
+     "homeScore": 4,
+     "homeSeed": 5,
+     "id": 576,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 3,
+     "walkover": "None"
+    },
+    {
+     "clinchedAt": -1,
+     "games": [
+      {
+       "gameNumber": 1,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 2,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 18,
+     "homePlayerName": "Valts Smagars",
+     "homeSeed": 2,
+     "id": 577,
+     "isBye": true,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 4,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A10",
+     "awayPlayerId": 39,
+     "awayPlayerName": "Edzus Kaneps",
+     "awayScore": 1,
+     "awaySeed": 10,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 1075,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 1078,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 1095,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 4,
+       "homeScore": 3,
+       "id": 1096,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 5,
+       "homeScore": 4,
+       "id": 1103,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A7",
+     "homePlayerId": 6,
+     "homePlayerName": "Raivis Miglinieks \"The Cobra\"",
+     "homeScore": 4,
+     "homeSeed": 7,
+     "id": 578,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 5,
+     "walkover": "None"
+    },
+    {
+     "clinchedAt": -1,
+     "games": [
+      {
+       "gameNumber": 1,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 2,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A3",
+     "homePlayerId": 15,
+     "homePlayerName": "Jekabs Rekis",
+     "homeSeed": 3,
+     "id": 579,
+     "isBye": true,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 6,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A11",
+     "awayPlayerId": 36,
+     "awayPlayerName": "Emils Liepins",
+     "awayScore": 0,
+     "awaySeed": 11,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 1097,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 1098,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 5,
+       "id": 1104,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 4,
+       "homeScore": 3,
+       "id": 1105,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A6",
+     "homePlayerId": 49,
+     "homePlayerName": "Rudolfs Kamzols",
+     "homeScore": 4,
+     "homeSeed": 6,
+     "id": 580,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 7,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 154
+  },
+  {
+   "bandEndPlace": 12,
+   "bandSize": 12,
+   "bandStartPlace": 1,
+   "bestOf": 7,
+   "gamesToWin": 4,
+   "id": 231,
+   "matches": [
+    {
+     "awayOrigin": "A9",
+     "awayPlayerId": 20,
+     "awayPlayerName": "Alvis Silins",
+     "awayScore": 3,
+     "awaySeed": 9,
+     "clinchedAt": 6,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 1128,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 1129,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 1130,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 4,
+       "homeScore": 2,
+       "id": 1136,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 5,
+       "homeScore": 1,
+       "id": 1141,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 6,
+       "homeScore": 3,
+       "id": 1144,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 7,
+       "homeScore": 4,
+       "id": 1145,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 17,
+     "homePlayerName": "Regnars Vazolins",
+     "homeScore": 4,
+     "homeSeed": 1,
+     "id": 581,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 2,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A5",
+     "awayPlayerId": 32,
+     "awayPlayerName": "Henrijs Prokuratovs",
+     "awayScore": 4,
+     "awaySeed": 5,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 1121,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 1,
+       "id": 1127,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 1131,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 4,
+       "homeScore": 0,
+       "id": 1134,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 5,
+       "homeScore": 2,
+       "id": 1142,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A4",
+     "homePlayerId": 23,
+     "homePlayerName": "Krista Annija Lagzdina",
+     "homeScore": 1,
+     "homeSeed": 4,
+     "id": 582,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 1,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 6,
+     "awayPlayerName": "Raivis Miglinieks \"The Cobra\"",
+     "awayScore": 2,
+     "awaySeed": 7,
+     "clinchedAt": 5,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 1115,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 1122,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 8,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 1125,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 4,
+       "homeScore": 4,
+       "id": 1132,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 5,
+       "homeScore": 1,
+       "id": 1137,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 6,
+       "homeScore": 2,
+       "id": 1140,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 18,
+     "homePlayerName": "Valts Smagars",
+     "homeScore": 4,
+     "homeSeed": 2,
+     "id": 583,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 2,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A6",
+     "awayPlayerId": 49,
+     "awayPlayerName": "Rudolfs Kamzols",
+     "awayScore": 4,
+     "awaySeed": 6,
+     "clinchedAt": 6,
+     "games": [
+      {
+       "awayScore": 7,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 1123,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 1126,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 1133,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 4,
+       "homeScore": 2,
+       "id": 1135,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 5,
+       "homeScore": 1,
+       "id": 1138,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 6,
+       "homeScore": 3,
+       "id": 1143,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 7,
+       "homeScore": 2,
+       "id": 1146,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A3",
+     "homePlayerId": 15,
+     "homePlayerName": "Jekabs Rekis",
+     "homeScore": 3,
+     "homeSeed": 3,
+     "id": 584,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 3,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 154
+  },
+  {
+   "bandEndPlace": 12,
+   "bandSize": 12,
+   "bandStartPlace": 1,
+   "bestOf": 7,
+   "gamesToWin": 4,
+   "id": 232,
+   "matches": [
+    {
+     "awayOrigin": "A5",
+     "awayPlayerId": 32,
+     "awayPlayerName": "Henrijs Prokuratovs",
+     "awayScore": 2,
+     "awaySeed": 5,
+     "clinchedAt": 5,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 1149,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 1150,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 1153,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 4,
+       "homeScore": 5,
+       "id": 1154,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 5,
+       "homeScore": 2,
+       "id": 1156,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 6,
+       "homeScore": 4,
+       "id": 1157,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 17,
+     "homePlayerName": "Regnars Vazolins",
+     "homeScore": 4,
+     "homeSeed": 1,
+     "id": 585,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 2,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A6",
+     "awayPlayerId": 49,
+     "awayPlayerName": "Rudolfs Kamzols",
+     "awayScore": 4,
+     "awaySeed": 6,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 5,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 1147,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 1148,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 1151,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 4,
+       "homeScore": 1,
+       "id": 1152,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 5,
+       "homeScore": 1,
+       "id": 1155,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 18,
+     "homePlayerName": "Valts Smagars",
+     "homeScore": 1,
+     "homeSeed": 2,
+     "id": 586,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 3,
+   "stageId": 154
+  },
+  {
+   "bandEndPlace": 12,
+   "bandSize": 12,
+   "bandStartPlace": 1,
+   "bestOf": 7,
+   "gamesToWin": 4,
+   "id": 233,
+   "matches": [
+    {
+     "awayOrigin": "A6",
+     "awayPlayerId": 49,
+     "awayPlayerName": "Rudolfs Kamzols",
+     "awayScore": 3,
+     "awaySeed": 6,
+     "clinchedAt": 6,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 1158,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 1159,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 3,
+       "homeScore": 7,
+       "id": 1162,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 4,
+       "homeScore": 4,
+       "id": 1164,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 5,
+       "homeScore": 3,
+       "id": 1166,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 7,
+       "gameNumber": 6,
+       "homeScore": 2,
+       "id": 1168,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 7,
+       "homeScore": 1,
+       "id": 1169,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 17,
+     "homePlayerName": "Regnars Vazolins",
+     "homeScore": 4,
+     "homeSeed": 1,
+     "id": 587,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 2,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 4,
+   "stageId": 154
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 236,
+   "matches": [
+    {
+     "awayOrigin": "A5",
+     "awayPlayerId": 32,
+     "awayPlayerName": "Henrijs Prokuratovs",
+     "awayScore": 3,
+     "awaySeed": 5,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 1160,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 1161,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 1163,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 6,
+       "gameNumber": 4,
+       "homeScore": 4,
+       "id": 1167,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 18,
+     "homePlayerName": "Valts Smagars",
+     "homeScore": 1,
+     "homeSeed": 2,
+     "id": 591,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 154
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 17,
+   "playerName": "Regnars Vazolins",
+   "seed": 1
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 18,
+   "playerName": "Valts Smagars",
+   "seed": 2
+  },
+  {
+   "originLabel": "A3",
+   "playerId": 15,
+   "playerName": "Jekabs Rekis",
+   "seed": 3
+  },
+  {
+   "originLabel": "A4",
+   "playerId": 23,
+   "playerName": "Krista Annija Lagzdina",
+   "seed": 4
+  },
+  {
+   "originLabel": "A5",
+   "playerId": 32,
+   "playerName": "Henrijs Prokuratovs",
+   "seed": 5
+  },
+  {
+   "originLabel": "A6",
+   "playerId": 49,
+   "playerName": "Rudolfs Kamzols",
+   "seed": 6
+  },
+  {
+   "originLabel": "A7",
+   "playerId": 6,
+   "playerName": "Raivis Miglinieks \"The Cobra\"",
+   "seed": 7
+  },
+  {
+   "originLabel": "A8",
+   "playerId": 10,
+   "playerName": "Elvijs Silins",
+   "seed": 8
+  },
+  {
+   "originLabel": "A9",
+   "playerId": 20,
+   "playerName": "Alvis Silins",
+   "seed": 9
+  },
+  {
+   "originLabel": "A10",
+   "playerId": 39,
+   "playerName": "Edzus Kaneps",
+   "seed": 10
+  },
+  {
+   "originLabel": "A11",
+   "playerId": 36,
+   "playerName": "Emils Liepins",
+   "seed": 11
+  },
+  {
+   "originLabel": "A12",
+   "playerId": 42,
+   "playerName": "Janis Mikelis Bitmanis",
+   "seed": 12
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "divisionRank": 1,
+   "name": "LC Division 1",
+   "stageId": 143
+  }
+ ],
+ "tournamentId": 23,
+ "tournamentName": "Latvian Cup 2026/27 #1",
+ "tournamentStages": [
+  {
+   "id": 136,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "LC Groups",
+   "status": "Finished"
+  },
+  {
+   "id": 143,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "LC Division 1",
+   "status": "Finished"
+  },
+  {
+   "id": 144,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "LC Division 2",
+   "status": "Finished"
+  },
+  {
+   "id": 145,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "LC Division 3",
+   "status": "Finished"
+  },
+  {
+   "id": 146,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "LC Division 4",
+   "status": "Finished"
+  },
+  {
+   "id": 154,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-off 1-12",
+   "status": "Finished"
+  },
+  {
+   "id": 155,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-Off Division 2 ",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

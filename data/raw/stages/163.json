@@ -1,0 +1,311 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-21T17:11:00.81615Z",
+ "cycles": 1,
+ "divisionRank": 2,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 163,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "B-sluttspill",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 251,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 7935,
+     "awayPlayerName": "Jonathan Helmersen",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 1232,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 1233,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 786,
+     "homePlayerName": "Jonas Bolstad",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 614,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "Away"
+    },
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 4501,
+     "awayPlayerName": "Alex Lauritsen",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 1234,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 1237,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A6",
+     "homePlayerId": 1532,
+     "homePlayerName": "Ruben Nesse Haland",
+     "homeScore": 2,
+     "homeSeed": 2,
+     "id": 615,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 163
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 252,
+   "matches": [
+    {
+     "awayOrigin": "A6",
+     "awayPlayerId": 1532,
+     "awayPlayerName": "Ruben Nesse Haland",
+     "awayScore": 0,
+     "awaySeed": 2,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 1242,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 1246,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 786,
+     "homePlayerName": "Jonas Bolstad",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 616,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 163
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 254,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 7935,
+     "awayPlayerName": "Jonathan Helmersen",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 1238,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 1239,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 3,
+       "homeScore": 5,
+       "id": 1240,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A7",
+     "homePlayerId": 4501,
+     "homePlayerName": "Alex Lauritsen",
+     "homeScore": 2,
+     "homeSeed": 3,
+     "id": 618,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "Away"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 163
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A5",
+   "playerId": 786,
+   "playerName": "Jonas Bolstad",
+   "seed": 1
+  },
+  {
+   "originLabel": "A6",
+   "playerId": 1532,
+   "playerName": "Ruben Nesse Haland",
+   "seed": 2
+  },
+  {
+   "originLabel": "A7",
+   "playerId": 4501,
+   "playerName": "Alex Lauritsen",
+   "seed": 3
+  },
+  {
+   "originLabel": "A8",
+   "playerId": 7935,
+   "playerName": "Jonathan Helmersen",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Munnspill",
+   "stageId": 161
+  }
+ ],
+ "tournamentId": 30,
+ "tournamentName": "Jærliga 2026/27 #11",
+ "tournamentStages": [
+  {
+   "id": 161,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Munnspill",
+   "status": "Finished"
+  },
+  {
+   "id": 162,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "A-sluttspill",
+   "status": "Finished"
+  },
+  {
+   "id": 163,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "B-sluttspill",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

@@ -1,0 +1,580 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-17T09:16:25.727675Z",
+ "cycles": 1,
+ "divisionRank": 1,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 140,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "AL Play-off 1-8",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 2,
+   "startPlace": 3,
+   "status": "Generated"
+  },
+  {
+   "endPlace": 8,
+   "size": 4,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 5,
+   "status": "Generated"
+  },
+  {
+   "endPlace": 8,
+   "size": 2,
+   "sourceBandStartPlace": 5,
+   "sourceRoundNumber": 1,
+   "startPlace": 7,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 8,
+   "bandSize": 8,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 196,
+   "matches": [
+    {
+     "awayOrigin": "B4",
+     "awayPlayerId": 1501,
+     "awayPlayerName": "Rodrigo Klavins",
+     "awayScore": 0,
+     "awaySeed": 8,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 962,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 861,
+     "homePlayerName": "Olafs Ozolins",
+     "homeScore": 1,
+     "homeSeed": 1,
+     "id": 508,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 1285,
+     "awayPlayerName": "Annija Garanca",
+     "awayScore": 0,
+     "awaySeed": 5,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 963,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "B2",
+     "homePlayerId": 911,
+     "homePlayerName": "Marija Jursina",
+     "homeScore": 1,
+     "homeSeed": 4,
+     "id": 509,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 1492,
+     "awayPlayerName": "Kristaps Rudzitis",
+     "awayScore": 0,
+     "awaySeed": 7,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 964,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "B1",
+     "homePlayerId": 1047,
+     "homePlayerName": "Renars Masulis",
+     "homeScore": 1,
+     "homeSeed": 2,
+     "id": 510,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 2,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "B3",
+     "awayPlayerId": 7856,
+     "awayPlayerName": "Kristaps Skujins",
+     "awayScore": 1,
+     "awaySeed": 6,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 965,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 989,
+     "homePlayerName": "Tina Peipa",
+     "homeScore": 0,
+     "homeSeed": 3,
+     "id": 511,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 3,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 140
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 8,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 197,
+   "matches": [
+    {
+     "awayOrigin": "B2",
+     "awayPlayerId": 911,
+     "awayPlayerName": "Marija Jursina",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 973,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 861,
+     "homePlayerName": "Olafs Ozolins",
+     "homeScore": 1,
+     "homeSeed": 1,
+     "id": 512,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "B3",
+     "awayPlayerId": 7856,
+     "awayPlayerName": "Kristaps Skujins",
+     "awayScore": 0,
+     "awaySeed": 6,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 974,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "B1",
+     "homePlayerId": 1047,
+     "homePlayerName": "Renars Masulis",
+     "homeScore": 1,
+     "homeSeed": 2,
+     "id": 513,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 140
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 8,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 198,
+   "matches": [
+    {
+     "awayOrigin": "B1",
+     "awayPlayerId": 1047,
+     "awayPlayerName": "Renars Masulis",
+     "awayScore": 1,
+     "awaySeed": 2,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 5,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 987,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 861,
+     "homePlayerName": "Olafs Ozolins",
+     "homeScore": 0,
+     "homeSeed": 1,
+     "id": 514,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 3,
+   "stageId": 140
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 211,
+   "matches": [
+    {
+     "awayOrigin": "B3",
+     "awayPlayerId": 7856,
+     "awayPlayerName": "Kristaps Skujins",
+     "awayScore": 1,
+     "awaySeed": 6,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 990,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "B2",
+     "homePlayerId": 911,
+     "homePlayerName": "Marija Jursina",
+     "homeScore": 0,
+     "homeSeed": 4,
+     "id": 538,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 140
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 4,
+   "bandStartPlace": 5,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 205,
+   "matches": [
+    {
+     "awayOrigin": "B4",
+     "awayPlayerId": 1501,
+     "awayPlayerName": "Rodrigo Klavins",
+     "awayScore": 0,
+     "awaySeed": 8,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 975,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 989,
+     "homePlayerName": "Tina Peipa",
+     "homeScore": 1,
+     "homeSeed": 3,
+     "id": 529,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 1492,
+     "awayPlayerName": "Kristaps Rudzitis",
+     "awayScore": 1,
+     "awaySeed": 7,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 976,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      }
+     ],
+     "homeOrigin": "A3",
+     "homePlayerId": 1285,
+     "homePlayerName": "Annija Garanca",
+     "homeScore": 0,
+     "homeSeed": 5,
+     "id": 530,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 140
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 4,
+   "bandStartPlace": 5,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 206,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 1492,
+     "awayPlayerName": "Kristaps Rudzitis",
+     "awayScore": 1,
+     "awaySeed": 7,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 988,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 989,
+     "homePlayerName": "Tina Peipa",
+     "homeScore": 0,
+     "homeSeed": 3,
+     "id": 531,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 140
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 2,
+   "bandStartPlace": 7,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 212,
+   "matches": [
+    {
+     "awayOrigin": "B4",
+     "awayPlayerId": 1501,
+     "awayPlayerName": "Rodrigo Klavins",
+     "awayScore": 0,
+     "awaySeed": 8,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 989,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A3",
+     "homePlayerId": 1285,
+     "homePlayerName": "Annija Garanca",
+     "homeScore": 1,
+     "homeSeed": 5,
+     "id": 539,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 140
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 861,
+   "playerName": "Olafs Ozolins",
+   "seed": 1
+  },
+  {
+   "originLabel": "B1",
+   "playerId": 1047,
+   "playerName": "Renars Masulis",
+   "seed": 2
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 989,
+   "playerName": "Tina Peipa",
+   "seed": 3
+  },
+  {
+   "originLabel": "B2",
+   "playerId": 911,
+   "playerName": "Marija Jursina",
+   "seed": 4
+  },
+  {
+   "originLabel": "A3",
+   "playerId": 1285,
+   "playerName": "Annija Garanca",
+   "seed": 5
+  },
+  {
+   "originLabel": "B3",
+   "playerId": 7856,
+   "playerName": "Kristaps Skujins",
+   "seed": 6
+  },
+  {
+   "originLabel": "A4",
+   "playerId": 1492,
+   "playerName": "Kristaps Rudzitis",
+   "seed": 7
+  },
+  {
+   "originLabel": "B4",
+   "playerId": 1501,
+   "playerName": "Rodrigo Klavins",
+   "seed": 8
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "AL Groups",
+   "stageId": 137
+  }
+ ],
+ "tournamentId": 24,
+ "tournamentName": "Amatieru Līga 2026/27 #1",
+ "tournamentStages": [
+  {
+   "id": 137,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "AL Groups",
+   "status": "Finished"
+  },
+  {
+   "id": 140,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "AL Play-off 1-8",
+   "status": "Finished"
+  },
+  {
+   "id": 141,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "AL Play-off 9-16",
+   "status": "Finished"
+  },
+  {
+   "id": 142,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "AL Play-off 17-23",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

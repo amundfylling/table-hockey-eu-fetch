@@ -1,0 +1,142 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-13T16:46:31.882984Z",
+ "cycles": 1,
+ "divisionRank": 2,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 122,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Kamp om 5. plass",
+ "placementBands": [],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 2,
+   "bandSize": 2,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 162,
+   "matches": [
+    {
+     "awayOrigin": "A6",
+     "awayPlayerId": 1961,
+     "awayPlayerName": "Kanutte Holmin Brunvoll",
+     "awayScore": 3,
+     "awaySeed": 2,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 864,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 867,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 0,
+       "id": 868,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 1924,
+     "homePlayerName": "Laura Revheim",
+     "homeScore": 0,
+     "homeSeed": 1,
+     "id": 380,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 122
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A5",
+   "playerId": 1924,
+   "playerName": "Laura Revheim",
+   "seed": 1
+  },
+  {
+   "originLabel": "A6",
+   "playerId": 1961,
+   "playerName": "Kanutte Holmin Brunvoll",
+   "seed": 2
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Grunnspel",
+   "stageId": 120
+  }
+ ],
+ "tournamentId": 15,
+ "tournamentName": "Bergensliga Autumn 2026 #8",
+ "tournamentStages": [
+  {
+   "id": 120,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grunnspel",
+   "status": "Finished"
+  },
+  {
+   "id": 121,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Sluttspel",
+   "status": "Finished"
+  },
+  {
+   "id": 122,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Kamp om 5. plass",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

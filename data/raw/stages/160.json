@@ -1,0 +1,251 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-20T17:09:39.832431Z",
+ "cycles": 1,
+ "divisionRank": 2,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 160,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Kamp om 5. plass",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Available"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 246,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 2108,
+     "awayPlayerName": "Albin Holmin Brunvoll",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 1215,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 1222,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 952,
+     "homePlayerName": "Oline Holmin Brunvoll",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 607,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 1924,
+     "awayPlayerName": "Laura Revheim",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 1216,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 1221,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A6",
+     "homePlayerId": 1764,
+     "homePlayerName": "Tomas Hoven Skauge",
+     "homeScore": 2,
+     "homeSeed": 2,
+     "id": 608,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 160
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 247,
+   "matches": [
+    {
+     "awayOrigin": "A6",
+     "awayPlayerId": 1764,
+     "awayPlayerName": "Tomas Hoven Skauge",
+     "awayScore": 0,
+     "awaySeed": 2,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 1225,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 7,
+       "id": 1226,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 952,
+     "homePlayerName": "Oline Holmin Brunvoll",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 609,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 160
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A5",
+   "playerId": 952,
+   "playerName": "Oline Holmin Brunvoll",
+   "seed": 1
+  },
+  {
+   "originLabel": "A6",
+   "playerId": 1764,
+   "playerName": "Tomas Hoven Skauge",
+   "seed": 2
+  },
+  {
+   "originLabel": "A7",
+   "playerId": 1924,
+   "playerName": "Laura Revheim",
+   "seed": 3
+  },
+  {
+   "originLabel": "A8",
+   "playerId": 2108,
+   "playerName": "Albin Holmin Brunvoll",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Grunnspel",
+   "stageId": 158
+  }
+ ],
+ "tournamentId": 29,
+ "tournamentName": "Bergensliga Autumn #9",
+ "tournamentStages": [
+  {
+   "id": 158,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grunnspel",
+   "status": "Finished"
+  },
+  {
+   "id": 159,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Sluttspel",
+   "status": "Finished"
+  },
+  {
+   "id": 160,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Kamp om 5. plass",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

@@ -1,0 +1,391 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-07T16:29:34.766495Z",
+ "cycles": 1,
+ "divisionRank": 1,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 81,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Play-Off 1-4",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 113,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 342,
+     "awayPlayerName": "Edgars Garancs",
+     "awayScore": 1,
+     "awaySeed": 4,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 7,
+       "id": 595,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 596,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 597,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 4,
+       "homeScore": 3,
+       "id": 598,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 163,
+     "homePlayerName": "Maris Kirsis",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 251,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 77,
+     "awayPlayerName": "Sandis Kalnins",
+     "awayScore": 3,
+     "awaySeed": 3,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 599,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 600,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 601,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 4,
+       "homeScore": 1,
+       "id": 602,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 181,
+     "homePlayerName": "Rainers Martuzans",
+     "homeScore": 1,
+     "homeSeed": 2,
+     "id": 252,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 81
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 114,
+   "matches": [
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 77,
+     "awayPlayerName": "Sandis Kalnins",
+     "awayScore": 3,
+     "awaySeed": 3,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 603,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 604,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 605,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 163,
+     "homePlayerName": "Maris Kirsis",
+     "homeScore": 0,
+     "homeSeed": 1,
+     "id": 253,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 81
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 115,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 342,
+     "awayPlayerName": "Edgars Garancs",
+     "awayScore": 3,
+     "awaySeed": 4,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 5,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 606,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 2,
+       "homeScore": 0,
+       "id": 607,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 3,
+       "homeScore": 0,
+       "id": 608,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 181,
+     "homePlayerName": "Rainers Martuzans",
+     "homeScore": 0,
+     "homeSeed": 2,
+     "id": 254,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "Home"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 81
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 163,
+   "playerName": "Maris Kirsis",
+   "seed": 1
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 181,
+   "playerName": "Rainers Martuzans",
+   "seed": 2
+  },
+  {
+   "originLabel": "A3",
+   "playerId": 77,
+   "playerName": "Sandis Kalnins",
+   "seed": 3
+  },
+  {
+   "originLabel": "A4",
+   "playerId": 342,
+   "playerName": "Edgars Garancs",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Apļa turnīrs",
+   "stageId": 80
+  }
+ ],
+ "tournamentId": 13,
+ "tournamentName": "Incukalns League 2026/27 #1",
+ "tournamentStages": [
+  {
+   "id": 80,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Apļa turnīrs",
+   "status": "Finished"
+  },
+  {
+   "id": 81,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-Off 1-4",
+   "status": "Finished"
+  },
+  {
+   "id": 82,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-off 5-8",
+   "status": "Finished"
+  },
+  {
+   "id": 83,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-Off 9-12",
+   "status": "Finished"
+  },
+  {
+   "id": 84,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-Off 13-16",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

@@ -1,0 +1,379 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-13T16:45:46.071453Z",
+ "cycles": 1,
+ "divisionRank": 1,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 121,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Sluttspel",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 160,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 1764,
+     "awayPlayerName": "Tomas Hoven Skauge",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 862,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 6,
+       "id": 865,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 7,
+       "id": 869,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 70,
+     "homePlayerName": "Daniel Nygard",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 377,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 153,
+     "awayPlayerName": "Arne Johannes Holmin",
+     "awayScore": 3,
+     "awaySeed": 3,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 863,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 866,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 0,
+       "id": 870,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 952,
+     "homePlayerName": "Oline Holmin Brunvoll",
+     "homeScore": 0,
+     "homeSeed": 2,
+     "id": 378,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 121
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 7,
+   "gamesToWin": 4,
+   "id": 161,
+   "matches": [
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 153,
+     "awayPlayerName": "Arne Johannes Holmin",
+     "awayScore": 4,
+     "awaySeed": 3,
+     "clinchedAt": 6,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 871,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 873,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 875,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 4,
+       "homeScore": 6,
+       "id": 876,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 5,
+       "homeScore": 3,
+       "id": 877,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 6,
+       "homeScore": 4,
+       "id": 878,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 7,
+       "homeScore": 2,
+       "id": 879,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 70,
+     "homePlayerName": "Daniel Nygard",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 379,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 2,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 121
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 163,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 1764,
+     "awayPlayerName": "Tomas Hoven Skauge",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 872,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 6,
+       "id": 874,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 952,
+     "homePlayerName": "Oline Holmin Brunvoll",
+     "homeScore": 2,
+     "homeSeed": 2,
+     "id": 381,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 121
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 70,
+   "playerName": "Daniel Nygard",
+   "seed": 1
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 952,
+   "playerName": "Oline Holmin Brunvoll",
+   "seed": 2
+  },
+  {
+   "originLabel": "A3",
+   "playerId": 153,
+   "playerName": "Arne Johannes Holmin",
+   "seed": 3
+  },
+  {
+   "originLabel": "A4",
+   "playerId": 1764,
+   "playerName": "Tomas Hoven Skauge",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Grunnspel",
+   "stageId": 120
+  }
+ ],
+ "tournamentId": 15,
+ "tournamentName": "Bergensliga Autumn 2026 #8",
+ "tournamentStages": [
+  {
+   "id": 120,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grunnspel",
+   "status": "Finished"
+  },
+  {
+   "id": 121,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Sluttspel",
+   "status": "Finished"
+  },
+  {
+   "id": 122,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Kamp om 5. plass",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

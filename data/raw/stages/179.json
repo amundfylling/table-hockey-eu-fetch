@@ -1,0 +1,1004 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-23T15:09:30.910781Z",
+ "cycles": 1,
+ "divisionRank": 1,
+ "field": {
+  "autoLockPaused": false,
+  "canUnlock": false,
+  "carryForwardResults": false,
+  "isSatisfied": true,
+  "rule": [
+   {
+    "groups": [],
+    "isRoster": false,
+    "placeFrom": 1,
+    "placeTo": 8,
+    "playerIds": [],
+    "stageId": 178,
+    "stageName": "apļa turnīrs"
+   }
+  ],
+  "slots": [],
+  "source": "Stage",
+  "status": "Locked",
+  "waiting": [
+   {
+    "clinchedCount": 0,
+    "groupName": "Apļa turnīrs",
+    "hasUnresolvedTie": false,
+    "isComplete": true,
+    "isDrawn": true,
+    "isFinalPlaces": false,
+    "played": 91,
+    "stageId": 178,
+    "stageName": "apļa turnīrs",
+    "total": 91
+   }
+  ]
+ },
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 179,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "playoff",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 2,
+   "startPlace": 3,
+   "status": "Generated"
+  },
+  {
+   "endPlace": 8,
+   "size": 4,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 5,
+   "status": "Generated"
+  },
+  {
+   "endPlace": 8,
+   "size": 2,
+   "sourceBandStartPlace": 5,
+   "sourceRoundNumber": 1,
+   "startPlace": 7,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 8,
+   "bandSize": 8,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 255,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 688,
+     "awayPlayerName": "Braiens Peips",
+     "awayScore": 1,
+     "awaySeed": 8,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 1251,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 1,
+       "id": 1252,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 1256,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 4,
+       "homeScore": 3,
+       "id": 1260,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 138,
+     "homePlayerName": "Danilo Baumanis",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 619,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A5",
+     "awayPlayerId": 350,
+     "awayPlayerName": "Fredijs Platons",
+     "awayScore": 3,
+     "awaySeed": 5,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 1250,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 1,
+       "id": 1253,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 1257,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 4,
+       "homeScore": 1,
+       "id": 1261,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A4",
+     "homePlayerId": 307,
+     "homePlayerName": "Uve Vikmanis",
+     "homeScore": 1,
+     "homeSeed": 4,
+     "id": 620,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 7856,
+     "awayPlayerName": "Kristaps Skujins",
+     "awayScore": 0,
+     "awaySeed": 7,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 6,
+       "id": 1249,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 1254,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 5,
+       "id": 1258,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 405,
+     "homePlayerName": "Nauris Krumins",
+     "homeScore": 3,
+     "homeSeed": 2,
+     "id": 621,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 2,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A6",
+     "awayPlayerId": 747,
+     "awayPlayerName": "Krisjanis Simanis",
+     "awayScore": 0,
+     "awaySeed": 6,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 1248,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 1255,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 1259,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A3",
+     "homePlayerId": 95,
+     "homePlayerName": "Sandis Krasts",
+     "homeScore": 3,
+     "homeSeed": 3,
+     "id": 622,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 3,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 179
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 8,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 256,
+   "matches": [
+    {
+     "awayOrigin": "A5",
+     "awayPlayerId": 350,
+     "awayPlayerName": "Fredijs Platons",
+     "awayScore": 2,
+     "awaySeed": 5,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 1263,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 1,
+       "id": 1268,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 1272,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 4,
+       "homeScore": 2,
+       "id": 1278,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 5,
+       "homeScore": 4,
+       "id": 1280,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 138,
+     "homePlayerName": "Danilo Baumanis",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 623,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 95,
+     "awayPlayerName": "Sandis Krasts",
+     "awayScore": 2,
+     "awaySeed": 3,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 1262,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 1267,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 1271,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 4,
+       "homeScore": 2,
+       "id": 1275,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 5,
+       "homeScore": 2,
+       "id": 1279,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 405,
+     "homePlayerName": "Nauris Krumins",
+     "homeScore": 3,
+     "homeSeed": 2,
+     "id": 624,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 179
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 8,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 257,
+   "matches": [
+    {
+     "awayOrigin": "A2",
+     "awayPlayerId": 405,
+     "awayPlayerName": "Nauris Krumins",
+     "awayScore": 0,
+     "awaySeed": 2,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 6,
+       "id": 1285,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 1287,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 1293,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 138,
+     "homePlayerName": "Danilo Baumanis",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 625,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 3,
+   "stageId": 179
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 260,
+   "matches": [
+    {
+     "awayOrigin": "A5",
+     "awayPlayerId": 350,
+     "awayPlayerName": "Fredijs Platons",
+     "awayScore": 3,
+     "awaySeed": 5,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 1282,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 0,
+       "id": 1286,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 0,
+       "id": 1290,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 4,
+       "homeScore": 0,
+       "id": 1294,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A3",
+     "homePlayerId": 95,
+     "homePlayerName": "Sandis Krasts",
+     "homeScore": 1,
+     "homeSeed": 3,
+     "id": 629,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 179
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 4,
+   "bandStartPlace": 5,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 258,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 688,
+     "awayPlayerName": "Braiens Peips",
+     "awayScore": 1,
+     "awaySeed": 8,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 1265,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 1269,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 6,
+       "id": 1273,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 4,
+       "homeScore": 5,
+       "id": 1276,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A4",
+     "homePlayerId": 307,
+     "homePlayerName": "Uve Vikmanis",
+     "homeScore": 3,
+     "homeSeed": 4,
+     "id": 626,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 7856,
+     "awayPlayerName": "Kristaps Skujins",
+     "awayScore": 1,
+     "awaySeed": 7,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 1264,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 1270,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 1274,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 4,
+       "homeScore": 4,
+       "id": 1277,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A6",
+     "homePlayerId": 747,
+     "homePlayerName": "Krisjanis Simanis",
+     "homeScore": 3,
+     "homeSeed": 6,
+     "id": 627,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 179
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 4,
+   "bandStartPlace": 5,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 259,
+   "matches": [
+    {
+     "awayOrigin": "A6",
+     "awayPlayerId": 747,
+     "awayPlayerName": "Krisjanis Simanis",
+     "awayScore": 0,
+     "awaySeed": 6,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 1283,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 1289,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 1291,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A4",
+     "homePlayerId": 307,
+     "homePlayerName": "Uve Vikmanis",
+     "homeScore": 3,
+     "homeSeed": 4,
+     "id": 628,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 179
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 2,
+   "bandStartPlace": 7,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 261,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 688,
+     "awayPlayerName": "Braiens Peips",
+     "awayScore": 3,
+     "awaySeed": 8,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 1281,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 1284,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 1288,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 4,
+       "homeScore": 3,
+       "id": 1292,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A7",
+     "homePlayerId": 7856,
+     "homePlayerName": "Kristaps Skujins",
+     "homeScore": 1,
+     "homeSeed": 7,
+     "id": 630,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 179
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 138,
+   "playerName": "Danilo Baumanis",
+   "seed": 1
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 405,
+   "playerName": "Nauris Krumins",
+   "seed": 2
+  },
+  {
+   "originLabel": "A3",
+   "playerId": 95,
+   "playerName": "Sandis Krasts",
+   "seed": 3
+  },
+  {
+   "originLabel": "A4",
+   "playerId": 307,
+   "playerName": "Uve Vikmanis",
+   "seed": 4
+  },
+  {
+   "originLabel": "A5",
+   "playerId": 350,
+   "playerName": "Fredijs Platons",
+   "seed": 5
+  },
+  {
+   "originLabel": "A6",
+   "playerId": 747,
+   "playerName": "Krisjanis Simanis",
+   "seed": 6
+  },
+  {
+   "originLabel": "A7",
+   "playerId": 7856,
+   "playerName": "Kristaps Skujins",
+   "seed": 7
+  },
+  {
+   "originLabel": "A8",
+   "playerId": 688,
+   "playerName": "Braiens Peips",
+   "seed": 8
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "apļa turnīrs",
+   "stageId": 178
+  }
+ ],
+ "tournamentId": 28,
+ "tournamentName": "Valmiera Cup 2026 #5",
+ "tournamentStages": [
+  {
+   "id": 178,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "apļa turnīrs",
+   "status": "Finished"
+  },
+  {
+   "id": 179,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "playoff",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

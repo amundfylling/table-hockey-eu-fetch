@@ -1,0 +1,341 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-09-26T13:16:40.178405Z",
+ "cycles": 1,
+ "divisionRank": 2,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 24,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": true,
+ "isTournamentFinished": true,
+ "name": "Play-off DIVISION 2",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Available"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 28,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 640,
+     "awayPlayerName": "Gatis Golonovs",
+     "awayScore": 3,
+     "awaySeed": 4,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 132,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 133,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 134,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 268,
+     "homePlayerName": "Kaspars Vilums",
+     "homeScore": 0,
+     "homeSeed": 1,
+     "id": 41,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 208,
+     "awayPlayerName": "Aigars Romals",
+     "awayScore": 3,
+     "awaySeed": 3,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 135,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 2,
+       "homeScore": 1,
+       "id": 136,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 137,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 4,
+       "homeScore": 4,
+       "id": 138,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 260,
+     "homePlayerName": "Kristaps Zarinieks",
+     "homeScore": 1,
+     "homeSeed": 2,
+     "id": 42,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 24
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 29,
+   "matches": [
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 208,
+     "awayPlayerName": "Aigars Romals",
+     "awayScore": 3,
+     "awaySeed": 3,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 6,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 139,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 140,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 141,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 6,
+       "gameNumber": 4,
+       "homeScore": 3,
+       "id": 150,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 5,
+       "homeScore": 0,
+       "id": 155,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A4",
+     "homePlayerId": 640,
+     "homePlayerName": "Gatis Golonovs",
+     "homeScore": 2,
+     "homeSeed": 4,
+     "id": 43,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 24
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 268,
+   "playerName": "Kaspars Vilums",
+   "seed": 1
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 260,
+   "playerName": "Kristaps Zarinieks",
+   "seed": 2
+  },
+  {
+   "originLabel": "A3",
+   "playerId": 208,
+   "playerName": "Aigars Romals",
+   "seed": 3
+  },
+  {
+   "originLabel": "A4",
+   "playerId": 640,
+   "playerName": "Gatis Golonovs",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "divisionRank": 2,
+   "name": "Division 2",
+   "stageId": 21
+  }
+ ],
+ "tournamentId": 1,
+ "tournamentName": "Incukalns THC Challenge 2026",
+ "tournamentStages": [
+  {
+   "id": 17,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Groups",
+   "status": "Finished"
+  },
+  {
+   "id": 18,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Final Division A",
+   "status": "Finished"
+  },
+  {
+   "id": 19,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Final Division B",
+   "status": "Finished"
+  },
+  {
+   "id": 21,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Division 2",
+   "status": "Finished"
+  },
+  {
+   "id": 22,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Division 3",
+   "status": "Finished"
+  },
+  {
+   "id": 23,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-off FINAL DIVISION",
+   "status": "Finished"
+  },
+  {
+   "id": 24,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-off DIVISION 2",
+   "status": "Finished"
+  },
+  {
+   "id": 25,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-off DIVISION 3",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

@@ -1,0 +1,180 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-16T17:19:08.118869Z",
+ "cycles": 1,
+ "divisionRank": 2,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 135,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Kamp om 5. plass",
+ "placementBands": [],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 3,
+   "bandSize": 3,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 193,
+   "matches": [
+    {
+     "clinchedAt": -1,
+     "games": [
+      {
+       "gameNumber": 1,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 1924,
+     "homePlayerName": "Laura Revheim",
+     "homeSeed": 1,
+     "id": 504,
+     "isBye": true,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 2299,
+     "awayPlayerName": "Isla Tufteland",
+     "awayScore": 1,
+     "awaySeed": 3,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 921,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A6",
+     "homePlayerId": 1961,
+     "homePlayerName": "Kanutte Holmin Brunvoll",
+     "homeScore": 0,
+     "homeSeed": 2,
+     "id": 505,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 135
+  },
+  {
+   "bandEndPlace": 3,
+   "bandSize": 3,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 194,
+   "matches": [
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 2299,
+     "awayPlayerName": "Isla Tufteland",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 926,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 1924,
+     "homePlayerName": "Laura Revheim",
+     "homeScore": 1,
+     "homeSeed": 1,
+     "id": 506,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 135
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A5",
+   "playerId": 1924,
+   "playerName": "Laura Revheim",
+   "seed": 1
+  },
+  {
+   "originLabel": "A6",
+   "playerId": 1961,
+   "playerName": "Kanutte Holmin Brunvoll",
+   "seed": 2
+  },
+  {
+   "originLabel": "A7",
+   "playerId": 2299,
+   "playerName": "Isla Tufteland",
+   "seed": 3
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Grunnspel",
+   "stageId": 131
+  }
+ ],
+ "tournamentId": 25,
+ "tournamentName": "Krohnengen Open 2026 U15",
+ "tournamentStages": [
+  {
+   "id": 131,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grunnspel",
+   "status": "Finished"
+  },
+  {
+   "id": 134,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Sluttspel",
+   "status": "Finished"
+  },
+  {
+   "id": 135,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Kamp om 5. plass",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

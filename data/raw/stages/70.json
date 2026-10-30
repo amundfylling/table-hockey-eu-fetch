@@ -1,0 +1,878 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-04T11:20:29.12728Z",
+ "cycles": 1,
+ "divisionRank": 1,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 70,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Pro - playoff",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 2,
+   "startPlace": 3,
+   "status": "Generated"
+  },
+  {
+   "endPlace": 8,
+   "size": 4,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 5,
+   "status": "Generated"
+  },
+  {
+   "endPlace": 8,
+   "size": 2,
+   "sourceBandStartPlace": 5,
+   "sourceRoundNumber": 1,
+   "startPlace": 7,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 8,
+   "bandSize": 8,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 99,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 54,
+     "awayPlayerName": "Mikus Saulitis",
+     "awayScore": 0,
+     "awaySeed": 8,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 6,
+       "id": 525,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 526,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 6,
+     "homePlayerName": "Raivis Miglinieks \"The Cobra\"",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 227,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A5",
+     "awayPlayerId": 268,
+     "awayPlayerName": "Kaspars Vilums",
+     "awayScore": 1,
+     "awaySeed": 5,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 527,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 0,
+       "id": 528,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 541,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A4",
+     "homePlayerId": 394,
+     "homePlayerName": "Alans Liepins",
+     "homeScore": 2,
+     "homeSeed": 4,
+     "id": 228,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 1,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 752,
+     "awayPlayerName": "Edvards Jansons",
+     "awayScore": 0,
+     "awaySeed": 7,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 529,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 530,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 463,
+     "homePlayerName": "Andris Kovalcuks",
+     "homeScore": 2,
+     "homeSeed": 2,
+     "id": 229,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 2,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A6",
+     "awayPlayerId": 337,
+     "awayPlayerName": "Georgs Jansons",
+     "awayScore": 1,
+     "awaySeed": 6,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 531,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 532,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 542,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A3",
+     "homePlayerId": 342,
+     "homePlayerName": "Edgars Garancs",
+     "homeScore": 2,
+     "homeSeed": 3,
+     "id": 230,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 3,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 70
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 8,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 100,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 394,
+     "awayPlayerName": "Alans Liepins",
+     "awayScore": 1,
+     "awaySeed": 4,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 543,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 544,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 6,
+       "id": 545,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 4,
+       "homeScore": 6,
+       "id": 546,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 6,
+     "homePlayerName": "Raivis Miglinieks \"The Cobra\"",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 231,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 342,
+     "awayPlayerName": "Edgars Garancs",
+     "awayScore": 3,
+     "awaySeed": 3,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 547,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 548,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 549,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 7,
+       "gameNumber": 4,
+       "homeScore": 2,
+       "id": 550,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 5,
+       "homeScore": 0,
+       "id": 551,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 463,
+     "homePlayerName": "Andris Kovalcuks",
+     "homeScore": 2,
+     "homeSeed": 2,
+     "id": 232,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 70
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 8,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 101,
+   "matches": [
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 342,
+     "awayPlayerName": "Edgars Garancs",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 9,
+       "id": 552,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 553,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 554,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 6,
+     "homePlayerName": "Raivis Miglinieks \"The Cobra\"",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 233,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 3,
+   "stageId": 70
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 109,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 394,
+     "awayPlayerName": "Alans Liepins",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 555,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 556,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 557,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 463,
+     "homePlayerName": "Andris Kovalcuks",
+     "homeScore": 3,
+     "homeSeed": 2,
+     "id": 247,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 70
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 4,
+   "bandStartPlace": 5,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 107,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 54,
+     "awayPlayerName": "Mikus Saulitis",
+     "awayScore": 0,
+     "awaySeed": 8,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 558,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 559,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 268,
+     "homePlayerName": "Kaspars Vilums",
+     "homeScore": 2,
+     "homeSeed": 5,
+     "id": 244,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 752,
+     "awayPlayerName": "Edvards Jansons",
+     "awayScore": 1,
+     "awaySeed": 7,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 560,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 561,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 3,
+       "homeScore": 6,
+       "id": 562,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A6",
+     "homePlayerId": 337,
+     "homePlayerName": "Georgs Jansons",
+     "homeScore": 2,
+     "homeSeed": 6,
+     "id": 245,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 70
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 4,
+   "bandStartPlace": 5,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 108,
+   "matches": [
+    {
+     "awayOrigin": "A6",
+     "awayPlayerId": 337,
+     "awayPlayerName": "Georgs Jansons",
+     "awayScore": 0,
+     "awaySeed": 6,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 563,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 564,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 565,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 268,
+     "homePlayerName": "Kaspars Vilums",
+     "homeScore": 3,
+     "homeSeed": 5,
+     "id": 246,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 70
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 2,
+   "bandStartPlace": 7,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 110,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 54,
+     "awayPlayerName": "Mikus Saulitis",
+     "awayScore": 0,
+     "awaySeed": 8,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 566,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 567,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A7",
+     "homePlayerId": 752,
+     "homePlayerName": "Edvards Jansons",
+     "homeScore": 2,
+     "homeSeed": 7,
+     "id": 248,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 70
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 6,
+   "playerName": "Raivis Miglinieks \"The Cobra\"",
+   "seed": 1
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 463,
+   "playerName": "Andris Kovalcuks",
+   "seed": 2
+  },
+  {
+   "originLabel": "A3",
+   "playerId": 342,
+   "playerName": "Edgars Garancs",
+   "seed": 3
+  },
+  {
+   "originLabel": "A4",
+   "playerId": 394,
+   "playerName": "Alans Liepins",
+   "seed": 4
+  },
+  {
+   "originLabel": "A5",
+   "playerId": 268,
+   "playerName": "Kaspars Vilums",
+   "seed": 5
+  },
+  {
+   "originLabel": "A6",
+   "playerId": 337,
+   "playerName": "Georgs Jansons",
+   "seed": 6
+  },
+  {
+   "originLabel": "A7",
+   "playerId": 752,
+   "playerName": "Edvards Jansons",
+   "seed": 7
+  },
+  {
+   "originLabel": "A8",
+   "playerId": 54,
+   "playerName": "Mikus Saulitis",
+   "seed": 8
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Pro - kvalifikācija",
+   "stageId": 65
+  }
+ ],
+ "tournamentId": 10,
+ "tournamentName": "Ādažu līga 2026/27 - #2",
+ "tournamentStages": [
+  {
+   "id": 65,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Pro - kvalifikācija",
+   "status": "Finished"
+  },
+  {
+   "id": 69,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Amatieri - kvalifikācija",
+   "status": "Finished"
+  },
+  {
+   "id": 70,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Pro - playoff",
+   "status": "Finished"
+  },
+  {
+   "id": 71,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Amatieri - play-off",
+   "status": "Finished"
+  },
+  {
+   "id": 72,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Pro - par 9.vietu",
+   "status": "Finished"
+  },
+  {
+   "id": 73,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Amatieri - par 9.vietu",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}
