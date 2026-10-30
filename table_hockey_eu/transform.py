@@ -3,7 +3,8 @@ Turn cached API responses into rows with the bordshockey results schema.
 
 One row per round-robin match and one per playoff game. Skipped: carried-forward
 round-robin matches (copies of earlier-stage results), byes, unplayed matches or
-games, and walkovers.
+games, and walkovers. Skips are counted per round-robin match, per playoff series
+for byes and walkovers, and per playoff game for unplayed games.
 """
 
 from __future__ import annotations
@@ -176,10 +177,10 @@ def tournament_rows(
                 for series in playoff_round.get("matches") or []:
                     games = series.get("games") or []
                     if _is_bye(series):
-                        skipped["bye"] += max(len(games), 1)
+                        skipped["bye"] += 1
                         continue
                     if _walkover(series.get("walkover")):
-                        skipped["walkover"] += max(len(games), 1)
+                        skipped["walkover"] += 1
                         continue
                     for game in games:
                         if game.get("homeScore") is None or game.get("awayScore") is None:

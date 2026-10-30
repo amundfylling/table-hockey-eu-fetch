@@ -11,6 +11,8 @@ import argparse
 import logging
 import os
 
+import pandas as pd
+
 from .api import ApiClient
 from .cache import RAW_DIR, RawCache, crawl, finished_tournaments
 from .players import PLAYERS_CSV_URL, PlayerMapper, load_ranking_map
@@ -44,8 +46,12 @@ def main(argv: list[str] | None = None) -> int:
     tournaments = finished_tournaments(cache)
     frame, skipped = transform(tournaments, mapper)
 
-    os.makedirs(os.path.dirname(args.output) or ".", exist_ok=True)
-    frame.to_parquet(args.output, index=False, compression="zstd")
+    # Leave an unchanged file alone, so a new pyarrow version alone never makes a commit.
+    if os.path.exists(args.output) and pd.read_parquet(args.output).equals(frame):
+        log.info("%s unchanged", args.output)
+    else:
+        os.makedirs(os.path.dirname(args.output) or ".", exist_ok=True)
+        frame.to_parquet(args.output, index=False, compression="zstd")
 
     print(f"\nWrote {len(frame)} rows from {frame['TournamentID'].nunique()} tournaments to {args.output}")
     print("\nRows per tournament:")

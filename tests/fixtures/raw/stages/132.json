@@ -1,0 +1,168 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-16T16:43:16.733597Z",
+ "cycles": 1,
+ "divisionRank": 1,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 132,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Sluttspel",
+ "placementBands": [],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 3,
+   "bandSize": 3,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 179,
+   "matches": [
+    {
+     "clinchedAt": -1,
+     "games": [
+      {
+       "gameNumber": 1,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 2108,
+     "homePlayerName": "Albin Holmin Brunvoll",
+     "homeSeed": 1,
+     "id": 436,
+     "isBye": true,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 7929,
+     "awayPlayerName": "Tobias Henriksen",
+     "awayScore": 1,
+     "awaySeed": 3,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 919,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 7928,
+     "homePlayerName": "Lionel",
+     "homeScore": 0,
+     "homeSeed": 2,
+     "id": 437,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 132
+  },
+  {
+   "bandEndPlace": 3,
+   "bandSize": 3,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 180,
+   "matches": [
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 7929,
+     "awayPlayerName": "Tobias Henriksen",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 920,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 2108,
+     "homePlayerName": "Albin Holmin Brunvoll",
+     "homeScore": 1,
+     "homeSeed": 1,
+     "id": 438,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 132
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "",
+   "playerId": 2108,
+   "playerName": "Albin Holmin Brunvoll",
+   "seed": 1
+  },
+  {
+   "originLabel": "",
+   "playerId": 7928,
+   "playerName": "Lionel",
+   "seed": 2
+  },
+  {
+   "originLabel": "",
+   "playerId": 7929,
+   "playerName": "Tobias Henriksen",
+   "seed": 3
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [],
+ "tournamentId": 26,
+ "tournamentName": "Krohnengen Open 2026 U8",
+ "tournamentStages": [
+  {
+   "id": 130,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grunnspel",
+   "status": "Finished"
+  },
+  {
+   "id": 132,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Sluttspel",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

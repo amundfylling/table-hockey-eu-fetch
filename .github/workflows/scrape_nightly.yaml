@@ -5,9 +5,6 @@ on:
     # 03:30 UTC every night
     - cron: '30 3 * * *'
   workflow_dispatch: # Allow manual trigger
-  push: # TEMPORARY: bootstrap crawl from the PR branch
-    branches: [claude/project-thread-zpf6mk]
-    paths: [table_hockey_eu/**, .github/workflows/scrape_nightly.yaml]
 
 permissions:
   contents: write

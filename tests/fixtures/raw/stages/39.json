@@ -1,0 +1,155 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-09-30T17:32:40.727983Z",
+ "cycles": 1,
+ "divisionRank": 2,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 39,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "B-sluttspill",
+ "placementBands": [],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 2,
+   "bandSize": 2,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 46,
+   "matches": [
+    {
+     "awayOrigin": "A2",
+     "awayPlayerId": 1532,
+     "awayPlayerName": "Ruben Nesse Haland",
+     "awayScore": 0,
+     "awaySeed": 2,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 212,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 215,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 786,
+     "homePlayerName": "Jonas Bolstad",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 71,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 39
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 786,
+   "playerName": "Jonas Bolstad",
+   "seed": 1
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 1532,
+   "playerName": "Ruben Nesse Haland",
+   "seed": 2
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "divisionRank": 2,
+   "name": "B-mellomspill",
+   "stageId": 37
+  }
+ ],
+ "tournamentId": 3,
+ "tournamentName": "Jærliga 2026/27 #8",
+ "tournamentStages": [
+  {
+   "id": 32,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grunnspill",
+   "status": "Finished"
+  },
+  {
+   "id": 36,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Mellomspill",
+   "status": "Finished"
+  },
+  {
+   "id": 37,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "B-mellomspill",
+   "status": "Finished"
+  },
+  {
+   "id": 38,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Sluttspill",
+   "status": "Finished"
+  },
+  {
+   "id": 39,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "B-sluttspill",
+   "status": "Finished"
+  },
+  {
+   "id": 40,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Kamp om 5. plass",
+   "status": "Finished"
+  },
+  {
+   "id": 41,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "C-plasseringsspill",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

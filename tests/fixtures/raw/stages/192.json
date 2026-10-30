@@ -1,0 +1,298 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-28T15:13:42.987442Z",
+ "cycles": 1,
+ "divisionRank": 2,
+ "field": {
+  "autoLockPaused": false,
+  "canUnlock": false,
+  "carryForwardResults": false,
+  "isSatisfied": true,
+  "rule": [
+   {
+    "groups": [],
+    "isRoster": false,
+    "placeFrom": 5,
+    "placeTo": 8,
+    "playerIds": [],
+    "stageId": 190,
+    "stageName": "Munnspill"
+   }
+  ],
+  "slots": [],
+  "source": "Stage",
+  "status": "Locked",
+  "waiting": [
+   {
+    "clinchedCount": 0,
+    "hasUnresolvedTie": false,
+    "isComplete": true,
+    "isDrawn": true,
+    "isFinalPlaces": false,
+    "played": 45,
+    "stageId": 190,
+    "stageName": "Munnspill",
+    "total": 45
+   }
+  ]
+ },
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 192,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "B-Sluttspill",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Available"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 280,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 4501,
+     "awayPlayerName": "Alex Lauritsen",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 1326,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 1329,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 81,
+     "homePlayerName": "Amund Risa Fylling",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 659,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 1589,
+     "awayPlayerName": "Sille Moberg",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 1328,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 1332,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A6",
+     "homePlayerId": 1532,
+     "homePlayerName": "Ruben Nesse Haland",
+     "homeScore": 2,
+     "homeSeed": 2,
+     "id": 660,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 192
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 281,
+   "matches": [
+    {
+     "awayOrigin": "A6",
+     "awayPlayerId": 1532,
+     "awayPlayerName": "Ruben Nesse Haland",
+     "awayScore": 0,
+     "awaySeed": 2,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 1334,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 1339,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 81,
+     "homePlayerName": "Amund Risa Fylling",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 661,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 192
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A5",
+   "playerId": 81,
+   "playerName": "Amund Risa Fylling",
+   "seed": 1
+  },
+  {
+   "originLabel": "A6",
+   "playerId": 1532,
+   "playerName": "Ruben Nesse Haland",
+   "seed": 2
+  },
+  {
+   "originLabel": "A7",
+   "playerId": 1589,
+   "playerName": "Sille Moberg",
+   "seed": 3
+  },
+  {
+   "originLabel": "A8",
+   "playerId": 4501,
+   "playerName": "Alex Lauritsen",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Munnspill",
+   "stageId": 190
+  }
+ ],
+ "tournamentId": 33,
+ "tournamentName": "Jærliga 2026/27 #12",
+ "tournamentStages": [
+  {
+   "id": 190,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Munnspill",
+   "status": "Finished"
+  },
+  {
+   "id": 191,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "A-Sluttspill",
+   "status": "Finished"
+  },
+  {
+   "id": 192,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "B-Sluttspill",
+   "status": "Finished"
+  },
+  {
+   "id": 193,
+   "isAwaitingField": false,
+   "isForFun": true,
+   "name": "Kamp om 8. Plass",
+   "status": "Finished"
+  },
+  {
+   "id": 195,
+   "isAwaitingField": false,
+   "isForFun": true,
+   "name": "Omkamp om 3 plass",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}
