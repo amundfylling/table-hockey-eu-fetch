@@ -1,0 +1,293 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-27T18:26:31.034579Z",
+ "cycles": 1,
+ "divisionRank": 2,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 184,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Kamp om 5. plass",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 268,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 1924,
+     "awayPlayerName": "Laura Revheim",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 10,
+       "id": 1312,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 1316,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 1764,
+     "homePlayerName": "Tomas Hoven Skauge",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 642,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 1320,
+     "awayPlayerName": "Hakon Hugdahl Larsen",
+     "awayScore": 2,
+     "awaySeed": 3,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 1313,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 1,
+       "id": 1317,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A6",
+     "homePlayerId": 1865,
+     "homePlayerName": "Magnus Heradstveit",
+     "homeScore": 0,
+     "homeSeed": 2,
+     "id": 643,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 184
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 269,
+   "matches": [
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 1320,
+     "awayPlayerName": "Hakon Hugdahl Larsen",
+     "awayScore": 2,
+     "awaySeed": 3,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 1321,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 1,
+       "id": 1322,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 1764,
+     "homePlayerName": "Tomas Hoven Skauge",
+     "homeScore": 0,
+     "homeSeed": 1,
+     "id": 644,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 184
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 270,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 1924,
+     "awayPlayerName": "Laura Revheim",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 1320,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A6",
+     "homePlayerId": 1865,
+     "homePlayerName": "Magnus Heradstveit",
+     "homeScore": 1,
+     "homeSeed": 2,
+     "id": 645,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 184
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A5",
+   "playerId": 1764,
+   "playerName": "Tomas Hoven Skauge",
+   "seed": 1
+  },
+  {
+   "originLabel": "A6",
+   "playerId": 1865,
+   "playerName": "Magnus Heradstveit",
+   "seed": 2
+  },
+  {
+   "originLabel": "A7",
+   "playerId": 1320,
+   "playerName": "Hakon Hugdahl Larsen",
+   "seed": 3
+  },
+  {
+   "originLabel": "A8",
+   "playerId": 1924,
+   "playerName": "Laura Revheim",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Grunnspel",
+   "stageId": 182
+  }
+ ],
+ "tournamentId": 35,
+ "tournamentName": "Bergensliga Autumn #10",
+ "tournamentStages": [
+  {
+   "id": 182,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grunnspel",
+   "status": "Finished"
+  },
+  {
+   "id": 183,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Sluttspel",
+   "status": "Finished"
+  },
+  {
+   "id": 184,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Kamp om 5. plass",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

@@ -1,0 +1,208 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-16T16:08:23.45213Z",
+ "cycles": 1,
+ "groupCount": 1,
+ "groups": [
+  {
+   "cutLines": [],
+   "cutLinesFromRules": false,
+   "cutSegments": [],
+   "id": 131,
+   "label": "A",
+   "matches": [
+    {
+     "awayPlayerId": 7929,
+     "awayPlayerName": "Tobias Henriksen",
+     "awayScore": 0,
+     "homePlayerId": 2108,
+     "homePlayerName": "Albin Holmin Brunvoll",
+     "homeScore": 0,
+     "id": 11784,
+     "isBox": false,
+     "isBye": false,
+     "isCarriedForward": false,
+     "roundNumber": 1,
+     "tableNumber": 1,
+     "walkover": "None",
+     "wentToOvertime": false
+    },
+    {
+     "homePlayerId": 7928,
+     "homePlayerName": "Lionel",
+     "id": 11785,
+     "isBox": false,
+     "isBye": true,
+     "isCarriedForward": false,
+     "roundNumber": 1,
+     "walkover": "None",
+     "wentToOvertime": false
+    },
+    {
+     "awayPlayerId": 7928,
+     "awayPlayerName": "Lionel",
+     "awayScore": 0,
+     "homePlayerId": 7929,
+     "homePlayerName": "Tobias Henriksen",
+     "homeScore": 0,
+     "id": 11786,
+     "isBox": false,
+     "isBye": false,
+     "isCarriedForward": false,
+     "roundNumber": 2,
+     "tableNumber": 1,
+     "walkover": "None",
+     "wentToOvertime": false
+    },
+    {
+     "homePlayerId": 2108,
+     "homePlayerName": "Albin Holmin Brunvoll",
+     "id": 11787,
+     "isBox": false,
+     "isBye": true,
+     "isCarriedForward": false,
+     "roundNumber": 2,
+     "walkover": "None",
+     "wentToOvertime": false
+    },
+    {
+     "awayPlayerId": 2108,
+     "awayPlayerName": "Albin Holmin Brunvoll",
+     "awayScore": 3,
+     "homePlayerId": 7928,
+     "homePlayerName": "Lionel",
+     "homeScore": 2,
+     "id": 11788,
+     "isBox": false,
+     "isBye": false,
+     "isCarriedForward": false,
+     "roundNumber": 3,
+     "tableNumber": 1,
+     "walkover": "None",
+     "wentToOvertime": false
+    },
+    {
+     "homePlayerId": 7929,
+     "homePlayerName": "Tobias Henriksen",
+     "id": 11789,
+     "isBox": false,
+     "isBye": true,
+     "isCarriedForward": false,
+     "roundNumber": 3,
+     "walkover": "None",
+     "wentToOvertime": false
+    }
+   ],
+   "players": [
+    {
+     "playerId": 2108,
+     "playerIthfId": 676169,
+     "playerName": "Albin Holmin Brunvoll",
+     "playerRank": 2108,
+     "seedPosition": 1
+    },
+    {
+     "playerId": 7928,
+     "playerName": "Lionel",
+     "playerRank": 0,
+     "seedPosition": 2
+    },
+    {
+     "playerId": 7929,
+     "playerName": "Tobias Henriksen",
+     "playerRank": 0,
+     "seedPosition": 3
+    }
+   ],
+   "stageId": 130,
+   "standings": [
+    {
+     "draws": 1,
+     "goalDifference": 1,
+     "goalsAgainst": 2,
+     "goalsFor": 3,
+     "isManual": false,
+     "losses": 0,
+     "overtimeLosses": 0,
+     "overtimeWins": 0,
+     "played": 2,
+     "playerId": 2108,
+     "playerName": "Albin Holmin Brunvoll",
+     "points": 3,
+     "position": 1,
+     "tieUnresolved": false,
+     "wins": 1
+    },
+    {
+     "draws": 2,
+     "goalDifference": 0,
+     "goalsAgainst": 0,
+     "goalsFor": 0,
+     "isManual": false,
+     "losses": 0,
+     "overtimeLosses": 0,
+     "overtimeWins": 0,
+     "played": 2,
+     "playerId": 7929,
+     "playerName": "Tobias Henriksen",
+     "points": 2,
+     "position": 2,
+     "tieUnresolved": false,
+     "wins": 0
+    },
+    {
+     "draws": 1,
+     "goalDifference": -1,
+     "goalsAgainst": 3,
+     "goalsFor": 2,
+     "isManual": false,
+     "losses": 1,
+     "overtimeLosses": 0,
+     "overtimeWins": 0,
+     "played": 2,
+     "playerId": 7928,
+     "playerName": "Lionel",
+     "points": 1,
+     "position": 3,
+     "tieUnresolved": false,
+     "wins": 0
+    }
+   ]
+  }
+ ],
+ "hasPlayingDependents": false,
+ "id": 130,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": false,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Grunnspel",
+ "placementBands": [],
+ "playoffRounds": [],
+ "playoffSeeds": [],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [],
+ "tournamentId": 26,
+ "tournamentName": "Krohnengen Open 2026 U8",
+ "tournamentStages": [
+  {
+   "id": 130,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grunnspel",
+   "status": "Finished"
+  },
+  {
+   "id": 132,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Sluttspel",
+   "status": "Finished"
+  }
+ ],
+ "type": "RoundRobin",
+ "typeDisplayName": "Round Robin"
+}

@@ -1,0 +1,508 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-17T09:18:53.775674Z",
+ "cycles": 1,
+ "divisionRank": 3,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 142,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "AL Play-off 17-23",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 2,
+   "startPlace": 3,
+   "status": "Generated"
+  },
+  {
+   "endPlace": 7,
+   "size": 3,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 5,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 7,
+   "bandSize": 7,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 202,
+   "matches": [
+    {
+     "clinchedAt": -1,
+     "games": [
+      {
+       "gameNumber": 1,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A9",
+     "homePlayerId": 1937,
+     "homePlayerName": "Platons Mihalcuks",
+     "homeSeed": 1,
+     "id": 522,
+     "isBye": true,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A11",
+     "awayPlayerId": 3883,
+     "awayPlayerName": "Alise Saulite",
+     "awayScore": 0,
+     "awaySeed": 5,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 970,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "B10",
+     "homePlayerId": 1806,
+     "homePlayerName": "Olivers Aizpurietis",
+     "homeScore": 1,
+     "homeSeed": 4,
+     "id": 523,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "B12",
+     "awayPlayerId": 2182,
+     "awayPlayerName": "Eduards Tempelfelds",
+     "awayScore": 1,
+     "awaySeed": 7,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 971,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "B9",
+     "homePlayerId": 7941,
+     "homePlayerName": "Eduards Istratovs",
+     "homeScore": 0,
+     "homeSeed": 2,
+     "id": 524,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 2,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "B11",
+     "awayPlayerId": 7927,
+     "awayPlayerName": "Marks Radivinskis",
+     "awayScore": 0,
+     "awaySeed": 6,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 972,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A10",
+     "homePlayerId": 5000,
+     "homePlayerName": "Katrine Elizabete Vjatere",
+     "homeScore": 1,
+     "homeSeed": 3,
+     "id": 525,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 3,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 142
+  },
+  {
+   "bandEndPlace": 7,
+   "bandSize": 7,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 203,
+   "matches": [
+    {
+     "awayOrigin": "B10",
+     "awayPlayerId": 1806,
+     "awayPlayerName": "Olivers Aizpurietis",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 977,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A9",
+     "homePlayerId": 1937,
+     "homePlayerName": "Platons Mihalcuks",
+     "homeScore": 1,
+     "homeSeed": 1,
+     "id": 526,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A10",
+     "awayPlayerId": 5000,
+     "awayPlayerName": "Katrine Elizabete Vjatere",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 978,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "B12",
+     "homePlayerId": 2182,
+     "homePlayerName": "Eduards Tempelfelds",
+     "homeScore": 1,
+     "homeSeed": 7,
+     "id": 527,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 142
+  },
+  {
+   "bandEndPlace": 7,
+   "bandSize": 7,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 204,
+   "matches": [
+    {
+     "awayOrigin": "B12",
+     "awayPlayerId": 2182,
+     "awayPlayerName": "Eduards Tempelfelds",
+     "awayScore": 0,
+     "awaySeed": 7,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 986,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A9",
+     "homePlayerId": 1937,
+     "homePlayerName": "Platons Mihalcuks",
+     "homeScore": 1,
+     "homeSeed": 1,
+     "id": 528,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 3,
+   "stageId": 142
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 215,
+   "matches": [
+    {
+     "awayOrigin": "B10",
+     "awayPlayerId": 1806,
+     "awayPlayerName": "Olivers Aizpurietis",
+     "awayScore": 1,
+     "awaySeed": 4,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 985,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A10",
+     "homePlayerId": 5000,
+     "homePlayerName": "Katrine Elizabete Vjatere",
+     "homeScore": 0,
+     "homeSeed": 3,
+     "id": 542,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 142
+  },
+  {
+   "bandEndPlace": 7,
+   "bandSize": 3,
+   "bandStartPlace": 5,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 209,
+   "matches": [
+    {
+     "clinchedAt": -1,
+     "games": [
+      {
+       "gameNumber": 1,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "B9",
+     "homePlayerId": 7941,
+     "homePlayerName": "Eduards Istratovs",
+     "homeSeed": 2,
+     "id": 535,
+     "isBye": true,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "B11",
+     "awayPlayerId": 7927,
+     "awayPlayerName": "Marks Radivinskis",
+     "awayScore": 1,
+     "awaySeed": 6,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 5,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 979,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A11",
+     "homePlayerId": 3883,
+     "homePlayerName": "Alise Saulite",
+     "homeScore": 0,
+     "homeSeed": 5,
+     "id": 536,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 142
+  },
+  {
+   "bandEndPlace": 7,
+   "bandSize": 3,
+   "bandStartPlace": 5,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 210,
+   "matches": [
+    {
+     "awayOrigin": "B11",
+     "awayPlayerId": 7927,
+     "awayPlayerName": "Marks Radivinskis",
+     "awayScore": 0,
+     "awaySeed": 6,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 984,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "B9",
+     "homePlayerId": 7941,
+     "homePlayerName": "Eduards Istratovs",
+     "homeScore": 1,
+     "homeSeed": 2,
+     "id": 537,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 142
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A9",
+   "playerId": 1937,
+   "playerName": "Platons Mihalcuks",
+   "seed": 1
+  },
+  {
+   "originLabel": "B9",
+   "playerId": 7941,
+   "playerName": "Eduards Istratovs",
+   "seed": 2
+  },
+  {
+   "originLabel": "A10",
+   "playerId": 5000,
+   "playerName": "Katrine Elizabete Vjatere",
+   "seed": 3
+  },
+  {
+   "originLabel": "B10",
+   "playerId": 1806,
+   "playerName": "Olivers Aizpurietis",
+   "seed": 4
+  },
+  {
+   "originLabel": "A11",
+   "playerId": 3883,
+   "playerName": "Alise Saulite",
+   "seed": 5
+  },
+  {
+   "originLabel": "B11",
+   "playerId": 7927,
+   "playerName": "Marks Radivinskis",
+   "seed": 6
+  },
+  {
+   "originLabel": "B12",
+   "playerId": 2182,
+   "playerName": "Eduards Tempelfelds",
+   "seed": 7
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "AL Groups",
+   "stageId": 137
+  }
+ ],
+ "tournamentId": 24,
+ "tournamentName": "Amatieru Līga 2026/27 #1",
+ "tournamentStages": [
+  {
+   "id": 137,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "AL Groups",
+   "status": "Finished"
+  },
+  {
+   "id": 140,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "AL Play-off 1-8",
+   "status": "Finished"
+  },
+  {
+   "id": 141,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "AL Play-off 9-16",
+   "status": "Finished"
+  },
+  {
+   "id": 142,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "AL Play-off 17-23",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

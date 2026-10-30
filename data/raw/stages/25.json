@@ -1,0 +1,341 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-09-26T13:17:19.314113Z",
+ "cycles": 1,
+ "divisionRank": 3,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 25,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": true,
+ "isTournamentFinished": true,
+ "name": "Play-off DIVISION 3",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Available"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 30,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 327,
+     "awayPlayerName": "Janis Zemnickis",
+     "awayScore": 2,
+     "awaySeed": 4,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 142,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 143,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 144,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 4,
+       "homeScore": 1,
+       "id": 145,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 5,
+       "homeScore": 3,
+       "id": 146,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 747,
+     "homePlayerName": "Krisjanis Simanis",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 44,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 500,
+     "awayPlayerName": "Roberts Garda",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 10,
+       "id": 147,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 148,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 149,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 394,
+     "homePlayerName": "Alans Liepins",
+     "homeScore": 3,
+     "homeSeed": 2,
+     "id": 45,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 25
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 31,
+   "matches": [
+    {
+     "awayOrigin": "A2",
+     "awayPlayerId": 394,
+     "awayPlayerName": "Alans Liepins",
+     "awayScore": 3,
+     "awaySeed": 2,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 5,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 151,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 152,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 153,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 4,
+       "homeScore": 0,
+       "id": 154,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 747,
+     "homePlayerName": "Krisjanis Simanis",
+     "homeScore": 1,
+     "homeSeed": 1,
+     "id": 46,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 25
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 747,
+   "playerName": "Krisjanis Simanis",
+   "seed": 1
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 394,
+   "playerName": "Alans Liepins",
+   "seed": 2
+  },
+  {
+   "originLabel": "A3",
+   "playerId": 500,
+   "playerName": "Roberts Garda",
+   "seed": 3
+  },
+  {
+   "originLabel": "A4",
+   "playerId": 327,
+   "playerName": "Janis Zemnickis",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "divisionRank": 3,
+   "name": "Division 3",
+   "stageId": 22
+  }
+ ],
+ "tournamentId": 1,
+ "tournamentName": "Incukalns THC Challenge 2026",
+ "tournamentStages": [
+  {
+   "id": 17,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Groups",
+   "status": "Finished"
+  },
+  {
+   "id": 18,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Final Division A",
+   "status": "Finished"
+  },
+  {
+   "id": 19,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Final Division B",
+   "status": "Finished"
+  },
+  {
+   "id": 21,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Division 2",
+   "status": "Finished"
+  },
+  {
+   "id": 22,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Division 3",
+   "status": "Finished"
+  },
+  {
+   "id": 23,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-off FINAL DIVISION",
+   "status": "Finished"
+  },
+  {
+   "id": 24,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-off DIVISION 2",
+   "status": "Finished"
+  },
+  {
+   "id": 25,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-off DIVISION 3",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

@@ -1,0 +1,332 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-17T13:46:01.107855Z",
+ "cycles": 1,
+ "divisionRank": 2,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 155,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Play-Off Division 2 ",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Available"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 234,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 77,
+     "awayPlayerName": "Sandis Kalnins",
+     "awayScore": 1,
+     "awaySeed": 4,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 1076,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 1087,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 1088,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 4,
+       "homeScore": 3,
+       "id": 1101,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 68,
+     "homePlayerName": "Salvis Skarainis",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 588,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 3,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 44,
+     "awayPlayerName": "Alekss Skudritis",
+     "awayScore": 3,
+     "awaySeed": 3,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 1077,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 1079,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 1089,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 6,
+       "gameNumber": 4,
+       "homeScore": 3,
+       "id": 1090,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 140,
+     "homePlayerName": "Intars Garancs",
+     "homeScore": 1,
+     "homeSeed": 2,
+     "id": 589,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 2,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 155
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 235,
+   "matches": [
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 44,
+     "awayPlayerName": "Alekss Skudritis",
+     "awayScore": 3,
+     "awaySeed": 3,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 1113,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 0,
+       "id": 1114,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 1119,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 68,
+     "homePlayerName": "Salvis Skarainis",
+     "homeScore": 0,
+     "homeSeed": 1,
+     "id": 590,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 155
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 68,
+   "playerName": "Salvis Skarainis",
+   "seed": 1
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 140,
+   "playerName": "Intars Garancs",
+   "seed": 2
+  },
+  {
+   "originLabel": "A3",
+   "playerId": 44,
+   "playerName": "Alekss Skudritis",
+   "seed": 3
+  },
+  {
+   "originLabel": "A4",
+   "playerId": 77,
+   "playerName": "Sandis Kalnins",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "divisionRank": 2,
+   "name": "LC Division 2",
+   "stageId": 144
+  }
+ ],
+ "tournamentId": 23,
+ "tournamentName": "Latvian Cup 2026/27 #1",
+ "tournamentStages": [
+  {
+   "id": 136,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "LC Groups",
+   "status": "Finished"
+  },
+  {
+   "id": 143,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "LC Division 1",
+   "status": "Finished"
+  },
+  {
+   "id": 144,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "LC Division 2",
+   "status": "Finished"
+  },
+  {
+   "id": 145,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "LC Division 3",
+   "status": "Finished"
+  },
+  {
+   "id": 146,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "LC Division 4",
+   "status": "Finished"
+  },
+  {
+   "id": 154,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-off 1-12",
+   "status": "Finished"
+  },
+  {
+   "id": 155,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-Off Division 2 ",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

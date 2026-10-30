@@ -1,0 +1,374 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-04T09:17:44.077803Z",
+ "cycles": 1,
+ "divisionRank": 1,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 68,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Play-off",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 96,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 211,
+     "awayPlayerName": "Rainers Neija",
+     "awayScore": 1,
+     "awaySeed": 4,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 509,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 510,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 511,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 4,
+       "homeScore": 9,
+       "id": 512,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 140,
+     "homePlayerName": "Intars Garancs",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 223,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 77,
+     "awayPlayerName": "Sandis Kalnins",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 513,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 514,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 515,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 163,
+     "homePlayerName": "Maris Kirsis",
+     "homeScore": 3,
+     "homeSeed": 2,
+     "id": 224,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 68
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 97,
+   "matches": [
+    {
+     "awayOrigin": "A2",
+     "awayPlayerId": 163,
+     "awayPlayerName": "Maris Kirsis",
+     "awayScore": 3,
+     "awaySeed": 2,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 516,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 1,
+       "id": 517,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 6,
+       "id": 518,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 4,
+       "homeScore": 2,
+       "id": 519,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 140,
+     "homePlayerName": "Intars Garancs",
+     "homeScore": 1,
+     "homeSeed": 1,
+     "id": 225,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 68
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 98,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 211,
+     "awayPlayerName": "Rainers Neija",
+     "awayScore": 3,
+     "awaySeed": 4,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 520,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 521,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 522,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 4,
+       "homeScore": 2,
+       "id": 523,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 5,
+       "homeScore": 2,
+       "id": 524,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      }
+     ],
+     "homeOrigin": "A3",
+     "homePlayerId": 77,
+     "homePlayerName": "Sandis Kalnins",
+     "homeScore": 2,
+     "homeSeed": 3,
+     "id": 226,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 2,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 68
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 140,
+   "playerName": "Intars Garancs",
+   "seed": 1
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 163,
+   "playerName": "Maris Kirsis",
+   "seed": 2
+  },
+  {
+   "originLabel": "A3",
+   "playerId": 77,
+   "playerName": "Sandis Kalnins",
+   "seed": 3
+  },
+  {
+   "originLabel": "A4",
+   "playerId": 211,
+   "playerName": "Rainers Neija",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Grupas turnīrs",
+   "stageId": 56
+  }
+ ],
+ "tournamentId": 8,
+ "tournamentName": "Incukalns League 2026/27 #2",
+ "tournamentStages": [
+  {
+   "id": 56,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grupas turnīrs",
+   "status": "Finished"
+  },
+  {
+   "id": 68,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-off",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

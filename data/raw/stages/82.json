@@ -1,0 +1,325 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-07T16:32:32.314892Z",
+ "cycles": 1,
+ "divisionRank": 2,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 82,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Play-off 5-8",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 116,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 431,
+     "awayPlayerName": "Gunars Buls",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 609,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 2,
+       "homeScore": 6,
+       "id": 610,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 159,
+     "homePlayerName": "Ivars Kirsis",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 255,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 214,
+     "awayPlayerName": "Ilze Kirse",
+     "awayScore": 2,
+     "awaySeed": 3,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 611,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 612,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 613,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A6",
+     "homePlayerId": 287,
+     "homePlayerName": "Agris Pavars",
+     "homeScore": 1,
+     "homeSeed": 2,
+     "id": 256,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 82
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 117,
+   "matches": [
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 214,
+     "awayPlayerName": "Ilze Kirse",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 614,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 615,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 159,
+     "homePlayerName": "Ivars Kirsis",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 257,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 82
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 118,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 431,
+     "awayPlayerName": "Gunars Buls",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 616,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 617,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A6",
+     "homePlayerId": 287,
+     "homePlayerName": "Agris Pavars",
+     "homeScore": 2,
+     "homeSeed": 2,
+     "id": 258,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 82
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A5",
+   "playerId": 159,
+   "playerName": "Ivars Kirsis",
+   "seed": 1
+  },
+  {
+   "originLabel": "A6",
+   "playerId": 287,
+   "playerName": "Agris Pavars",
+   "seed": 2
+  },
+  {
+   "originLabel": "A7",
+   "playerId": 214,
+   "playerName": "Ilze Kirse",
+   "seed": 3
+  },
+  {
+   "originLabel": "A8",
+   "playerId": 431,
+   "playerName": "Gunars Buls",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Apļa turnīrs",
+   "stageId": 80
+  }
+ ],
+ "tournamentId": 13,
+ "tournamentName": "Incukalns League 2026/27 #1",
+ "tournamentStages": [
+  {
+   "id": 80,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Apļa turnīrs",
+   "status": "Finished"
+  },
+  {
+   "id": 81,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-Off 1-4",
+   "status": "Finished"
+  },
+  {
+   "id": 82,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-off 5-8",
+   "status": "Finished"
+  },
+  {
+   "id": 83,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-Off 9-12",
+   "status": "Finished"
+  },
+  {
+   "id": 84,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-Off 13-16",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

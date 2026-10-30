@@ -1,0 +1,1554 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-09-26T12:53:49.39059Z",
+ "cycles": 1,
+ "divisionRank": 1,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 23,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": true,
+ "isTournamentFinished": true,
+ "name": "Play-off FINAL DIVISION",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 3,
+   "startPlace": 3,
+   "status": "Generated"
+  },
+  {
+   "endPlace": 8,
+   "size": 4,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 2,
+   "startPlace": 5,
+   "status": "Available"
+  },
+  {
+   "endPlace": 16,
+   "size": 8,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 9,
+   "status": "Available"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 16,
+   "bandSize": 16,
+   "bandStartPlace": 1,
+   "bestOf": 7,
+   "gamesToWin": 4,
+   "id": 24,
+   "matches": [
+    {
+     "awayOrigin": "Final Division B-8",
+     "awayPlayerId": 141,
+     "awayPlayerName": "Roberts Kerns",
+     "awayScore": 1,
+     "awaySeed": 16,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 88,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 7,
+       "id": 89,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 90,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 4,
+       "homeScore": 4,
+       "id": 91,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 5,
+       "homeScore": 8,
+       "id": 92,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Final Division A-1",
+     "homePlayerId": 1,
+     "homePlayerName": "Rainers Kalnins",
+     "homeScore": 4,
+     "homeSeed": 1,
+     "id": 26,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "Final Division A-5",
+     "awayPlayerId": 34,
+     "awayPlayerName": "Karlis Balodis",
+     "awayScore": 0,
+     "awaySeed": 9,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 93,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 94,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 95,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 4,
+       "homeScore": 2,
+       "id": 96,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Final Division B-4",
+     "homePlayerId": 15,
+     "homePlayerName": "Jekabs Rekis",
+     "homeScore": 4,
+     "homeSeed": 8,
+     "id": 27,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 1,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "Final Division A-7",
+     "awayPlayerId": 23,
+     "awayPlayerName": "Krista Annija Lagzdina",
+     "awayScore": 3,
+     "awaySeed": 13,
+     "clinchedAt": 6,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 97,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 1,
+       "id": 98,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 0,
+       "id": 99,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 4,
+       "homeScore": 1,
+       "id": 100,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 5,
+       "homeScore": 3,
+       "id": 101,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 6,
+       "homeScore": 4,
+       "id": 102,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 7,
+       "homeScore": 2,
+       "id": 103,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      }
+     ],
+     "homeOrigin": "Final Division B-2",
+     "homePlayerId": 25,
+     "homePlayerName": "Andris Liepins",
+     "homeScore": 4,
+     "homeSeed": 4,
+     "id": 28,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 3,
+     "position": 2,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "Final Division B-6",
+     "awayPlayerId": 108,
+     "awayPlayerName": "Gustaf Hermansson",
+     "awayScore": 1,
+     "awaySeed": 12,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 104,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 105,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 106,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 4,
+       "homeScore": 4,
+       "id": 107,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 5,
+       "homeScore": 4,
+       "id": 108,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Final Division A-3",
+     "homePlayerId": 10,
+     "homePlayerName": "Elvijs Silins",
+     "homeScore": 4,
+     "homeSeed": 5,
+     "id": 29,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 2,
+     "position": 3,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "Final Division A-8",
+     "awayPlayerId": 33,
+     "awayPlayerName": "Kristaps Naglis",
+     "awayScore": 4,
+     "awaySeed": 15,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 109,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 6,
+       "gameNumber": 2,
+       "homeScore": 1,
+       "id": 110,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 111,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 4,
+       "homeScore": 2,
+       "id": 112,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 5,
+       "homeScore": 1,
+       "id": 113,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Final Division B-1",
+     "homePlayerId": 6,
+     "homePlayerName": "Raivis Miglinieks \"The Cobra\"",
+     "homeScore": 1,
+     "homeSeed": 2,
+     "id": 30,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 4,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "Final Division B-5",
+     "awayPlayerId": 77,
+     "awayPlayerName": "Sandis Kalnins",
+     "awayScore": 3,
+     "awaySeed": 10,
+     "clinchedAt": 6,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 114,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 115,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 116,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 4,
+       "homeScore": 2,
+       "id": 117,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 5,
+       "homeScore": 1,
+       "id": 118,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 6,
+       "homeScore": 2,
+       "id": 119,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 7,
+       "homeScore": 4,
+       "id": 120,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Final Division A-4",
+     "homePlayerId": 63,
+     "homePlayerName": "Railends Kuhalskis",
+     "homeScore": 4,
+     "homeSeed": 7,
+     "id": 31,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 5,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "Final Division B-7",
+     "awayPlayerId": 36,
+     "awayPlayerName": "Emils Liepins",
+     "awayScore": 4,
+     "awaySeed": 14,
+     "clinchedAt": 5,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 121,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 122,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 123,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 4,
+       "homeScore": 3,
+       "id": 124,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 5,
+       "homeScore": 3,
+       "id": 125,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 6,
+       "homeScore": 2,
+       "id": 126,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Final Division A-2",
+     "homePlayerId": 20,
+     "homePlayerName": "Alvis Silins",
+     "homeScore": 2,
+     "homeSeed": 3,
+     "id": 32,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 3,
+     "position": 6,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "Final Division A-6",
+     "awayPlayerId": 130,
+     "awayPlayerName": "Davis Apfelbaums",
+     "awayScore": 1,
+     "awaySeed": 11,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 127,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 128,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 129,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 4,
+       "homeScore": 3,
+       "id": 130,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 5,
+       "homeScore": 5,
+       "id": 131,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Final Division B-3",
+     "homePlayerId": 3,
+     "homePlayerName": "Edgars Caics",
+     "homeScore": 4,
+     "homeSeed": 6,
+     "id": 33,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 7,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 23
+  },
+  {
+   "bandEndPlace": 16,
+   "bandSize": 16,
+   "bandStartPlace": 1,
+   "bestOf": 7,
+   "gamesToWin": 4,
+   "id": 25,
+   "matches": [
+    {
+     "awayOrigin": "Final Division B-4",
+     "awayPlayerId": 15,
+     "awayPlayerName": "Jekabs Rekis",
+     "awayScore": 2,
+     "awaySeed": 8,
+     "clinchedAt": 5,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 7,
+       "id": 156,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 161,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 163,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 4,
+       "homeScore": 4,
+       "id": 164,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 5,
+       "homeScore": 4,
+       "id": 165,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 6,
+       "homeScore": 5,
+       "id": 174,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Final Division A-1",
+     "homePlayerId": 1,
+     "homePlayerName": "Rainers Kalnins",
+     "homeScore": 4,
+     "homeSeed": 1,
+     "id": 34,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "Final Division A-3",
+     "awayPlayerId": 10,
+     "awayPlayerName": "Elvijs Silins",
+     "awayScore": 1,
+     "awaySeed": 5,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 160,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 6,
+       "id": 166,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 167,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 4,
+       "homeScore": 2,
+       "id": 168,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 5,
+       "homeScore": 2,
+       "id": 175,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Final Division B-2",
+     "homePlayerId": 25,
+     "homePlayerName": "Andris Liepins",
+     "homeScore": 4,
+     "homeSeed": 4,
+     "id": 35,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 2,
+     "position": 1,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "Final Division A-4",
+     "awayPlayerId": 63,
+     "awayPlayerName": "Railends Kuhalskis",
+     "awayScore": 4,
+     "awaySeed": 7,
+     "clinchedAt": 6,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 159,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 169,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 170,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 4,
+       "homeScore": 4,
+       "id": 171,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 6,
+       "gameNumber": 5,
+       "homeScore": 3,
+       "id": 176,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 6,
+       "homeScore": 5,
+       "id": 177,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 7,
+       "homeScore": 2,
+       "id": 178,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Final Division A-8",
+     "homePlayerId": 33,
+     "homePlayerName": "Kristaps Naglis",
+     "homeScore": 3,
+     "homeSeed": 15,
+     "id": 36,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 2,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "Final Division B-3",
+     "awayPlayerId": 3,
+     "awayPlayerName": "Edgars Caics",
+     "awayScore": 4,
+     "awaySeed": 6,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 6,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 157,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 158,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 0,
+       "id": 162,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 4,
+       "homeScore": 2,
+       "id": 172,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 6,
+       "gameNumber": 5,
+       "homeScore": 4,
+       "id": 173,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Final Division B-7",
+     "homePlayerId": 36,
+     "homePlayerName": "Emils Liepins",
+     "homeScore": 1,
+     "homeSeed": 14,
+     "id": 37,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 3,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 23
+  },
+  {
+   "bandEndPlace": 16,
+   "bandSize": 16,
+   "bandStartPlace": 1,
+   "bestOf": 7,
+   "gamesToWin": 4,
+   "id": 26,
+   "matches": [
+    {
+     "awayOrigin": "Final Division B-2",
+     "awayPlayerId": 25,
+     "awayPlayerName": "Andris Liepins",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 179,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 180,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 3,
+       "homeScore": 5,
+       "id": 181,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 7,
+       "gameNumber": 4,
+       "homeScore": 8,
+       "id": 185,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Final Division A-1",
+     "homePlayerId": 1,
+     "homePlayerName": "Rainers Kalnins",
+     "homeScore": 4,
+     "homeSeed": 1,
+     "id": 38,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "Final Division B-3",
+     "awayPlayerId": 3,
+     "awayPlayerName": "Edgars Caics",
+     "awayScore": 4,
+     "awaySeed": 6,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 182,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 183,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 184,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 4,
+       "homeScore": 4,
+       "id": 186,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Final Division A-4",
+     "homePlayerId": 63,
+     "homePlayerName": "Railends Kuhalskis",
+     "homeScore": 0,
+     "homeSeed": 7,
+     "id": 39,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 3,
+   "stageId": 23
+  },
+  {
+   "bandEndPlace": 16,
+   "bandSize": 16,
+   "bandStartPlace": 1,
+   "bestOf": 7,
+   "gamesToWin": 4,
+   "id": 27,
+   "matches": [
+    {
+     "awayOrigin": "Final Division B-3",
+     "awayPlayerId": 3,
+     "awayPlayerName": "Edgars Caics",
+     "awayScore": 3,
+     "awaySeed": 6,
+     "clinchedAt": 6,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 188,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 189,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 192,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 4,
+       "homeScore": 4,
+       "id": 193,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 5,
+       "homeScore": 6,
+       "id": 194,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 7,
+       "gameNumber": 6,
+       "homeScore": 4,
+       "id": 195,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 7,
+       "homeScore": 6,
+       "id": 196,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Final Division A-1",
+     "homePlayerId": 1,
+     "homePlayerName": "Rainers Kalnins",
+     "homeScore": 4,
+     "homeSeed": 1,
+     "id": 40,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 3,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 4,
+   "stageId": 23
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 32,
+   "matches": [
+    {
+     "awayOrigin": "Final Division A-4",
+     "awayPlayerId": 63,
+     "awayPlayerName": "Railends Kuhalskis",
+     "awayScore": 3,
+     "awaySeed": 7,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 187,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 0,
+       "id": 190,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 191,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Final Division B-2",
+     "homePlayerId": 25,
+     "homePlayerName": "Andris Liepins",
+     "homeScore": 0,
+     "homeSeed": 4,
+     "id": 47,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 23
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "Final Division A-1",
+   "playerId": 1,
+   "playerName": "Rainers Kalnins",
+   "seed": 1
+  },
+  {
+   "originLabel": "Final Division B-1",
+   "playerId": 6,
+   "playerName": "Raivis Miglinieks \"The Cobra\"",
+   "seed": 2
+  },
+  {
+   "originLabel": "Final Division A-2",
+   "playerId": 20,
+   "playerName": "Alvis Silins",
+   "seed": 3
+  },
+  {
+   "originLabel": "Final Division B-2",
+   "playerId": 25,
+   "playerName": "Andris Liepins",
+   "seed": 4
+  },
+  {
+   "originLabel": "Final Division A-3",
+   "playerId": 10,
+   "playerName": "Elvijs Silins",
+   "seed": 5
+  },
+  {
+   "originLabel": "Final Division B-3",
+   "playerId": 3,
+   "playerName": "Edgars Caics",
+   "seed": 6
+  },
+  {
+   "originLabel": "Final Division A-4",
+   "playerId": 63,
+   "playerName": "Railends Kuhalskis",
+   "seed": 7
+  },
+  {
+   "originLabel": "Final Division B-4",
+   "playerId": 15,
+   "playerName": "Jekabs Rekis",
+   "seed": 8
+  },
+  {
+   "originLabel": "Final Division A-5",
+   "playerId": 34,
+   "playerName": "Karlis Balodis",
+   "seed": 9
+  },
+  {
+   "originLabel": "Final Division B-5",
+   "playerId": 77,
+   "playerName": "Sandis Kalnins",
+   "seed": 10
+  },
+  {
+   "originLabel": "Final Division A-6",
+   "playerId": 130,
+   "playerName": "Davis Apfelbaums",
+   "seed": 11
+  },
+  {
+   "originLabel": "Final Division B-6",
+   "playerId": 108,
+   "playerName": "Gustaf Hermansson",
+   "seed": 12
+  },
+  {
+   "originLabel": "Final Division A-7",
+   "playerId": 23,
+   "playerName": "Krista Annija Lagzdina",
+   "seed": 13
+  },
+  {
+   "originLabel": "Final Division B-7",
+   "playerId": 36,
+   "playerName": "Emils Liepins",
+   "seed": 14
+  },
+  {
+   "originLabel": "Final Division A-8",
+   "playerId": 33,
+   "playerName": "Kristaps Naglis",
+   "seed": 15
+  },
+  {
+   "originLabel": "Final Division B-8",
+   "playerId": 141,
+   "playerName": "Roberts Kerns",
+   "seed": 16
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "divisionRank": 1,
+   "name": "Final Division A",
+   "stageId": 18
+  },
+  {
+   "divisionRank": 1,
+   "name": "Final Division B",
+   "stageId": 19
+  }
+ ],
+ "tournamentId": 1,
+ "tournamentName": "Incukalns THC Challenge 2026",
+ "tournamentStages": [
+  {
+   "id": 17,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Groups",
+   "status": "Finished"
+  },
+  {
+   "id": 18,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Final Division A",
+   "status": "Finished"
+  },
+  {
+   "id": 19,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Final Division B",
+   "status": "Finished"
+  },
+  {
+   "id": 21,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Division 2",
+   "status": "Finished"
+  },
+  {
+   "id": 22,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Division 3",
+   "status": "Finished"
+  },
+  {
+   "id": 23,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-off FINAL DIVISION",
+   "status": "Finished"
+  },
+  {
+   "id": 24,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-off DIVISION 2",
+   "status": "Finished"
+  },
+  {
+   "id": 25,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-off DIVISION 3",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

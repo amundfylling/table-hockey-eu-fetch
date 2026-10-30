@@ -1,0 +1,327 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-07T16:34:03.484697Z",
+ "cycles": 1,
+ "divisionRank": 3,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 83,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Play-Off 9-12",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 119,
+   "matches": [
+    {
+     "awayOrigin": "A12",
+     "awayPlayerId": 269,
+     "awayPlayerName": "Darta Vesele",
+     "awayScore": 2,
+     "awaySeed": 4,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 5,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 618,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 619,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 620,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A9",
+     "homePlayerId": 618,
+     "homePlayerName": "Matiss Zimba",
+     "homeScore": 1,
+     "homeSeed": 1,
+     "id": 259,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A11",
+     "awayPlayerId": 549,
+     "awayPlayerName": "Asnate Kocere",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 621,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 1,
+       "id": 622,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A10",
+     "homePlayerId": 267,
+     "homePlayerName": "Krisjanis Kurzemnieks",
+     "homeScore": 2,
+     "homeSeed": 2,
+     "id": 260,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 83
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 120,
+   "matches": [
+    {
+     "awayOrigin": "A10",
+     "awayPlayerId": 267,
+     "awayPlayerName": "Krisjanis Kurzemnieks",
+     "awayScore": 2,
+     "awaySeed": 2,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 623,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 6,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 624,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 625,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A12",
+     "homePlayerId": 269,
+     "homePlayerName": "Darta Vesele",
+     "homeScore": 1,
+     "homeSeed": 4,
+     "id": 261,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 83
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 121,
+   "matches": [
+    {
+     "awayOrigin": "A11",
+     "awayPlayerId": 549,
+     "awayPlayerName": "Asnate Kocere",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 626,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 627,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A9",
+     "homePlayerId": 618,
+     "homePlayerName": "Matiss Zimba",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 262,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 83
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A9",
+   "playerId": 618,
+   "playerName": "Matiss Zimba",
+   "seed": 1
+  },
+  {
+   "originLabel": "A10",
+   "playerId": 267,
+   "playerName": "Krisjanis Kurzemnieks",
+   "seed": 2
+  },
+  {
+   "originLabel": "A11",
+   "playerId": 549,
+   "playerName": "Asnate Kocere",
+   "seed": 3
+  },
+  {
+   "originLabel": "A12",
+   "playerId": 269,
+   "playerName": "Darta Vesele",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Apļa turnīrs",
+   "stageId": 80
+  }
+ ],
+ "tournamentId": 13,
+ "tournamentName": "Incukalns League 2026/27 #1",
+ "tournamentStages": [
+  {
+   "id": 80,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Apļa turnīrs",
+   "status": "Finished"
+  },
+  {
+   "id": 81,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-Off 1-4",
+   "status": "Finished"
+  },
+  {
+   "id": 82,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-off 5-8",
+   "status": "Finished"
+  },
+  {
+   "id": 83,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-Off 9-12",
+   "status": "Finished"
+  },
+  {
+   "id": 84,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Play-Off 13-16",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

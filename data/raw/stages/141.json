@@ -1,0 +1,580 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-17T09:18:16.532859Z",
+ "cycles": 1,
+ "divisionRank": 2,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 141,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "AL Play-off 9-16",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 2,
+   "startPlace": 3,
+   "status": "Generated"
+  },
+  {
+   "endPlace": 8,
+   "size": 4,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 5,
+   "status": "Generated"
+  },
+  {
+   "endPlace": 8,
+   "size": 2,
+   "sourceBandStartPlace": 5,
+   "sourceRoundNumber": 1,
+   "startPlace": 7,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 8,
+   "bandSize": 8,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 199,
+   "matches": [
+    {
+     "awayOrigin": "B8",
+     "awayPlayerId": 4031,
+     "awayPlayerName": "Klavs Meiers",
+     "awayScore": 0,
+     "awaySeed": 8,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 966,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 1977,
+     "homePlayerName": "Laura Ernsteina",
+     "homeScore": 1,
+     "homeSeed": 1,
+     "id": 515,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 2555,
+     "awayPlayerName": "Filips Esta",
+     "awayScore": 1,
+     "awaySeed": 5,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 967,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "B6",
+     "homePlayerId": 1570,
+     "homePlayerName": "Emils Vitols",
+     "homeScore": 0,
+     "homeSeed": 4,
+     "id": 516,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 2485,
+     "awayPlayerName": "Oskars Jansons",
+     "awayScore": 0,
+     "awaySeed": 7,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 6,
+       "id": 968,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "B5",
+     "homePlayerId": 2034,
+     "homePlayerName": "Eduards Kuznecovs",
+     "homeScore": 1,
+     "homeSeed": 2,
+     "id": 517,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 2,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "B7",
+     "awayPlayerId": 2244,
+     "awayPlayerName": "Sofija Golubecka",
+     "awayScore": 1,
+     "awaySeed": 6,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 969,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      }
+     ],
+     "homeOrigin": "A6",
+     "homePlayerId": 1711,
+     "homePlayerName": "Gustavs Briedis",
+     "homeScore": 0,
+     "homeSeed": 3,
+     "id": 518,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 3,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 141
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 8,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 200,
+   "matches": [
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 2555,
+     "awayPlayerName": "Filips Esta",
+     "awayScore": 0,
+     "awaySeed": 5,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 980,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 1977,
+     "homePlayerName": "Laura Ernsteina",
+     "homeScore": 1,
+     "homeSeed": 1,
+     "id": 519,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "B7",
+     "awayPlayerId": 2244,
+     "awayPlayerName": "Sofija Golubecka",
+     "awayScore": 1,
+     "awaySeed": 6,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 981,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "B5",
+     "homePlayerId": 2034,
+     "homePlayerName": "Eduards Kuznecovs",
+     "homeScore": 0,
+     "homeSeed": 2,
+     "id": 520,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 141
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 8,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 201,
+   "matches": [
+    {
+     "awayOrigin": "B7",
+     "awayPlayerId": 2244,
+     "awayPlayerName": "Sofija Golubecka",
+     "awayScore": 1,
+     "awaySeed": 6,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 5,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 991,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 1977,
+     "homePlayerName": "Laura Ernsteina",
+     "homeScore": 0,
+     "homeSeed": 1,
+     "id": 521,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 3,
+   "stageId": 141
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 213,
+   "matches": [
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 2555,
+     "awayPlayerName": "Filips Esta",
+     "awayScore": 0,
+     "awaySeed": 5,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 994,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      }
+     ],
+     "homeOrigin": "B5",
+     "homePlayerId": 2034,
+     "homePlayerName": "Eduards Kuznecovs",
+     "homeScore": 1,
+     "homeSeed": 2,
+     "id": 540,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 141
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 4,
+   "bandStartPlace": 5,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 207,
+   "matches": [
+    {
+     "awayOrigin": "B8",
+     "awayPlayerId": 4031,
+     "awayPlayerName": "Klavs Meiers",
+     "awayScore": 1,
+     "awaySeed": 8,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 6,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 982,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A6",
+     "homePlayerId": 1711,
+     "homePlayerName": "Gustavs Briedis",
+     "homeScore": 0,
+     "homeSeed": 3,
+     "id": 532,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 2485,
+     "awayPlayerName": "Oskars Jansons",
+     "awayScore": 0,
+     "awaySeed": 7,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 6,
+       "id": 983,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "B6",
+     "homePlayerId": 1570,
+     "homePlayerName": "Emils Vitols",
+     "homeScore": 1,
+     "homeSeed": 4,
+     "id": 533,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 141
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 4,
+   "bandStartPlace": 5,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 208,
+   "matches": [
+    {
+     "awayOrigin": "B6",
+     "awayPlayerId": 1570,
+     "awayPlayerName": "Emils Vitols",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 992,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "B8",
+     "homePlayerId": 4031,
+     "homePlayerName": "Klavs Meiers",
+     "homeScore": 1,
+     "homeSeed": 8,
+     "id": 534,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 141
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 2,
+   "bandStartPlace": 7,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 214,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 2485,
+     "awayPlayerName": "Oskars Jansons",
+     "awayScore": 0,
+     "awaySeed": 7,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 6,
+       "id": 993,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A6",
+     "homePlayerId": 1711,
+     "homePlayerName": "Gustavs Briedis",
+     "homeScore": 1,
+     "homeSeed": 3,
+     "id": 541,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 141
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A5",
+   "playerId": 1977,
+   "playerName": "Laura Ernsteina",
+   "seed": 1
+  },
+  {
+   "originLabel": "B5",
+   "playerId": 2034,
+   "playerName": "Eduards Kuznecovs",
+   "seed": 2
+  },
+  {
+   "originLabel": "A6",
+   "playerId": 1711,
+   "playerName": "Gustavs Briedis",
+   "seed": 3
+  },
+  {
+   "originLabel": "B6",
+   "playerId": 1570,
+   "playerName": "Emils Vitols",
+   "seed": 4
+  },
+  {
+   "originLabel": "A7",
+   "playerId": 2555,
+   "playerName": "Filips Esta",
+   "seed": 5
+  },
+  {
+   "originLabel": "B7",
+   "playerId": 2244,
+   "playerName": "Sofija Golubecka",
+   "seed": 6
+  },
+  {
+   "originLabel": "A8",
+   "playerId": 2485,
+   "playerName": "Oskars Jansons",
+   "seed": 7
+  },
+  {
+   "originLabel": "B8",
+   "playerId": 4031,
+   "playerName": "Klavs Meiers",
+   "seed": 8
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "AL Groups",
+   "stageId": 137
+  }
+ ],
+ "tournamentId": 24,
+ "tournamentName": "Amatieru Līga 2026/27 #1",
+ "tournamentStages": [
+  {
+   "id": 137,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "AL Groups",
+   "status": "Finished"
+  },
+  {
+   "id": 140,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "AL Play-off 1-8",
+   "status": "Finished"
+  },
+  {
+   "id": 141,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "AL Play-off 9-16",
+   "status": "Finished"
+  },
+  {
+   "id": 142,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "AL Play-off 17-23",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

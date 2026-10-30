@@ -1,0 +1,864 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-04T11:23:15.806659Z",
+ "cycles": 1,
+ "divisionRank": 3,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 71,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Amatieri - play-off",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 2,
+   "startPlace": 3,
+   "status": "Generated"
+  },
+  {
+   "endPlace": 8,
+   "size": 4,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 5,
+   "status": "Generated"
+  },
+  {
+   "endPlace": 8,
+   "size": 2,
+   "sourceBandStartPlace": 5,
+   "sourceRoundNumber": 1,
+   "startPlace": 7,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 8,
+   "bandSize": 8,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 102,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 2485,
+     "awayPlayerName": "Oskars Jansons",
+     "awayScore": 0,
+     "awaySeed": 8,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 7,
+       "id": 533,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 7,
+       "id": 534,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 1285,
+     "homePlayerName": "Annija Garanca",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 234,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A5",
+     "awayPlayerId": 1806,
+     "awayPlayerName": "Olivers Aizpurietis",
+     "awayScore": 0,
+     "awaySeed": 5,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 535,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 536,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A4",
+     "homePlayerId": 1798,
+     "homePlayerName": "Gustavs Mende",
+     "homeScore": 2,
+     "homeSeed": 4,
+     "id": 235,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 2646,
+     "awayPlayerName": "Miks Podzins",
+     "awayScore": 0,
+     "awaySeed": 7,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 537,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 538,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 911,
+     "homePlayerName": "Marija Jursina",
+     "homeScore": 2,
+     "homeSeed": 2,
+     "id": 236,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 2,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A6",
+     "awayPlayerId": 2769,
+     "awayPlayerName": "Tristans Tomsons",
+     "awayScore": 0,
+     "awaySeed": 6,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 539,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 540,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A3",
+     "homePlayerId": 1927,
+     "homePlayerName": "Gabriels Kaplans",
+     "homeScore": 2,
+     "homeSeed": 3,
+     "id": 237,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 3,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 71
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 8,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 103,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 1798,
+     "awayPlayerName": "Gustavs Mende",
+     "awayScore": 1,
+     "awaySeed": 4,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 568,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 569,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 570,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 4,
+       "homeScore": 2,
+       "id": 571,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 1285,
+     "homePlayerName": "Annija Garanca",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 238,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 1927,
+     "awayPlayerName": "Gabriels Kaplans",
+     "awayScore": 2,
+     "awaySeed": 3,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 572,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 573,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 574,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 4,
+       "homeScore": 8,
+       "id": 575,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 5,
+       "homeScore": 5,
+       "id": 576,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 911,
+     "homePlayerName": "Marija Jursina",
+     "homeScore": 3,
+     "homeSeed": 2,
+     "id": 239,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 71
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 8,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 104,
+   "matches": [
+    {
+     "awayOrigin": "A2",
+     "awayPlayerId": 911,
+     "awayPlayerName": "Marija Jursina",
+     "awayScore": 3,
+     "awaySeed": 2,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 577,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 578,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 579,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 4,
+       "homeScore": 1,
+       "id": 580,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 1285,
+     "homePlayerName": "Annija Garanca",
+     "homeScore": 1,
+     "homeSeed": 1,
+     "id": 240,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 3,
+   "stageId": 71
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 111,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 1798,
+     "awayPlayerName": "Gustavs Mende",
+     "awayScore": 3,
+     "awaySeed": 4,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 581,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 582,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 583,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 4,
+       "homeScore": 3,
+       "id": 584,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 5,
+       "homeScore": 1,
+       "id": 585,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A3",
+     "homePlayerId": 1927,
+     "homePlayerName": "Gabriels Kaplans",
+     "homeScore": 2,
+     "homeSeed": 3,
+     "id": 249,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 71
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 4,
+   "bandStartPlace": 5,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 105,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 2485,
+     "awayPlayerName": "Oskars Jansons",
+     "awayScore": 1,
+     "awaySeed": 8,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 586,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 8,
+       "id": 587,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 6,
+       "id": 588,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 1806,
+     "homePlayerName": "Olivers Aizpurietis",
+     "homeScore": 2,
+     "homeSeed": 5,
+     "id": 241,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A7",
+     "awayPlayerId": 2646,
+     "awayPlayerName": "Miks Podzins",
+     "awayScore": 0,
+     "awaySeed": 7,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 589,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 1,
+       "id": 590,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A6",
+     "homePlayerId": 2769,
+     "homePlayerName": "Tristans Tomsons",
+     "homeScore": 2,
+     "homeSeed": 6,
+     "id": 242,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 71
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 4,
+   "bandStartPlace": 5,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 106,
+   "matches": [
+    {
+     "awayOrigin": "A6",
+     "awayPlayerId": 2769,
+     "awayPlayerName": "Tristans Tomsons",
+     "awayScore": 0,
+     "awaySeed": 6,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 591,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 592,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 1806,
+     "homePlayerName": "Olivers Aizpurietis",
+     "homeScore": 2,
+     "homeSeed": 5,
+     "id": 243,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 71
+  },
+  {
+   "bandEndPlace": 8,
+   "bandSize": 2,
+   "bandStartPlace": 7,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 112,
+   "matches": [
+    {
+     "awayOrigin": "A8",
+     "awayPlayerId": 2485,
+     "awayPlayerName": "Oskars Jansons",
+     "awayScore": 2,
+     "awaySeed": 8,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 593,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 594,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A7",
+     "homePlayerId": 2646,
+     "homePlayerName": "Miks Podzins",
+     "homeScore": 0,
+     "homeSeed": 7,
+     "id": 250,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 71
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 1285,
+   "playerName": "Annija Garanca",
+   "seed": 1
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 911,
+   "playerName": "Marija Jursina",
+   "seed": 2
+  },
+  {
+   "originLabel": "A3",
+   "playerId": 1927,
+   "playerName": "Gabriels Kaplans",
+   "seed": 3
+  },
+  {
+   "originLabel": "A4",
+   "playerId": 1798,
+   "playerName": "Gustavs Mende",
+   "seed": 4
+  },
+  {
+   "originLabel": "A5",
+   "playerId": 1806,
+   "playerName": "Olivers Aizpurietis",
+   "seed": 5
+  },
+  {
+   "originLabel": "A6",
+   "playerId": 2769,
+   "playerName": "Tristans Tomsons",
+   "seed": 6
+  },
+  {
+   "originLabel": "A7",
+   "playerId": 2646,
+   "playerName": "Miks Podzins",
+   "seed": 7
+  },
+  {
+   "originLabel": "A8",
+   "playerId": 2485,
+   "playerName": "Oskars Jansons",
+   "seed": 8
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Amatieri - kvalifikācija",
+   "stageId": 69
+  }
+ ],
+ "tournamentId": 10,
+ "tournamentName": "Ādažu līga 2026/27 - #2",
+ "tournamentStages": [
+  {
+   "id": 65,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Pro - kvalifikācija",
+   "status": "Finished"
+  },
+  {
+   "id": 69,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Amatieri - kvalifikācija",
+   "status": "Finished"
+  },
+  {
+   "id": 70,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Pro - playoff",
+   "status": "Finished"
+  },
+  {
+   "id": 71,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Amatieri - play-off",
+   "status": "Finished"
+  },
+  {
+   "id": 72,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Pro - par 9.vietu",
+   "status": "Finished"
+  },
+  {
+   "id": 73,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Amatieri - par 9.vietu",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

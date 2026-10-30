@@ -1,0 +1,5 @@
+﻿PlayerID,Name,RankingID,Country,City,DateOfBirth,Sex
+1001,Andreas Fjermestad,660870.0,Norway,,,Male
+1002,Jonas Bolstad,671118,Norway,,,Male
+1003,Someone Else,,Norway,,,Male
+1004,Duplicate Ranking,671118,Norway,,,Male

@@ -1,0 +1,1231 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-10-16T17:06:02.465094Z",
+ "cycles": 1,
+ "divisionRank": 3,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 133,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Cup",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 4,
+   "startPlace": 3,
+   "status": "Available"
+  },
+  {
+   "endPlace": 8,
+   "size": 4,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 3,
+   "startPlace": 5,
+   "status": "Available"
+  },
+  {
+   "endPlace": 16,
+   "size": 8,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 2,
+   "startPlace": 9,
+   "status": "Available"
+  },
+  {
+   "endPlace": 28,
+   "size": 12,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 17,
+   "status": "Available"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 28,
+   "bandSize": 28,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 186,
+   "matches": [
+    {
+     "clinchedAt": -1,
+     "games": [
+      {
+       "gameNumber": 1,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 536,
+     "homePlayerName": "Kristin Fjermestad",
+     "homeSeed": 1,
+     "id": 470,
+     "isBye": true,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 7930,
+     "awayPlayerName": "Trond Aadland",
+     "awayScore": 0,
+     "awaySeed": 17,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 944,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 1961,
+     "homePlayerName": "Kanutte Holmin Brunvoll",
+     "homeScore": 1,
+     "homeSeed": 16,
+     "id": 471,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 224,
+     "awayPlayerName": "Benjamin Nygard",
+     "awayScore": 1,
+     "awaySeed": 25,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 5,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 932,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 2299,
+     "homePlayerName": "Isla Tufteland",
+     "homeScore": 0,
+     "homeSeed": 8,
+     "id": 472,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 2,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 7931,
+     "awayPlayerName": "Lilly Aadland",
+     "awayScore": 0,
+     "awaySeed": 24,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 933,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 1589,
+     "homePlayerName": "Sille Moberg",
+     "homeScore": 1,
+     "homeSeed": 9,
+     "id": 473,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 3,
+     "walkover": "None"
+    },
+    {
+     "clinchedAt": -1,
+     "games": [
+      {
+       "gameNumber": 1,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 265,
+     "homePlayerName": "Ane Skadsem",
+     "homeSeed": 4,
+     "id": 474,
+     "isBye": true,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 4,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 7932,
+     "awayPlayerName": "Mari Brunvoll",
+     "awayScore": 1,
+     "awaySeed": 20,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 934,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 1727,
+     "homePlayerName": "Julia Carina Gangsoy",
+     "homeScore": 0,
+     "homeSeed": 13,
+     "id": 475,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 5,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 1363,
+     "awayPlayerName": "Linnea Gangsoy",
+     "awayScore": 0,
+     "awaySeed": 28,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 935,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 72,
+     "homePlayerName": "Andreas Fjermestad",
+     "homeScore": 1,
+     "homeSeed": 5,
+     "id": 476,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 6,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 692,
+     "awayPlayerName": "Vegard Flatoy",
+     "awayScore": 1,
+     "awaySeed": 21,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 5,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 937,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 627,
+     "homePlayerName": "Kjartan Moberg",
+     "homeScore": 0,
+     "homeSeed": 12,
+     "id": 477,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 7,
+     "walkover": "None"
+    },
+    {
+     "clinchedAt": -1,
+     "games": [
+      {
+       "gameNumber": 1,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 786,
+     "homePlayerName": "Jonas Bolstad",
+     "homeSeed": 2,
+     "id": 478,
+     "isBye": true,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 8,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 1043,
+     "awayPlayerName": "Mona Gangsoy",
+     "awayScore": 0,
+     "awaySeed": 18,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 936,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 195,
+     "homePlayerName": "Trond Ove Gangsoy",
+     "homeScore": 1,
+     "homeSeed": 15,
+     "id": 479,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 9,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 345,
+     "awayPlayerName": "Hans Christian Lonne",
+     "awayScore": 1,
+     "awaySeed": 26,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 7,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 938,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 81,
+     "homePlayerName": "Amund Risa Fylling",
+     "homeScore": 0,
+     "homeSeed": 7,
+     "id": 480,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 10,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 1924,
+     "awayPlayerName": "Laura Revheim",
+     "awayScore": 0,
+     "awaySeed": 23,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 11,
+       "id": 939,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 333,
+     "homePlayerName": "Sinus Moberg",
+     "homeScore": 1,
+     "homeSeed": 10,
+     "id": 481,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 11,
+     "walkover": "None"
+    },
+    {
+     "clinchedAt": -1,
+     "games": [
+      {
+       "gameNumber": 1,
+       "id": 0,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 1764,
+     "homePlayerName": "Tomas Hoven Skauge",
+     "homeSeed": 3,
+     "id": 482,
+     "isBye": true,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 12,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 240,
+     "awayPlayerName": "Arne Hetlelid",
+     "awayScore": 1,
+     "awaySeed": 19,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 941,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 70,
+     "homePlayerName": "Daniel Nygard",
+     "homeScore": 0,
+     "homeSeed": 14,
+     "id": 483,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 13,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 2108,
+     "awayPlayerName": "Albin Holmin Brunvoll",
+     "awayScore": 0,
+     "awaySeed": 27,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 942,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 1109,
+     "homePlayerName": "Morten Aarflot",
+     "homeScore": 1,
+     "homeSeed": 6,
+     "id": 484,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 14,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 153,
+     "awayPlayerName": "Arne Johannes Holmin",
+     "awayScore": 0,
+     "awaySeed": 22,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 943,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 952,
+     "homePlayerName": "Oline Holmin Brunvoll",
+     "homeScore": 1,
+     "homeSeed": 11,
+     "id": 485,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 15,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 133
+  },
+  {
+   "bandEndPlace": 28,
+   "bandSize": 28,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 187,
+   "matches": [
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 1961,
+     "awayPlayerName": "Kanutte Holmin Brunvoll",
+     "awayScore": 0,
+     "awaySeed": 16,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 6,
+       "id": 945,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 536,
+     "homePlayerName": "Kristin Fjermestad",
+     "homeScore": 1,
+     "homeSeed": 1,
+     "id": 486,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 1589,
+     "awayPlayerName": "Sille Moberg",
+     "awayScore": 0,
+     "awaySeed": 9,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 949,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 224,
+     "homePlayerName": "Benjamin Nygard",
+     "homeScore": 1,
+     "homeSeed": 25,
+     "id": 487,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 7932,
+     "awayPlayerName": "Mari Brunvoll",
+     "awayScore": 0,
+     "awaySeed": 20,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 6,
+       "id": 946,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 265,
+     "homePlayerName": "Ane Skadsem",
+     "homeScore": 1,
+     "homeSeed": 4,
+     "id": 488,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 2,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 692,
+     "awayPlayerName": "Vegard Flatoy",
+     "awayScore": 1,
+     "awaySeed": 21,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 950,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 72,
+     "homePlayerName": "Andreas Fjermestad",
+     "homeScore": 0,
+     "homeSeed": 5,
+     "id": 489,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 3,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 195,
+     "awayPlayerName": "Trond Ove Gangsoy",
+     "awayScore": 1,
+     "awaySeed": 15,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 951,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 786,
+     "homePlayerName": "Jonas Bolstad",
+     "homeScore": 0,
+     "homeSeed": 2,
+     "id": 490,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 4,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 333,
+     "awayPlayerName": "Sinus Moberg",
+     "awayScore": 0,
+     "awaySeed": 10,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 948,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 345,
+     "homePlayerName": "Hans Christian Lonne",
+     "homeScore": 1,
+     "homeSeed": 26,
+     "id": 491,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 5,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 240,
+     "awayPlayerName": "Arne Hetlelid",
+     "awayScore": 1,
+     "awaySeed": 19,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 6,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 947,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 1764,
+     "homePlayerName": "Tomas Hoven Skauge",
+     "homeScore": 0,
+     "homeSeed": 3,
+     "id": 492,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 6,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 952,
+     "awayPlayerName": "Oline Holmin Brunvoll",
+     "awayScore": 1,
+     "awaySeed": 11,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 952,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 1109,
+     "homePlayerName": "Morten Aarflot",
+     "homeScore": 0,
+     "homeSeed": 6,
+     "id": 493,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 7,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 133
+  },
+  {
+   "bandEndPlace": 28,
+   "bandSize": 28,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 188,
+   "matches": [
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 224,
+     "awayPlayerName": "Benjamin Nygard",
+     "awayScore": 1,
+     "awaySeed": 25,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 953,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 536,
+     "homePlayerName": "Kristin Fjermestad",
+     "homeScore": 0,
+     "homeSeed": 1,
+     "id": 494,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 692,
+     "awayPlayerName": "Vegard Flatoy",
+     "awayScore": 1,
+     "awaySeed": 21,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 958,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 265,
+     "homePlayerName": "Ane Skadsem",
+     "homeScore": 0,
+     "homeSeed": 4,
+     "id": 495,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 1,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 345,
+     "awayPlayerName": "Hans Christian Lonne",
+     "awayScore": 0,
+     "awaySeed": 26,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 954,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 195,
+     "homePlayerName": "Trond Ove Gangsoy",
+     "homeScore": 1,
+     "homeSeed": 15,
+     "id": 496,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 2,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 952,
+     "awayPlayerName": "Oline Holmin Brunvoll",
+     "awayScore": 0,
+     "awaySeed": 11,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 6,
+       "id": 956,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 240,
+     "homePlayerName": "Arne Hetlelid",
+     "homeScore": 1,
+     "homeSeed": 19,
+     "id": 497,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 3,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 3,
+   "stageId": 133
+  },
+  {
+   "bandEndPlace": 28,
+   "bandSize": 28,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 189,
+   "matches": [
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 692,
+     "awayPlayerName": "Vegard Flatoy",
+     "awayScore": 0,
+     "awaySeed": 21,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 959,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 224,
+     "homePlayerName": "Benjamin Nygard",
+     "homeScore": 1,
+     "homeSeed": 25,
+     "id": 498,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 240,
+     "awayPlayerName": "Arne Hetlelid",
+     "awayScore": 0,
+     "awaySeed": 19,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 960,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 195,
+     "homePlayerName": "Trond Ove Gangsoy",
+     "homeScore": 1,
+     "homeSeed": 15,
+     "id": 499,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 4,
+   "stageId": 133
+  },
+  {
+   "bandEndPlace": 28,
+   "bandSize": 28,
+   "bandStartPlace": 1,
+   "bestOf": 1,
+   "gamesToWin": 1,
+   "id": 190,
+   "matches": [
+    {
+     "awayOrigin": "",
+     "awayPlayerId": 195,
+     "awayPlayerName": "Trond Ove Gangsoy",
+     "awayScore": 0,
+     "awaySeed": 15,
+     "clinchedAt": 0,
+     "games": [
+      {
+       "awayScore": 4,
+       "gameNumber": 1,
+       "homeScore": 6,
+       "id": 1019,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "",
+     "homePlayerId": 224,
+     "homePlayerName": "Benjamin Nygard",
+     "homeScore": 1,
+     "homeSeed": 25,
+     "id": 500,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 5,
+   "stageId": 133
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "",
+   "playerId": 536,
+   "playerName": "Kristin Fjermestad",
+   "seed": 1
+  },
+  {
+   "originLabel": "",
+   "playerId": 786,
+   "playerName": "Jonas Bolstad",
+   "seed": 2
+  },
+  {
+   "originLabel": "",
+   "playerId": 1764,
+   "playerName": "Tomas Hoven Skauge",
+   "seed": 3
+  },
+  {
+   "originLabel": "",
+   "playerId": 265,
+   "playerName": "Ane Skadsem",
+   "seed": 4
+  },
+  {
+   "originLabel": "",
+   "playerId": 72,
+   "playerName": "Andreas Fjermestad",
+   "seed": 5
+  },
+  {
+   "originLabel": "",
+   "playerId": 1109,
+   "playerName": "Morten Aarflot",
+   "seed": 6
+  },
+  {
+   "originLabel": "",
+   "playerId": 81,
+   "playerName": "Amund Risa Fylling",
+   "seed": 7
+  },
+  {
+   "originLabel": "",
+   "playerId": 2299,
+   "playerName": "Isla Tufteland",
+   "seed": 8
+  },
+  {
+   "originLabel": "",
+   "playerId": 1589,
+   "playerName": "Sille Moberg",
+   "seed": 9
+  },
+  {
+   "originLabel": "",
+   "playerId": 333,
+   "playerName": "Sinus Moberg",
+   "seed": 10
+  },
+  {
+   "originLabel": "",
+   "playerId": 952,
+   "playerName": "Oline Holmin Brunvoll",
+   "seed": 11
+  },
+  {
+   "originLabel": "",
+   "playerId": 627,
+   "playerName": "Kjartan Moberg",
+   "seed": 12
+  },
+  {
+   "originLabel": "",
+   "playerId": 1727,
+   "playerName": "Julia Carina Gangsoy",
+   "seed": 13
+  },
+  {
+   "originLabel": "",
+   "playerId": 70,
+   "playerName": "Daniel Nygard",
+   "seed": 14
+  },
+  {
+   "originLabel": "",
+   "playerId": 195,
+   "playerName": "Trond Ove Gangsoy",
+   "seed": 15
+  },
+  {
+   "originLabel": "",
+   "playerId": 1961,
+   "playerName": "Kanutte Holmin Brunvoll",
+   "seed": 16
+  },
+  {
+   "originLabel": "",
+   "playerId": 7930,
+   "playerName": "Trond Aadland",
+   "seed": 17
+  },
+  {
+   "originLabel": "",
+   "playerId": 1043,
+   "playerName": "Mona Gangsoy",
+   "seed": 18
+  },
+  {
+   "originLabel": "",
+   "playerId": 240,
+   "playerName": "Arne Hetlelid",
+   "seed": 19
+  },
+  {
+   "originLabel": "",
+   "playerId": 7932,
+   "playerName": "Mari Brunvoll",
+   "seed": 20
+  },
+  {
+   "originLabel": "",
+   "playerId": 692,
+   "playerName": "Vegard Flatoy",
+   "seed": 21
+  },
+  {
+   "originLabel": "",
+   "playerId": 153,
+   "playerName": "Arne Johannes Holmin",
+   "seed": 22
+  },
+  {
+   "originLabel": "",
+   "playerId": 1924,
+   "playerName": "Laura Revheim",
+   "seed": 23
+  },
+  {
+   "originLabel": "",
+   "playerId": 7931,
+   "playerName": "Lilly Aadland",
+   "seed": 24
+  },
+  {
+   "originLabel": "",
+   "playerId": 224,
+   "playerName": "Benjamin Nygard",
+   "seed": 25
+  },
+  {
+   "originLabel": "",
+   "playerId": 345,
+   "playerName": "Hans Christian Lonne",
+   "seed": 26
+  },
+  {
+   "originLabel": "",
+   "playerId": 2108,
+   "playerName": "Albin Holmin Brunvoll",
+   "seed": 27
+  },
+  {
+   "originLabel": "",
+   "playerId": 1363,
+   "playerName": "Linnea Gangsoy",
+   "seed": 28
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [],
+ "tournamentId": 20,
+ "tournamentName": "Krohnengen Open 2026",
+ "tournamentStages": [
+  {
+   "id": 133,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Cup",
+   "status": "Finished"
+  },
+  {
+   "id": 139,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grunnspel",
+   "status": "Finished"
+  },
+  {
+   "id": 148,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "A-mellomspel",
+   "status": "Finished"
+  },
+  {
+   "id": 150,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "B-mellomspel",
+   "status": "Finished"
+  },
+  {
+   "id": 152,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "B-sluttspel",
+   "status": "Finished"
+  },
+  {
+   "id": 153,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "A-sluttspel",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

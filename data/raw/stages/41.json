@@ -1,0 +1,252 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-09-30T17:34:48.853909Z",
+ "cycles": 1,
+ "divisionRank": 2,
+ "groupCount": 1,
+ "groups": [
+  {
+   "cutLines": [],
+   "cutLinesFromRules": false,
+   "cutSegments": [],
+   "id": 51,
+   "label": "A",
+   "matches": [
+    {
+     "awayPlayerId": 3793,
+     "awayPlayerName": "Olivia Sorstrommen Vestre",
+     "awayScore": 0,
+     "homePlayerId": 1589,
+     "homePlayerName": "Sille Moberg",
+     "homeScore": 3,
+     "id": 6279,
+     "isBox": false,
+     "isBye": false,
+     "isCarriedForward": false,
+     "roundNumber": 1,
+     "tableNumber": 1,
+     "walkover": "None",
+     "wentToOvertime": false
+    },
+    {
+     "homePlayerId": 4501,
+     "homePlayerName": "Alex Lauritsen",
+     "id": 6280,
+     "isBox": false,
+     "isBye": true,
+     "isCarriedForward": false,
+     "roundNumber": 1,
+     "walkover": "None",
+     "wentToOvertime": false
+    },
+    {
+     "awayPlayerId": 4501,
+     "awayPlayerName": "Alex Lauritsen",
+     "awayScore": 8,
+     "homePlayerId": 3793,
+     "homePlayerName": "Olivia Sorstrommen Vestre",
+     "homeScore": 1,
+     "id": 6281,
+     "isBox": false,
+     "isBye": false,
+     "isCarriedForward": false,
+     "roundNumber": 2,
+     "tableNumber": 1,
+     "walkover": "None",
+     "wentToOvertime": false
+    },
+    {
+     "homePlayerId": 1589,
+     "homePlayerName": "Sille Moberg",
+     "id": 6282,
+     "isBox": false,
+     "isBye": true,
+     "isCarriedForward": false,
+     "roundNumber": 2,
+     "walkover": "None",
+     "wentToOvertime": false
+    },
+    {
+     "awayPlayerId": 1589,
+     "awayPlayerName": "Sille Moberg",
+     "awayScore": 1,
+     "homePlayerId": 4501,
+     "homePlayerName": "Alex Lauritsen",
+     "homeScore": 4,
+     "id": 6283,
+     "isBox": false,
+     "isBye": false,
+     "isCarriedForward": false,
+     "roundNumber": 3,
+     "tableNumber": 1,
+     "walkover": "None",
+     "wentToOvertime": false
+    },
+    {
+     "homePlayerId": 3793,
+     "homePlayerName": "Olivia Sorstrommen Vestre",
+     "id": 6284,
+     "isBox": false,
+     "isBye": true,
+     "isCarriedForward": false,
+     "roundNumber": 3,
+     "walkover": "None",
+     "wentToOvertime": false
+    }
+   ],
+   "players": [
+    {
+     "playerId": 1589,
+     "playerIthfId": 676147,
+     "playerName": "Sille Moberg",
+     "playerRank": 1594,
+     "seedPosition": 1
+    },
+    {
+     "playerId": 4501,
+     "playerIthfId": 678318,
+     "playerName": "Alex Lauritsen",
+     "playerRank": 2787,
+     "seedPosition": 2
+    },
+    {
+     "playerId": 3793,
+     "playerIthfId": 675928,
+     "playerName": "Olivia Sorstrommen Vestre",
+     "playerRank": 3675,
+     "seedPosition": 3
+    }
+   ],
+   "stageId": 41,
+   "standings": [
+    {
+     "draws": 0,
+     "goalDifference": 10,
+     "goalsAgainst": 2,
+     "goalsFor": 12,
+     "isManual": false,
+     "losses": 0,
+     "overtimeLosses": 0,
+     "overtimeWins": 0,
+     "played": 2,
+     "playerId": 4501,
+     "playerName": "Alex Lauritsen",
+     "points": 4,
+     "position": 1,
+     "tieUnresolved": false,
+     "wins": 2
+    },
+    {
+     "draws": 0,
+     "goalDifference": 0,
+     "goalsAgainst": 4,
+     "goalsFor": 4,
+     "isManual": false,
+     "losses": 1,
+     "overtimeLosses": 0,
+     "overtimeWins": 0,
+     "played": 2,
+     "playerId": 1589,
+     "playerName": "Sille Moberg",
+     "points": 2,
+     "position": 2,
+     "tieUnresolved": false,
+     "wins": 1
+    },
+    {
+     "draws": 0,
+     "goalDifference": -10,
+     "goalsAgainst": 11,
+     "goalsFor": 1,
+     "isManual": false,
+     "losses": 2,
+     "overtimeLosses": 0,
+     "overtimeWins": 0,
+     "played": 2,
+     "playerId": 3793,
+     "playerName": "Olivia Sorstrommen Vestre",
+     "points": 0,
+     "position": 3,
+     "tieUnresolved": false,
+     "wins": 0
+    }
+   ]
+  }
+ ],
+ "hasPlayingDependents": false,
+ "id": 41,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": false,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "C-plasseringsspill",
+ "placementBands": [],
+ "playoffRounds": [],
+ "playoffSeeds": [],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "divisionRank": 2,
+   "name": "B-mellomspill",
+   "stageId": 37
+  }
+ ],
+ "tournamentId": 3,
+ "tournamentName": "Jærliga 2026/27 #8",
+ "tournamentStages": [
+  {
+   "id": 32,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grunnspill",
+   "status": "Finished"
+  },
+  {
+   "id": 36,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Mellomspill",
+   "status": "Finished"
+  },
+  {
+   "id": 37,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "B-mellomspill",
+   "status": "Finished"
+  },
+  {
+   "id": 38,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Sluttspill",
+   "status": "Finished"
+  },
+  {
+   "id": 39,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "B-sluttspill",
+   "status": "Finished"
+  },
+  {
+   "id": 40,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Kamp om 5. plass",
+   "status": "Finished"
+  },
+  {
+   "id": 41,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "C-plasseringsspill",
+   "status": "Finished"
+  }
+ ],
+ "type": "RoundRobin",
+ "typeDisplayName": "Round Robin"
+}
