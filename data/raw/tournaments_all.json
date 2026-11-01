@@ -371,5 +371,22 @@
   "startDate": "2026-10-27T00:00:00Z",
   "status": "Completed",
   "winnerName": "Daniel Nygard"
+ },
+ {
+  "canEdit": false,
+  "canSetScores": false,
+  "country": "NOR",
+  "currentStages": [],
+  "effectiveOrganizerName": "Jærligaen i Bordhockey",
+  "endDate": "2026-11-04T00:00:00Z",
+  "id": 39,
+  "level": "Level5",
+  "location": "Aula, Bygg C, Frøyland Skule., Kvernaland",
+  "name": "Jærliga 2026/27 — 04.11.2026",
+  "organizerId": 3,
+  "organizerName": "Jærligaen i Bordhockey",
+  "playerCount": 0,
+  "startDate": "2026-11-04T00:00:00Z",
+  "status": "Planned"
  }
 ]
