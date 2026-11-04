@@ -389,5 +389,21 @@
   "playerCount": 4,
   "startDate": "2026-11-04T00:00:00Z",
   "status": "Planned"
+ },
+ {
+  "canEdit": false,
+  "canSetScores": false,
+  "country": "NOR",
+  "currentStages": [],
+  "effectiveOrganizerName": "Norwegian Table Hockey Federation",
+  "endDate": "2026-11-03T00:00:00Z",
+  "id": 41,
+  "level": "Level5",
+  "location": "Bergen",
+  "name": "Bergensliga Autumn #11",
+  "playerCount": 8,
+  "startDate": "2026-11-03T00:00:00Z",
+  "status": "Completed",
+  "winnerName": "Arne Johannes Holmin"
  }
 ]
