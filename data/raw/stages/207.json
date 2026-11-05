@@ -1,0 +1,406 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-11-04T16:42:02.294539Z",
+ "cycles": 1,
+ "divisionRank": 2,
+ "field": {
+  "autoLockPaused": false,
+  "canUnlock": false,
+  "carryForwardResults": false,
+  "isSatisfied": true,
+  "rule": [
+   {
+    "groups": [],
+    "isRoster": false,
+    "placeFrom": 1,
+    "placeTo": 4,
+    "playerIds": [],
+    "stageId": 205,
+    "stageName": "Munnspill"
+   }
+  ],
+  "slots": [],
+  "source": "Stage",
+  "status": "Locked",
+  "waiting": [
+   {
+    "clinchedCount": 0,
+    "hasUnresolvedTie": false,
+    "isComplete": true,
+    "isDrawn": true,
+    "isFinalPlaces": false,
+    "played": 21,
+    "stageId": 205,
+    "stageName": "Munnspill",
+    "total": 21
+   }
+  ]
+ },
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 207,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "A-Sluttspill",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 297,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 265,
+     "awayPlayerName": "Ane Skadsem",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 7,
+       "id": 1373,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 1376,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 1383,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 72,
+     "homePlayerName": "Andreas Fjermestad",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 684,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 536,
+     "awayPlayerName": "Kristin Fjermestad",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 1374,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 1375,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 1384,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 81,
+     "homePlayerName": "Amund Risa Fylling",
+     "homeScore": 3,
+     "homeSeed": 2,
+     "id": 685,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 207
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 298,
+   "matches": [
+    {
+     "awayOrigin": "A2",
+     "awayPlayerId": 81,
+     "awayPlayerName": "Amund Risa Fylling",
+     "awayScore": 0,
+     "awaySeed": 2,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 1385,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 6,
+       "id": 1387,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 1396,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 72,
+     "homePlayerName": "Andreas Fjermestad",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 686,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 207
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 302,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 265,
+     "awayPlayerName": "Ane Skadsem",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 1391,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 1392,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 3,
+       "homeScore": 5,
+       "id": 1393,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A3",
+     "homePlayerId": 536,
+     "homePlayerName": "Kristin Fjermestad",
+     "homeScore": 3,
+     "homeSeed": 3,
+     "id": 691,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "Away"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 207
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 72,
+   "playerName": "Andreas Fjermestad",
+   "seed": 1
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 81,
+   "playerName": "Amund Risa Fylling",
+   "seed": 2
+  },
+  {
+   "originLabel": "A3",
+   "playerId": 536,
+   "playerName": "Kristin Fjermestad",
+   "seed": 3
+  },
+  {
+   "originLabel": "A4",
+   "playerId": 265,
+   "playerName": "Ane Skadsem",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Munnspill",
+   "stageId": 205
+  }
+ ],
+ "tournamentId": 39,
+ "tournamentName": "Jærliga 2026/27 #13",
+ "tournamentStages": [
+  {
+   "id": 205,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Munnspill",
+   "status": "Finished"
+  },
+  {
+   "id": 207,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "A-Sluttspill",
+   "status": "Finished"
+  },
+  {
+   "id": 208,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "B-Sluttspill",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

@@ -386,9 +386,10 @@
   "name": "Jærliga 2026/27 #13",
   "organizerId": 3,
   "organizerName": "Jærligaen i Bordhockey",
-  "playerCount": 4,
+  "playerCount": 8,
   "startDate": "2026-11-04T00:00:00Z",
-  "status": "Planned"
+  "status": "Completed",
+  "winnerName": "Andreas Fjermestad"
  },
  {
   "canEdit": false,

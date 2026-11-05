@@ -1,0 +1,393 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-11-04T16:42:30.499905Z",
+ "cycles": 1,
+ "divisionRank": 1,
+ "field": {
+  "autoLockPaused": false,
+  "canUnlock": false,
+  "carryForwardResults": false,
+  "isSatisfied": false,
+  "rule": [
+   {
+    "groups": [],
+    "isRoster": true,
+    "placeFrom": 5,
+    "playerIds": [],
+    "stageName": ""
+   }
+  ],
+  "slots": [],
+  "source": "Stage",
+  "status": "Locked",
+  "waiting": []
+ },
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 208,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "B-Sluttspill",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 299,
+   "matches": [
+    {
+     "awayOrigin": "R7",
+     "awayPlayerId": 4501,
+     "awayPlayerName": "Alex Lauritsen",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 1371,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 1377,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 3,
+       "homeScore": 3,
+       "id": 1379,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "R5",
+     "homePlayerId": 1532,
+     "homePlayerName": "Ruben Nesse Haland",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 687,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "R8",
+     "awayPlayerId": 3793,
+     "awayPlayerName": "Olivia Sorstrommen Vestre",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 1,
+       "id": 1372,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 1378,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 3,
+       "homeScore": 6,
+       "id": 1380,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "R6",
+     "homePlayerId": 1589,
+     "homePlayerName": "Sille Moberg",
+     "homeScore": 3,
+     "homeSeed": 2,
+     "id": 688,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 208
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 300,
+   "matches": [
+    {
+     "awayOrigin": "R6",
+     "awayPlayerId": 1589,
+     "awayPlayerName": "Sille Moberg",
+     "awayScore": 1,
+     "awaySeed": 2,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 1382,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 1,
+       "id": 1394,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 1,
+       "id": 1397,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 4,
+       "homeScore": 3,
+       "id": 1399,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "R5",
+     "homePlayerId": 1532,
+     "homePlayerName": "Ruben Nesse Haland",
+     "homeScore": 3,
+     "homeSeed": 1,
+     "id": 689,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 208
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 5,
+   "gamesToWin": 3,
+   "id": 301,
+   "matches": [
+    {
+     "awayOrigin": "R7",
+     "awayPlayerId": 4501,
+     "awayPlayerName": "Alex Lauritsen",
+     "awayScore": 3,
+     "awaySeed": 4,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 10,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 1381,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 0,
+       "id": 1395,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 6,
+       "gameNumber": 3,
+       "homeScore": 0,
+       "id": 1398,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 4,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "R8",
+     "homePlayerId": 3793,
+     "homePlayerName": "Olivia Sorstrommen Vestre",
+     "homeScore": 0,
+     "homeSeed": 3,
+     "id": 690,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 208
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "R5",
+   "playerId": 1532,
+   "playerName": "Ruben Nesse Haland",
+   "seed": 1
+  },
+  {
+   "originLabel": "R6",
+   "playerId": 1589,
+   "playerName": "Sille Moberg",
+   "seed": 2
+  },
+  {
+   "originLabel": "R8",
+   "playerId": 3793,
+   "playerName": "Olivia Sorstrommen Vestre",
+   "seed": 3
+  },
+  {
+   "originLabel": "R7",
+   "playerId": 4501,
+   "playerName": "Alex Lauritsen",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": ""
+  }
+ ],
+ "tournamentId": 39,
+ "tournamentName": "Jærliga 2026/27 #13",
+ "tournamentStages": [
+  {
+   "id": 205,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Munnspill",
+   "status": "Finished"
+  },
+  {
+   "id": 207,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "A-Sluttspill",
+   "status": "Finished"
+  },
+  {
+   "id": 208,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "B-Sluttspill",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}
