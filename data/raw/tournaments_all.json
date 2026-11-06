@@ -406,5 +406,20 @@
   "startDate": "2026-11-03T00:00:00Z",
   "status": "Completed",
   "winnerName": "Arne Johannes Holmin"
+ },
+ {
+  "canEdit": false,
+  "canSetScores": false,
+  "currentStages": [],
+  "effectiveOrganizerName": "Latvian Table Hockey Federation",
+  "endDate": "2026-11-05T00:00:00Z",
+  "id": 45,
+  "level": "Level6",
+  "location": "Riga",
+  "name": "GHK Altona training tournament #3",
+  "playerCount": 14,
+  "startDate": "2026-11-05T00:00:00Z",
+  "status": "Completed",
+  "winnerName": "Jekabs Rekis"
  }
 ]
