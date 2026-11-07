@@ -421,5 +421,41 @@
   "startDate": "2026-11-05T00:00:00Z",
   "status": "Completed",
   "winnerName": "Jekabs Rekis"
+ },
+ {
+  "bannerUrl": "/api/tournaments/48/banner?v=8b247cca9a704f788dea5fae02bc26cc",
+  "canEdit": false,
+  "canSetScores": false,
+  "country": "LAT",
+  "currentStages": [],
+  "effectiveOrganizerName": "Latvian Table Hockey Federation",
+  "endDate": "2026-12-06T00:00:00Z",
+  "id": 48,
+  "level": "Level2",
+  "location": "Rīga",
+  "name": "Riga Cup 2026",
+  "organizerId": 13,
+  "organizerName": "Latvian Table Hockey Federation",
+  "playerCount": 18,
+  "startDate": "2026-12-05T00:00:00Z",
+  "status": "Planned"
+ },
+ {
+  "canEdit": false,
+  "canSetScores": false,
+  "country": "LAT",
+  "currentStages": [],
+  "effectiveOrganizerName": "Incukalns THC",
+  "endDate": "2026-11-06T00:00:00Z",
+  "id": 49,
+  "level": "Level5",
+  "location": "Inčukalns",
+  "name": "Incukalns League 2026/27 #3",
+  "organizerId": 14,
+  "organizerName": "Incukalns THC",
+  "playerCount": 14,
+  "startDate": "2026-11-06T00:00:00Z",
+  "status": "Completed",
+  "winnerName": "Patriks Strods"
  }
 ]
