@@ -436,7 +436,7 @@
   "name": "Riga Cup 2026",
   "organizerId": 13,
   "organizerName": "Latvian Table Hockey Federation",
-  "playerCount": 24,
+  "playerCount": 31,
   "startDate": "2026-12-05T00:00:00Z",
   "status": "Planned"
  },
@@ -459,6 +459,7 @@
   "winnerName": "Patriks Strods"
  },
  {
+  "bannerUrl": "/api/tournaments/51/banner?v=28565526f8d643d7bb0d8e64933db5e9",
   "canEdit": false,
   "canSetScores": false,
   "country": "NOR",
@@ -468,24 +469,17 @@
   "id": 51,
   "level": "Level5",
   "location": "Aula, Bygg C, Frøyland Skule., Kvernaland",
-  "name": "Jærliga 2026/27 — 11.11.2026",
+  "name": "Jærliga 2026/27 #14",
   "organizerId": 3,
   "organizerName": "Jærligaen i Bordhockey",
-  "playerCount": 0,
+  "playerCount": 4,
   "startDate": "2026-11-11T00:00:00Z",
   "status": "Planned"
  },
  {
   "canEdit": false,
   "canSetScores": false,
-  "currentStages": [
-   {
-    "name": "Amatieri",
-    "playedMatches": 15,
-    "stageId": 233,
-    "totalMatches": 55
-   }
-  ],
+  "currentStages": [],
   "effectiveOrganizerName": "Table Hockey Global",
   "id": 52,
   "level": "Level6",
