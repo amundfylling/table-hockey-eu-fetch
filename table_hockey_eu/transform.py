@@ -5,6 +5,10 @@ One row per round-robin match and one per playoff game. Skipped: carried-forward
 round-robin matches (copies of earlier-stage results), byes, unplayed matches or
 games, and walkovers. Skips are counted per round-robin match, per playoff series
 for byes and walkovers, and per playoff game for unplayed games.
+
+Overtime is "Yes" only for a game the source marks as overtime that was decided by one
+goal: overtime is sudden death, so a flag on a wider margin is a data-entry error and
+is cleared (counted as "overtime_flag_cleared").
 """
 
 from __future__ import annotations
@@ -13,7 +17,7 @@ from collections import Counter
 
 import pandas as pd
 
-from .players import PlayerMapper, to_int
+from .players import PlayerMapper, country_name, to_int
 
 SITE_URL = "https://table-hockey.eu"
 SOURCE = "table-hockey.eu"
@@ -45,6 +49,10 @@ COLUMNS = [
     "SourceTournamentID",
     "SourceStageID",
     "SourceMatchID",
+    # Added after the bordshockey columns; readers that select columns by name are unaffected.
+    "Country",
+    "City",
+    "Walkover",
 ]
 INT_COLUMNS = [
     "StageID",
@@ -64,25 +72,30 @@ def _walkover(value) -> bool:
     return value not in (None, "", "None")
 
 
-def _overtime(value) -> str:
-    return "Yes" if value else "No"
+def _overtime(value, home, away, notes: Counter) -> str:
+    if not value:
+        return "No"
+    if abs(home - away) != 1:
+        notes["overtime_flag_cleared"] += 1
+        return "No"
+    return "Yes"
 
 
 def _is_bye(match: dict) -> bool:
     return bool(match.get("isBye")) or match.get("homePlayerId") is None or match.get("awayPlayerId") is None
 
 
-def _ithf_lookup(detail: dict, stages: dict[int, dict]) -> dict[int, object]:
-    """table-hockey.eu player id -> ITHF id (or None) from the tournament and its groups."""
-    lookup: dict[int, object] = {}
+def _player_lookup(detail: dict, stages: dict[int, dict]) -> dict[int, tuple[object, str | None, str | None]]:
+    """table-hockey.eu player id -> (ITHF id or None, name, nation) from the tournament and its groups."""
+    lookup: dict[int, tuple[object, str | None, str | None]] = {}
     for stage in stages.values():
         for group in stage.get("groups") or []:
             for player in group.get("players") or []:
                 if player.get("playerId") is not None:
-                    lookup[player["playerId"]] = player.get("playerIthfId")
+                    lookup[player["playerId"]] = (player.get("playerIthfId"), player.get("playerName"), None)
     for player in detail.get("players") or []:
         if player.get("id") is not None:
-            lookup[player["id"]] = player.get("ithfId")
+            lookup[player["id"]] = (player.get("ithfId"), player.get("name"), player.get("nation"))
     return lookup
 
 
@@ -90,12 +103,13 @@ def tournament_rows(
     summary: dict, detail: dict, stages: dict[int, dict], mapper: PlayerMapper, skipped: Counter
 ) -> list[dict]:
     tid = summary["id"]
-    ithf = _ithf_lookup(detail, stages)
-    for site_id, ithf_id in ithf.items():
-        mapper.map(site_id, ithf_id)
+    players = _player_lookup(detail, stages)
+    for site_id, (ithf_id, name, nation) in players.items():
+        mapper.map(site_id, ithf_id, name, nation)
 
     def player_id(site_id) -> int:
-        return mapper.map(site_id, ithf.get(site_id))
+        ithf_id, name, nation = players.get(site_id, (None, None, None))
+        return mapper.map(site_id, ithf_id, name, nation)
 
     start = detail.get("startDate") or summary.get("startDate") or ""
     tournament_url = f"{SITE_URL}/tournaments/{tid}"
@@ -106,6 +120,10 @@ def tournament_rows(
         "TournamentURL": tournament_url,
         "Source": SOURCE,
         "SourceTournamentID": str(tid),
+        "Country": country_name(detail.get("country") or summary.get("country")),
+        "City": (detail.get("ithfTownName") or "").strip() or None,
+        # Walkovers the source marks are skipped, so every emitted game was played.
+        "Walkover": "No",
     }
 
     rows: list[dict] = []
@@ -135,6 +153,8 @@ def tournament_rows(
                 "GoalsPlayer1": home,
                 "GoalsPlayer2": away,
                 **extra,
+                "_home": match["homePlayerId"],
+                "_away": match["awayPlayerId"],
             }
 
         if stage_type == "RoundRobin":
@@ -157,7 +177,9 @@ def tournament_rows(
                                 match["homeScore"],
                                 match["awayScore"],
                                 {
-                                    "Overtime": _overtime(match.get("wentToOvertime")),
+                                    "Overtime": _overtime(
+                                        match.get("wentToOvertime"), match["homeScore"], match["awayScore"], skipped
+                                    ),
                                     "Stage": label,
                                     "RoundNumber": match.get("roundNumber"),
                                     "PlayoffGameNumber": None,
@@ -192,7 +214,9 @@ def tournament_rows(
                                 game["homeScore"],
                                 game["awayScore"],
                                 {
-                                    "Overtime": _overtime(game.get("wentToOvertime")),
+                                    "Overtime": _overtime(
+                                        game.get("wentToOvertime"), game["homeScore"], game["awayScore"], skipped
+                                    ),
                                     "Stage": label,
                                     "RoundNumber": number,
                                     "PlayoffGameNumber": game.get("gameNumber"),
@@ -225,10 +249,32 @@ def build_frame(rows: list[dict]) -> pd.DataFrame:
     return frame
 
 
+def _guard(rows: list[dict], players_by_tid: dict, mapper: PlayerMapper) -> bool:
+    """Refuse name matches that give a player the same id as an opponent in the same tournament.
+    True when something new was refused (the rows must be rebuilt)."""
+    new = False
+    for row in rows:
+        if row["Player1ID"] != row["Player2ID"]:
+            continue
+        players = players_by_tid[row["SourceTournamentID"]]
+        sides = [(row["_home"], row["Player2"]), (row["_away"], row["Player1"])]
+        for site_id, opponent in sides:
+            ithf = to_int(players.get(site_id, (None,))[0])
+            if ithf is not None and mapper.method(ithf) == "name":
+                reason = f"plays {opponent} in tournament {row['SourceTournamentID']}"
+                new |= mapper.block(ithf, row["Player1ID"], reason)
+    return new
+
+
 def transform(tournaments, mapper: PlayerMapper) -> tuple[pd.DataFrame, Counter]:
     """tournaments: iterable of (listing entry, detail, stages by id)."""
-    skipped: Counter = Counter({reason: 0 for reason in SKIP_REASONS})
-    rows: list[dict] = []
-    for summary, detail, stages in tournaments:
-        rows.extend(tournament_rows(summary, detail, stages, mapper, skipped))
-    return build_frame(rows), skipped
+    tournaments = list(tournaments)
+    while True:
+        mapper.reset()
+        skipped: Counter = Counter({reason: 0 for reason in SKIP_REASONS})
+        rows: list[dict] = []
+        for summary, detail, stages in tournaments:
+            rows.extend(tournament_rows(summary, detail, stages, mapper, skipped))
+        players_by_tid = {str(s["id"]): _player_lookup(d, st) for s, d, st in tournaments}
+        if not _guard(rows, players_by_tid, mapper):
+            return build_frame(rows), skipped
