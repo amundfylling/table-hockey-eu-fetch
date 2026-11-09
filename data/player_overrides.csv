@@ -1,0 +1,2 @@
+ithf_id,player_id,name,reason
+676383,15529,Edgars Liepins,"Confirmed by the owner (data audit, 2026-11). The name rule is ambiguous: players_data.csv has 15529 Edgars Liepins (b. 29.02.1988) and 15217 Edgars Liepiņš (b. 28.02.1998), both Latvia with an empty RankingID."

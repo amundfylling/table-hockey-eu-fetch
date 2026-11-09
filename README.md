@@ -58,19 +58,28 @@ entry from `index.json`.
   (`isBye` or a missing player), unplayed matches or games (no score, e.g. games past the clinch), and walkovers
   (`walkover` other than `"None"`, on a round-robin match or a playoff series).
 - Round-robin draws are kept.
+- `Overtime` is `Yes` only when the source marks the game as overtime and it was decided by one goal (overtime is
+  sudden death); a flag on any other margin is a data-entry error and is cleared.
 - `Date` is the tournament's `startDate` (matches have no timestamps of their own).
 - Rows are sorted by date, tournament, stage sequence, round, stage, match and game, so the file only changes when
   the data does.
 
 ### Player ids
 
-The H2H site's canonical id is the Sportscorpion `PlayerID`. Names are never matched.
+The H2H site's canonical id is the Sportscorpion `PlayerID`.
 
 1. The player's ITHF id matches a `RankingID` in `players_data.csv`: that `PlayerID`.
-2. Any other ITHF id: `9_000_000 + ithfId`.
-3. No ITHF id (anonymous players): `8_000_000 + table-hockey.eu player id`.
+2. The ITHF id is in `data/player_overrides.csv`: that `PlayerID` (confirmed cases the name rule cannot decide).
+3. Any other ITHF id, when the player's name is in `players_data.csv` exactly once under a `PlayerID` with an empty
+   `RankingID` (same nation when both sides have one): that `PlayerID`. Names are compared after folding accents and
+   word order and dropping quoted nicknames, the same rule as table-hockey-scrapers' `ithf_name_sportscorpion`.
+   A name match is refused when it would give the player the same id as an opponent in the same tournament.
+   Every decision (matched, ambiguous, no match, refused) is written to `data/name_matches.csv`.
+4. Any other ITHF id: `9_000_000 + ithfId`.
+5. No ITHF id (anonymous players): `8_000_000 + table-hockey.eu player id`.
 
-The mapping is rebuilt every run, so players who later appear on Sportscorpion switch to their real id.
+The mapping is rebuilt every run, so players who later appear on Sportscorpion switch to their real id. When an id
+changes, the run appends `old_id,new_id` to `data/id_changes.csv` so the H2H site can follow it.
 
 ### Output schema
 
@@ -96,6 +105,12 @@ Integers are pandas `Int64`, text is `string`.
 | `Source` | `table-hockey.eu` |
 | `SourceTournamentID`, `SourceStageID` | raw ids |
 | `SourceMatchID` | round robin: match id; playoff: `{seriesId}-{gameNumber}` |
+| `Country` | country of the event (`country` code on the tournament, as a name, e.g. `Norway`); empty when the event has none |
+| `City` | the event's ITHF town (`ithfTownName`); empty when the event has none |
+| `Walkover` | always `No`: walkovers the source marks are skipped (see above) |
+
+`Country`, `City` and `Walkover` come after the bordshockey columns, so readers that select columns by name are
+unaffected.
 
 ## Usage
 
@@ -116,6 +131,9 @@ python -m unittest discover -s tests -v
 
 - `table_hockey_eu/api.py`: rate-limited API client with retries.
 - `table_hockey_eu/cache.py`: the raw JSON cache and the crawl.
-- `table_hockey_eu/players.py`: Sportscorpion id mapping.
+- `table_hockey_eu/players.py`: Sportscorpion id mapping, including the name rule.
+- `data/player_overrides.csv`: confirmed ITHF id -> `PlayerID` mappings (`ithf_id,player_id,name,reason`).
+- `data/name_matches.csv`: every name-match decision of the last run.
+- `data/id_changes.csv`: `old_id,new_id` for every player id that changed.
 - `table_hockey_eu/transform.py`: cached JSON to rows in the output schema.
 - `table_hockey_eu/__main__.py`: command line entry point and sanity checks.
