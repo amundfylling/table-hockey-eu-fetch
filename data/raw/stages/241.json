@@ -1,0 +1,229 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-11-10T18:00:10.604471Z",
+ "cycles": 1,
+ "divisionRank": 3,
+ "groupCount": 1,
+ "groups": [
+  {
+   "cutLines": [],
+   "cutLinesFromRules": false,
+   "cutSegments": [],
+   "id": 195,
+   "label": "A",
+   "matches": [
+    {
+     "awayPlayerId": 7172,
+     "awayPlayerName": "Valentina Martinez-Eide",
+     "awayScore": 0,
+     "homePlayerId": 2108,
+     "homePlayerName": "Albin Holmin Brunvoll",
+     "homeScore": 4,
+     "id": 16038,
+     "isBox": false,
+     "isBye": false,
+     "isCarriedForward": false,
+     "roundNumber": 1,
+     "tableNumber": 1,
+     "walkover": "None",
+     "wentToOvertime": false
+    },
+    {
+     "homePlayerId": 8025,
+     "homePlayerName": "Kristine Eide",
+     "id": 16039,
+     "isBox": false,
+     "isBye": true,
+     "isCarriedForward": false,
+     "roundNumber": 1,
+     "walkover": "None",
+     "wentToOvertime": false
+    },
+    {
+     "awayPlayerId": 8025,
+     "awayPlayerName": "Kristine Eide",
+     "awayScore": 0,
+     "homePlayerId": 7172,
+     "homePlayerName": "Valentina Martinez-Eide",
+     "homeScore": 1,
+     "id": 16040,
+     "isBox": false,
+     "isBye": false,
+     "isCarriedForward": false,
+     "roundNumber": 2,
+     "tableNumber": 1,
+     "walkover": "None",
+     "wentToOvertime": false
+    },
+    {
+     "homePlayerId": 2108,
+     "homePlayerName": "Albin Holmin Brunvoll",
+     "id": 16041,
+     "isBox": false,
+     "isBye": true,
+     "isCarriedForward": false,
+     "roundNumber": 2,
+     "walkover": "None",
+     "wentToOvertime": false
+    },
+    {
+     "awayPlayerId": 2108,
+     "awayPlayerName": "Albin Holmin Brunvoll",
+     "awayScore": 3,
+     "homePlayerId": 8025,
+     "homePlayerName": "Kristine Eide",
+     "homeScore": 1,
+     "id": 16042,
+     "isBox": false,
+     "isBye": false,
+     "isCarriedForward": false,
+     "roundNumber": 3,
+     "tableNumber": 1,
+     "walkover": "None",
+     "wentToOvertime": false
+    },
+    {
+     "homePlayerId": 7172,
+     "homePlayerName": "Valentina Martinez-Eide",
+     "id": 16043,
+     "isBox": false,
+     "isBye": true,
+     "isCarriedForward": false,
+     "roundNumber": 3,
+     "walkover": "None",
+     "wentToOvertime": false
+    }
+   ],
+   "players": [
+    {
+     "playerId": 2108,
+     "playerIthfId": 676169,
+     "playerName": "Albin Holmin Brunvoll",
+     "playerRank": 2108,
+     "seedPosition": 1
+    },
+    {
+     "playerId": 8025,
+     "playerName": "Kristine Eide",
+     "playerRank": 0,
+     "seedPosition": 2
+    },
+    {
+     "playerId": 7172,
+     "playerIthfId": 677857,
+     "playerName": "Valentina Martinez-Eide",
+     "playerRank": 7005,
+     "seedPosition": 3
+    }
+   ],
+   "stageId": 241,
+   "standings": [
+    {
+     "draws": 0,
+     "goalDifference": 6,
+     "goalsAgainst": 1,
+     "goalsFor": 7,
+     "isManual": false,
+     "losses": 0,
+     "overtimeLosses": 0,
+     "overtimeWins": 0,
+     "played": 2,
+     "playerId": 2108,
+     "playerName": "Albin Holmin Brunvoll",
+     "points": 4,
+     "position": 1,
+     "tieUnresolved": false,
+     "wins": 2
+    },
+    {
+     "draws": 0,
+     "goalDifference": -3,
+     "goalsAgainst": 4,
+     "goalsFor": 1,
+     "isManual": false,
+     "losses": 1,
+     "overtimeLosses": 0,
+     "overtimeWins": 0,
+     "played": 2,
+     "playerId": 7172,
+     "playerName": "Valentina Martinez-Eide",
+     "points": 2,
+     "position": 2,
+     "tieUnresolved": false,
+     "wins": 1
+    },
+    {
+     "draws": 0,
+     "goalDifference": -3,
+     "goalsAgainst": 4,
+     "goalsFor": 1,
+     "isManual": false,
+     "losses": 2,
+     "overtimeLosses": 0,
+     "overtimeWins": 0,
+     "played": 2,
+     "playerId": 8025,
+     "playerName": "Kristine Eide",
+     "points": 0,
+     "position": 3,
+     "tieUnresolved": false,
+     "wins": 0
+    }
+   ]
+  }
+ ],
+ "hasPlayingDependents": false,
+ "id": 241,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": false,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Kamp om 9. plass",
+ "placementBands": [],
+ "playoffRounds": [],
+ "playoffSeeds": [],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Grunnspel",
+   "stageId": 237
+  }
+ ],
+ "tournamentId": 55,
+ "tournamentName": "Bergensliga Autumn #12",
+ "tournamentStages": [
+  {
+   "id": 237,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grunnspel",
+   "status": "Finished"
+  },
+  {
+   "id": 238,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Sluttspel",
+   "status": "Finished"
+  },
+  {
+   "id": 239,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Kamp om 5. plass",
+   "status": "Finished"
+  },
+  {
+   "id": 241,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Kamp om 9. plass",
+   "status": "Finished"
+  }
+ ],
+ "type": "RoundRobin",
+ "typeDisplayName": "Round Robin"
+}

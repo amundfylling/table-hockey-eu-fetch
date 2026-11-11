@@ -1,5 +1,6 @@
 [
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/1/banner?v=53b9c9db3cff49a2b53a6d66fbcd1564",
   "canEdit": false,
   "canSetScores": false,
@@ -19,6 +20,7 @@
   "winnerName": "Rainers Kalnins"
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/3/banner?v=186458ed69b8453dacacdb77417c25ce",
   "canEdit": false,
   "canSetScores": false,
@@ -38,6 +40,7 @@
   "winnerName": "Magnus Klippen"
  },
  {
+  "bannerFromSeries": false,
   "canEdit": false,
   "canSetScores": false,
   "country": "SLO",
@@ -56,24 +59,24 @@
   "winnerName": "Rainers Kalnins"
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/7/banner?v=b8036f5d89a44bb394c8c4f848bb1a28",
   "canEdit": false,
   "canSetScores": false,
   "country": "UKR",
   "currentStages": [],
-  "effectiveOrganizerName": "Федерація настільного хокею України",
+  "effectiveOrganizerName": "Ukrainian Table Hockey Federation",
   "id": 7,
   "level": "Level4",
-  "location": "Київ",
+  "location": "Публічна бібліотека імені Лесі Українки, м. Київ",
   "name": "Перший етап ВЧУ сезону 2026/2027",
-  "organizerId": 5,
-  "organizerName": "Федерація настільного хокею України",
   "playerCount": 10,
   "startDate": "2026-10-17T00:00:00Z",
   "status": "Completed",
   "winnerName": "Anton Umanskyy"
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/8/banner?v=29a5682780644734ba395466e1caf42e",
   "canEdit": false,
   "canSetScores": false,
@@ -92,6 +95,7 @@
   "winnerName": "Maris Kirsis"
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/10/banner?v=566ab2b0207f4a61900259aa987838c8",
   "canEdit": false,
   "canSetScores": false,
@@ -110,6 +114,7 @@
   "winnerName": "Raivis Miglinieks \"The Cobra\""
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/12/banner?v=6bf6443ac7744736ae1cfcfab1e42c1b",
   "canEdit": false,
   "canSetScores": false,
@@ -129,6 +134,7 @@
   "winnerName": "Andreas Fjermestad"
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/13/banner?v=1c9e888a7a0449a68323a886a739337c",
   "canEdit": false,
   "canSetScores": false,
@@ -147,6 +153,7 @@
   "winnerName": "Sandis Kalnins"
  },
  {
+  "bannerFromSeries": false,
   "canEdit": false,
   "canSetScores": false,
   "country": "NOR",
@@ -165,6 +172,7 @@
   "winnerName": "Arne Johannes Holmin"
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/16/banner?v=e4c0943dede641c6be3935cffb568374",
   "canEdit": false,
   "canSetScores": false,
@@ -179,11 +187,22 @@
   "organizerId": 3,
   "organizerName": "Jærligaen i Bordhockey",
   "playerCount": 8,
+  "seriesInfo": {
+   "color": "#15803d",
+   "hasCustomName": true,
+   "number": 1,
+   "seasonId": 1,
+   "seasonLabel": "2026",
+   "seriesId": 1,
+   "seriesName": "Jærliga 2026/27",
+   "weight": 1
+  },
   "startDate": "2026-10-14T00:00:00Z",
   "status": "Completed",
   "winnerName": "Amund Risa Fylling"
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/20/banner?v=acecc1d21c5342fe84c78f06cf83d1f0",
   "canEdit": false,
   "canSetScores": false,
@@ -203,6 +222,7 @@
   "winnerName": "Amund Risa Fylling"
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/23/banner?v=f45012c11c22421fb8400e58c8c9497c",
   "canEdit": false,
   "canSetScores": false,
@@ -222,6 +242,7 @@
   "winnerName": "Regnars Vazolins"
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/24/banner?v=a3f8d63f64ff4c228aea0a18c2255d18",
   "canEdit": false,
   "canSetScores": false,
@@ -241,6 +262,7 @@
   "winnerName": "Renars Masulis"
  },
  {
+  "bannerFromSeries": false,
   "canEdit": false,
   "canSetScores": false,
   "country": "NOR",
@@ -259,6 +281,7 @@
   "winnerName": "Linnea Gangsoy"
  },
  {
+  "bannerFromSeries": false,
   "canEdit": false,
   "canSetScores": false,
   "currentStages": [],
@@ -274,6 +297,7 @@
   "winnerName": "Albin Holmin Brunvoll"
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/28/banner?v=d5aebe43cdcd4475b217aad0dd144311",
   "canEdit": false,
   "canSetScores": false,
@@ -291,6 +315,7 @@
   "winnerName": "Danilo Baumanis"
  },
  {
+  "bannerFromSeries": false,
   "canEdit": false,
   "canSetScores": false,
   "country": "NOR",
@@ -307,6 +332,7 @@
   "winnerName": "Daniel Nygard"
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/30/banner?v=ad00130c4a1e4a17bca73acb4209e38d",
   "canEdit": false,
   "canSetScores": false,
@@ -323,6 +349,7 @@
   "winnerName": "Andreas Fjermestad"
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/33/banner?v=e324ec599969475cbb4fc3a6b8c38a64",
   "canEdit": false,
   "canSetScores": false,
@@ -337,11 +364,22 @@
   "organizerId": 3,
   "organizerName": "Jærligaen i Bordhockey",
   "playerCount": 10,
+  "seriesInfo": {
+   "color": "#15803d",
+   "hasCustomName": true,
+   "number": 2,
+   "seasonId": 1,
+   "seasonLabel": "2026",
+   "seriesId": 1,
+   "seriesName": "Jærliga 2026/27",
+   "weight": 1
+  },
   "startDate": "2026-10-28T00:00:00Z",
   "status": "Completed",
   "winnerName": "Magnus Klippen"
  },
  {
+  "bannerFromSeries": false,
   "canEdit": false,
   "canSetScores": false,
   "currentStages": [],
@@ -357,6 +395,7 @@
   "status": "Planned"
  },
  {
+  "bannerFromSeries": false,
   "canEdit": false,
   "canSetScores": false,
   "country": "NOR",
@@ -373,6 +412,7 @@
   "winnerName": "Daniel Nygard"
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/39/banner?v=c60fa7617b0e4f96a99c6763a9f5eb63",
   "canEdit": false,
   "canSetScores": false,
@@ -387,11 +427,22 @@
   "organizerId": 3,
   "organizerName": "Jærligaen i Bordhockey",
   "playerCount": 8,
+  "seriesInfo": {
+   "color": "#15803d",
+   "hasCustomName": true,
+   "number": 3,
+   "seasonId": 1,
+   "seasonLabel": "2026",
+   "seriesId": 1,
+   "seriesName": "Jærliga 2026/27",
+   "weight": 1
+  },
   "startDate": "2026-11-04T00:00:00Z",
   "status": "Completed",
   "winnerName": "Andreas Fjermestad"
  },
  {
+  "bannerFromSeries": false,
   "canEdit": false,
   "canSetScores": false,
   "country": "NOR",
@@ -408,6 +459,7 @@
   "winnerName": "Arne Johannes Holmin"
  },
  {
+  "bannerFromSeries": false,
   "canEdit": false,
   "canSetScores": false,
   "currentStages": [],
@@ -423,6 +475,7 @@
   "winnerName": "Jekabs Rekis"
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/48/banner?v=8b247cca9a704f788dea5fae02bc26cc",
   "canEdit": false,
   "canSetScores": false,
@@ -436,11 +489,12 @@
   "name": "Riga Cup 2026",
   "organizerId": 13,
   "organizerName": "Latvian Table Hockey Federation",
-  "playerCount": 37,
+  "playerCount": 40,
   "startDate": "2026-12-05T00:00:00Z",
   "status": "Planned"
  },
  {
+  "bannerFromSeries": false,
   "canEdit": false,
   "canSetScores": false,
   "country": "LAT",
@@ -459,6 +513,7 @@
   "winnerName": "Patriks Strods"
  },
  {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/51/banner?v=28565526f8d643d7bb0d8e64933db5e9",
   "canEdit": false,
   "canSetScores": false,
@@ -472,11 +527,22 @@
   "name": "Jærliga 2026/27 #14",
   "organizerId": 3,
   "organizerName": "Jærligaen i Bordhockey",
-  "playerCount": 4,
+  "playerCount": 8,
+  "seriesInfo": {
+   "color": "#15803d",
+   "hasCustomName": true,
+   "number": 4,
+   "seasonId": 1,
+   "seasonLabel": "2026",
+   "seriesId": 1,
+   "seriesName": "Jærliga 2026/27",
+   "weight": 1
+  },
   "startDate": "2026-11-11T00:00:00Z",
   "status": "Planned"
  },
  {
+  "bannerFromSeries": false,
   "canEdit": false,
   "canSetScores": false,
   "currentStages": [],
@@ -489,5 +555,37 @@
   "organizerName": "Table Hockey Global",
   "playerCount": 20,
   "status": "Planned"
+ },
+ {
+  "bannerFromSeries": false,
+  "bannerUrl": "/api/tournaments/54/banner?v=234bc302bfcf47fc8f4205bb000c006d",
+  "canEdit": false,
+  "canSetScores": false,
+  "country": "UKR",
+  "currentStages": [],
+  "effectiveOrganizerName": "Ukrainian Table Hockey Federation",
+  "id": 54,
+  "level": "Level4",
+  "location": "Публічна бібліотека імені Лесі Українки, м. Київ",
+  "name": "Другий етап ВЧУ сезону 2026/2027",
+  "playerCount": 2,
+  "startDate": "2027-02-20T00:00:00Z",
+  "status": "Planned"
+ },
+ {
+  "bannerFromSeries": false,
+  "canEdit": false,
+  "canSetScores": false,
+  "country": "NOR",
+  "currentStages": [],
+  "effectiveOrganizerName": "Norwegian Table Hockey Federation",
+  "id": 55,
+  "level": "Level5",
+  "location": "Bergen",
+  "name": "Bergensliga Autumn #12",
+  "playerCount": 11,
+  "startDate": "2026-11-10T00:00:00Z",
+  "status": "Completed",
+  "winnerName": "Daniel Nygard"
  }
 ]
