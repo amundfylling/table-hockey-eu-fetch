@@ -1,0 +1,135 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-11-11T19:53:21.052647Z",
+ "cycles": 1,
+ "divisionRank": 1,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 252,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "A-Sluttspill",
+ "placementBands": [],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 2,
+   "bandSize": 2,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 361,
+   "matches": [
+    {
+     "awayOrigin": "A2",
+     "awayPlayerId": 265,
+     "awayPlayerName": "Ane Skadsem",
+     "awayScore": 1,
+     "awaySeed": 2,
+     "clinchedAt": 2,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 1590,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 2,
+       "id": 1591,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 3,
+       "homeScore": 4,
+       "id": 1592,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 29,
+     "homePlayerName": "Magnus Klippen",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 809,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 252
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 29,
+   "playerName": "Magnus Klippen",
+   "seed": 1
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 265,
+   "playerName": "Ane Skadsem",
+   "seed": 2
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "A-mellomspill",
+   "stageId": 249
+  }
+ ],
+ "tournamentId": 51,
+ "tournamentName": "Jærliga 2026/27 #14",
+ "tournamentStages": [
+  {
+   "id": 249,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "A-mellomspill",
+   "status": "Finished"
+  },
+  {
+   "id": 250,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "B-Mellomspill",
+   "status": "Finished"
+  },
+  {
+   "id": 251,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "C-Mellomspill",
+   "status": "Finished"
+  },
+  {
+   "id": 252,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "A-Sluttspill",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

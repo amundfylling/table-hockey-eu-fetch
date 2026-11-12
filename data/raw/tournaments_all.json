@@ -489,7 +489,7 @@
   "name": "Riga Cup 2026",
   "organizerId": 13,
   "organizerName": "Latvian Table Hockey Federation",
-  "playerCount": 40,
+  "playerCount": 49,
   "startDate": "2026-12-05T00:00:00Z",
   "status": "Planned"
  },
@@ -527,7 +527,7 @@
   "name": "Jærliga 2026/27 #14",
   "organizerId": 3,
   "organizerName": "Jærligaen i Bordhockey",
-  "playerCount": 8,
+  "playerCount": 15,
   "seriesInfo": {
    "color": "#15803d",
    "hasCustomName": true,
@@ -539,7 +539,8 @@
    "weight": 1
   },
   "startDate": "2026-11-11T00:00:00Z",
-  "status": "Planned"
+  "status": "Completed",
+  "winnerName": "Magnus Klippen"
  },
  {
   "bannerFromSeries": false,
@@ -587,5 +588,22 @@
   "startDate": "2026-11-10T00:00:00Z",
   "status": "Completed",
   "winnerName": "Daniel Nygard"
+ },
+ {
+  "bannerFromSeries": false,
+  "bannerUrl": "/api/tournaments/60/banner?v=2819456f3ce248dbbcbc2fd8bf149251",
+  "canEdit": false,
+  "canSetScores": false,
+  "country": "EST",
+  "currentStages": [],
+  "effectiveOrganizerName": "Estonian Table Hockey Union",
+  "endDate": "2026-11-29T00:00:00Z",
+  "id": 60,
+  "level": "Level4",
+  "location": "Tallinn",
+  "name": "Estonian Championships 2026 #2",
+  "playerCount": 5,
+  "startDate": "2026-11-29T00:00:00Z",
+  "status": "Planned"
  }
 ]
