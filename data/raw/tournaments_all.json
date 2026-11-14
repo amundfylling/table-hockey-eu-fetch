@@ -190,7 +190,7 @@
   "seriesInfo": {
    "color": "#15803d",
    "hasCustomName": true,
-   "number": 1,
+   "number": 10,
    "seasonId": 1,
    "seasonLabel": "2026",
    "seriesId": 1,
@@ -338,12 +338,24 @@
   "canSetScores": false,
   "country": "NOR",
   "currentStages": [],
-  "effectiveOrganizerName": "Norwegian Table Hockey Federation",
+  "effectiveOrganizerName": "Jærligaen i Bordhockey",
   "id": 30,
   "level": "Level5",
   "location": "Kvernaland",
   "name": "Jærliga 2026/27 #11",
+  "organizerId": 3,
+  "organizerName": "Jærligaen i Bordhockey",
   "playerCount": 9,
+  "seriesInfo": {
+   "color": "#15803d",
+   "hasCustomName": true,
+   "number": 11,
+   "seasonId": 1,
+   "seasonLabel": "2026",
+   "seriesId": 1,
+   "seriesName": "Jærliga 2026/27",
+   "weight": 1
+  },
   "startDate": "2026-10-21T00:00:00Z",
   "status": "Completed",
   "winnerName": "Andreas Fjermestad"
@@ -367,7 +379,7 @@
   "seriesInfo": {
    "color": "#15803d",
    "hasCustomName": true,
-   "number": 2,
+   "number": 12,
    "seasonId": 1,
    "seasonLabel": "2026",
    "seriesId": 1,
@@ -446,7 +458,7 @@
   "seriesInfo": {
    "color": "#15803d",
    "hasCustomName": true,
-   "number": 3,
+   "number": 13,
    "seasonId": 1,
    "seasonLabel": "2026",
    "seriesId": 1,
@@ -521,7 +533,7 @@
   "name": "Riga Cup 2026",
   "organizerId": 13,
   "organizerName": "Latvian Table Hockey Federation",
-  "playerCount": 49,
+  "playerCount": 56,
   "startDate": "2026-12-05T00:00:00Z",
   "status": "Planned"
  },
@@ -579,7 +591,7 @@
   "seriesInfo": {
    "color": "#15803d",
    "hasCustomName": true,
-   "number": 4,
+   "number": 14,
    "seasonId": 1,
    "seasonLabel": "2026",
    "seriesId": 1,
@@ -703,5 +715,46 @@
   "startDate": "2026-11-12T00:00:00Z",
   "status": "Completed",
   "winnerName": "Henrijs Prokuratovs"
+ },
+ {
+  "bannerFromSeries": false,
+  "canEdit": false,
+  "canSetScores": false,
+  "country": "LAT",
+  "currentStages": [],
+  "effectiveOrganizerName": "Latvian Table Hockey Federation",
+  "endDate": "2026-11-14T00:00:00Z",
+  "id": 63,
+  "level": "Level6",
+  "location": "Rīgas 15. pamatskola, Visvalža iela 9",
+  "name": "Rīgas atklātais čempionāts 2026",
+  "organizerId": 13,
+  "organizerName": "Latvian Table Hockey Federation",
+  "playerCount": 73,
+  "startDate": "2026-11-14T00:00:00Z",
+  "status": "Planned"
+ },
+ {
+  "bannerFromSeries": false,
+  "canEdit": false,
+  "canSetScores": false,
+  "country": "LAT",
+  "currentStages": [
+   {
+    "name": "RČA Groups",
+    "playedMatches": 198,
+    "stageId": 262,
+    "totalMatches": 253
+   }
+  ],
+  "effectiveOrganizerName": "Latvian Table Hockey Federation",
+  "endDate": "2026-11-14T00:00:00Z",
+  "id": 65,
+  "level": "Level6",
+  "location": "Rīgas 15. pamatskola, Visvalža iela 9",
+  "name": "Rīgas atklātās jaunatnes meistarsacīkstes 2026",
+  "playerCount": 23,
+  "startDate": "2026-11-14T00:00:00Z",
+  "status": "Planned"
  }
 ]
