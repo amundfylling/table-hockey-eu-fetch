@@ -725,28 +725,22 @@
   "effectiveOrganizerName": "Latvian Table Hockey Federation",
   "endDate": "2026-11-14T00:00:00Z",
   "id": 63,
-  "level": "Level6",
+  "level": "Level4",
   "location": "Rīgas 15. pamatskola, Visvalža iela 9",
   "name": "Rīgas atklātais čempionāts 2026",
   "organizerId": 13,
   "organizerName": "Latvian Table Hockey Federation",
-  "playerCount": 73,
+  "playerCount": 96,
   "startDate": "2026-11-14T00:00:00Z",
-  "status": "Planned"
+  "status": "Completed",
+  "winnerName": "Rainers Kalnins"
  },
  {
   "bannerFromSeries": false,
   "canEdit": false,
   "canSetScores": false,
   "country": "LAT",
-  "currentStages": [
-   {
-    "name": "RČA Groups",
-    "playedMatches": 198,
-    "stageId": 262,
-    "totalMatches": 253
-   }
-  ],
+  "currentStages": [],
   "effectiveOrganizerName": "Latvian Table Hockey Federation",
   "endDate": "2026-11-14T00:00:00Z",
   "id": 65,
@@ -755,6 +749,67 @@
   "name": "Rīgas atklātās jaunatnes meistarsacīkstes 2026",
   "playerCount": 23,
   "startDate": "2026-11-14T00:00:00Z",
+  "status": "Completed",
+  "winnerName": "Rodrigo Klavins"
+ },
+ {
+  "bannerFromSeries": false,
+  "bannerUrl": "/api/tournaments/66/banner?v=2a1b9df890f647fa89a7623e1b5d42e1",
+  "canEdit": false,
+  "canSetScores": false,
+  "country": "UKR",
+  "currentStages": [],
+  "effectiveOrganizerName": "Ukrainian Table Hockey Federation",
+  "id": 66,
+  "level": "Level4",
+  "location": "Публічна бібліотека імені Лесі Українки, м. Київ",
+  "name": "Третій етап ВЧУ сезону 2026/2027",
+  "playerCount": 2,
+  "startDate": "2027-03-27T00:00:00Z",
+  "status": "Planned"
+ },
+ {
+  "bannerFromSeries": false,
+  "bannerUrl": "/api/tournaments/67/banner?v=a6ecffb2411743a099a00aba09cf227c",
+  "canEdit": false,
+  "canSetScores": false,
+  "country": "UKR",
+  "currentStages": [],
+  "effectiveOrganizerName": "Ukrainian Table Hockey Federation",
+  "id": 67,
+  "level": "Level3",
+  "location": "Will be announced later, Kyiv",
+  "name": "Ukraine Cup 2026",
+  "playerCount": 3,
+  "startDate": "2027-05-08T00:00:00Z",
+  "status": "Planned"
+ },
+ {
+  "bannerFromSeries": false,
+  "canEdit": false,
+  "canSetScores": false,
+  "country": "NOR",
+  "currentStages": [],
+  "effectiveOrganizerName": "Jærligaen i Bordhockey",
+  "endDate": "2026-11-18T00:00:00Z",
+  "id": 68,
+  "level": "Level5",
+  "location": "Aula, Bygg C, Frøyland Skule., Kvernaland",
+  "name": "Jærliga 2026/27 2026 #15",
+  "organizerId": 3,
+  "organizerName": "Jærligaen i Bordhockey",
+  "playerCount": 0,
+  "seriesInfo": {
+   "color": "#15803d",
+   "hasCustomName": false,
+   "number": 15,
+   "seasonId": 1,
+   "seasonLabel": "2026",
+   "seriesId": 1,
+   "seriesName": "Jærliga 2026/27",
+   "weight": 1
+  },
+  "startDate": "2026-11-18T00:00:00Z",
   "status": "Planned"
  }
 ]
