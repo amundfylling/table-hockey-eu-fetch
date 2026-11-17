@@ -223,6 +223,25 @@
  },
  {
   "bannerFromSeries": false,
+  "bannerUrl": "/api/tournaments/21/banner?v=56ae98ba87e8442992a026eb18e0bb85",
+  "canEdit": false,
+  "canSetScores": false,
+  "country": "LTU",
+  "currentStages": [],
+  "effectiveOrganizerName": "THC Vilnius",
+  "endDate": "2026-11-21T00:00:00Z",
+  "id": 21,
+  "level": "Level4",
+  "location": "Savanorių prospektas 176d, Vilnius, Lietuva",
+  "name": "X Vilnius Championships 2025/26 turnyras",
+  "organizerId": 10,
+  "organizerName": "THC Vilnius",
+  "playerCount": 13,
+  "startDate": "2026-11-21T00:00:00Z",
+  "status": "Planned"
+ },
+ {
+  "bannerFromSeries": false,
   "bannerUrl": "/api/tournaments/23/banner?v=f45012c11c22421fb8400e58c8c9497c",
   "canEdit": false,
   "canSetScores": false,
@@ -615,6 +634,21 @@
   "organizerId": 12,
   "organizerName": "Table Hockey Global",
   "playerCount": 20,
+  "status": "Planned"
+ },
+ {
+  "bannerFromSeries": false,
+  "canEdit": false,
+  "canSetScores": false,
+  "currentStages": [],
+  "effectiveOrganizerName": "Table Hockey Global",
+  "id": 53,
+  "level": "Level6",
+  "location": "Adazi",
+  "name": "Adazu liga 3. posms",
+  "organizerId": 12,
+  "organizerName": "Table Hockey Global",
+  "playerCount": 9,
   "status": "Planned"
  },
  {
