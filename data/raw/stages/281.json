@@ -1,0 +1,462 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-11-17T16:17:23.173556Z",
+ "cycles": 1,
+ "divisionRank": 3,
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 281,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "BOTTOM playoff",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 7,
+   "gamesToWin": 4,
+   "id": 376,
+   "matches": [
+    {
+     "awayOrigin": "Grupa B-6",
+     "awayPlayerId": 337,
+     "awayPlayerName": "Georgs Jansons",
+     "awayScore": 4,
+     "awaySeed": 4,
+     "clinchedAt": 4,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 3,
+       "id": 1658,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 1664,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 1673,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 4,
+       "homeScore": 4,
+       "id": 1679,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 8,
+       "gameNumber": 5,
+       "homeScore": 2,
+       "id": 1681,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Grupa A-5",
+     "homePlayerId": 506,
+     "homePlayerName": "Elvis Gustavs Reinfelds",
+     "homeScore": 1,
+     "homeSeed": 1,
+     "id": 832,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 2,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "Grupa B-5",
+     "awayPlayerId": 748,
+     "awayPlayerName": "Emils Kass",
+     "awayScore": 2,
+     "awaySeed": 3,
+     "clinchedAt": 5,
+     "games": [
+      {
+       "awayScore": 2,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 1659,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 3,
+       "id": 1665,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 3,
+       "homeScore": 2,
+       "id": 1671,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 4,
+       "homeScore": 2,
+       "id": 1678,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 5,
+       "homeScore": 1,
+       "id": 1682,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 1,
+       "gameNumber": 6,
+       "homeScore": 2,
+       "id": 1684,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Grupa A-6",
+     "homePlayerId": 394,
+     "homePlayerName": "Alans Liepins",
+     "homeScore": 4,
+     "homeSeed": 2,
+     "id": 833,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 281
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 7,
+   "gamesToWin": 4,
+   "id": 377,
+   "matches": [
+    {
+     "awayOrigin": "Grupa A-6",
+     "awayPlayerId": 394,
+     "awayPlayerName": "Alans Liepins",
+     "awayScore": 4,
+     "awaySeed": 2,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 5,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 1690,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 2,
+       "homeScore": 0,
+       "id": 1691,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 3,
+       "homeScore": 0,
+       "id": 1692,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 4,
+       "homeScore": 0,
+       "id": 1693,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Grupa B-6",
+     "homePlayerId": 337,
+     "homePlayerName": "Georgs Jansons",
+     "homeScore": 0,
+     "homeSeed": 4,
+     "id": 834,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "Home"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 281
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 7,
+   "gamesToWin": 4,
+   "id": 379,
+   "matches": [
+    {
+     "awayOrigin": "Grupa B-5",
+     "awayPlayerId": 748,
+     "awayPlayerName": "Emils Kass",
+     "awayScore": 0,
+     "awaySeed": 3,
+     "clinchedAt": 3,
+     "games": [
+      {
+       "awayScore": 0,
+       "gameNumber": 1,
+       "homeScore": 5,
+       "id": 1686,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 2,
+       "homeScore": 5,
+       "id": 1687,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 3,
+       "homeScore": 5,
+       "id": 1688,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 0,
+       "gameNumber": 4,
+       "homeScore": 5,
+       "id": 1689,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 5,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 6,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 7,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "Grupa A-5",
+     "homePlayerId": 506,
+     "homePlayerName": "Elvis Gustavs Reinfelds",
+     "homeScore": 4,
+     "homeSeed": 1,
+     "id": 836,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "Away"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 281
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "Grupa A-5",
+   "playerId": 506,
+   "playerName": "Elvis Gustavs Reinfelds",
+   "seed": 1
+  },
+  {
+   "originLabel": "Grupa A-6",
+   "playerId": 394,
+   "playerName": "Alans Liepins",
+   "seed": 2
+  },
+  {
+   "originLabel": "Grupa B-5",
+   "playerId": 748,
+   "playerName": "Emils Kass",
+   "seed": 3
+  },
+  {
+   "originLabel": "Grupa B-6",
+   "playerId": 337,
+   "playerName": "Georgs Jansons",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "name": "Grupa B",
+   "stageId": 277
+  },
+  {
+   "divisionRank": 4,
+   "name": "Grupa A",
+   "stageId": 278
+  }
+ ],
+ "tournamentId": 70,
+ "tournamentName": "GHK Altona training tournament #6",
+ "tournamentStages": [
+  {
+   "id": 277,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grupa B",
+   "status": "Finished"
+  },
+  {
+   "id": 278,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grupa A",
+   "status": "Finished"
+  },
+  {
+   "id": 279,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "TOP playoff",
+   "status": "Finished"
+  },
+  {
+   "id": 280,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "MIDDLE playoff",
+   "status": "Finished"
+  },
+  {
+   "id": 281,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "BOTTOM playoff",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

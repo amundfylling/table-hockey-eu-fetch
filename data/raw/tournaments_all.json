@@ -552,7 +552,7 @@
   "name": "Riga Cup 2026",
   "organizerId": 13,
   "organizerName": "Latvian Table Hockey Federation",
-  "playerCount": 57,
+  "playerCount": 66,
   "startDate": "2026-12-05T00:00:00Z",
   "status": "Planned"
  },
@@ -820,6 +820,7 @@
  },
  {
   "bannerFromSeries": false,
+  "bannerUrl": "/api/tournaments/68/banner?v=89b6268e0e5f48f297f08d8c1a528b61",
   "canEdit": false,
   "canSetScores": false,
   "country": "NOR",
@@ -829,13 +830,13 @@
   "id": 68,
   "level": "Level5",
   "location": "Aula, Bygg C, Frøyland Skule., Kvernaland",
-  "name": "Jærliga 2026/27 2026 #15",
+  "name": "Jærliga 2026/27 #15",
   "organizerId": 3,
   "organizerName": "Jærligaen i Bordhockey",
-  "playerCount": 0,
+  "playerCount": 3,
   "seriesInfo": {
    "color": "#15803d",
-   "hasCustomName": false,
+   "hasCustomName": true,
    "number": 15,
    "seasonId": 1,
    "seasonLabel": "2026",
@@ -845,5 +846,37 @@
   },
   "startDate": "2026-11-18T00:00:00Z",
   "status": "Planned"
+ },
+ {
+  "bannerFromSeries": false,
+  "canEdit": false,
+  "canSetScores": false,
+  "currentStages": [],
+  "effectiveOrganizerName": "Latvian Table Hockey Federation",
+  "id": 70,
+  "level": "Level6",
+  "location": "Riga",
+  "name": "GHK Altona training tournament #6",
+  "playerCount": 12,
+  "startDate": "2026-11-17T00:00:00Z",
+  "status": "Completed",
+  "winnerName": "Henrijs Prokuratovs"
+ },
+ {
+  "bannerFromSeries": false,
+  "canEdit": false,
+  "canSetScores": false,
+  "country": "NOR",
+  "currentStages": [],
+  "effectiveOrganizerName": "Norwegian Table Hockey Federation",
+  "endDate": "2026-11-17T00:00:00Z",
+  "id": 71,
+  "level": "Level5",
+  "location": "Bergen",
+  "name": "Bergensliga Autumn #13",
+  "playerCount": 12,
+  "startDate": "2026-11-17T00:00:00Z",
+  "status": "Completed",
+  "winnerName": "Daniel Nygard"
  }
 ]
