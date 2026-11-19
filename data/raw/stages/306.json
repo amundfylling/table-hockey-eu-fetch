@@ -1,0 +1,358 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-11-18T17:12:57.462821Z",
+ "cycles": 1,
+ "divisionRank": 1,
+ "field": {
+  "autoLockPaused": false,
+  "canUnlock": false,
+  "carryForwardResults": false,
+  "isSatisfied": true,
+  "rule": [
+   {
+    "groups": [],
+    "isRoster": false,
+    "placeFrom": 1,
+    "placeTo": 4,
+    "playerIds": [],
+    "stageId": 304,
+    "stageName": "A-mellomspill"
+   }
+  ],
+  "samePlaceOrder": "ByGroup",
+  "slots": [],
+  "source": "Stage",
+  "status": "Locked",
+  "waiting": [
+   {
+    "clinchedCount": 0,
+    "hasUnresolvedTie": false,
+    "isComplete": true,
+    "isDrawn": true,
+    "isFinalPlaces": false,
+    "played": 15,
+    "stageId": 304,
+    "stageName": "A-mellomspill",
+    "total": 15
+   }
+  ]
+ },
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 306,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "A-sluttspill",
+ "placementBands": [
+  {
+   "endPlace": 4,
+   "size": 2,
+   "sourceBandStartPlace": 1,
+   "sourceRoundNumber": 1,
+   "startPlace": 3,
+   "status": "Generated"
+  }
+ ],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 395,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 333,
+     "awayPlayerName": "Sinus Moberg",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 1872,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 1876,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 81,
+     "homePlayerName": "Amund Risa Fylling",
+     "homeScore": 2,
+     "homeSeed": 1,
+     "id": 881,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    },
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 72,
+     "awayPlayerName": "Andreas Fjermestad",
+     "awayScore": 2,
+     "awaySeed": 3,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 2,
+       "id": 1873,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 5,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 1875,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 240,
+     "homePlayerName": "Arne Hetlelid",
+     "homeScore": 0,
+     "homeSeed": 2,
+     "id": 882,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 1,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 306
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 4,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 396,
+   "matches": [
+    {
+     "awayOrigin": "A3",
+     "awayPlayerId": 72,
+     "awayPlayerName": "Andreas Fjermestad",
+     "awayScore": 2,
+     "awaySeed": 3,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 5,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 1878,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 4,
+       "gameNumber": 2,
+       "homeScore": 1,
+       "id": 1880,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A1",
+     "homePlayerId": 81,
+     "homePlayerName": "Amund Risa Fylling",
+     "homeScore": 0,
+     "homeSeed": 1,
+     "id": 883,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 2,
+   "stageId": 306
+  },
+  {
+   "bandEndPlace": 4,
+   "bandSize": 2,
+   "bandStartPlace": 3,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 402,
+   "matches": [
+    {
+     "awayOrigin": "A4",
+     "awayPlayerId": 333,
+     "awayPlayerName": "Sinus Moberg",
+     "awayScore": 0,
+     "awaySeed": 4,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 3,
+       "gameNumber": 1,
+       "homeScore": 4,
+       "id": 1879,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": true
+      },
+      {
+       "awayScore": 2,
+       "gameNumber": 2,
+       "homeScore": 4,
+       "id": 1881,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A2",
+     "homePlayerId": 240,
+     "homePlayerName": "Arne Hetlelid",
+     "homeScore": 2,
+     "homeSeed": 2,
+     "id": 889,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 1,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 306
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A1",
+   "playerId": 81,
+   "playerName": "Amund Risa Fylling",
+   "seed": 1
+  },
+  {
+   "originLabel": "A2",
+   "playerId": 240,
+   "playerName": "Arne Hetlelid",
+   "seed": 2
+  },
+  {
+   "originLabel": "A3",
+   "playerId": 72,
+   "playerName": "Andreas Fjermestad",
+   "seed": 3
+  },
+  {
+   "originLabel": "A4",
+   "playerId": 333,
+   "playerName": "Sinus Moberg",
+   "seed": 4
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "divisionRank": 1,
+   "name": "A-mellomspill",
+   "stageId": 304
+  }
+ ],
+ "tournamentId": 68,
+ "tournamentName": "Jærliga 2026/27 #15",
+ "tournamentStages": [
+  {
+   "id": 303,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grunnspill",
+   "status": "Finished"
+  },
+  {
+   "id": 304,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "A-mellomspill",
+   "status": "Finished"
+  },
+  {
+   "id": 305,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "B-mellomspill",
+   "status": "Finished"
+  },
+  {
+   "id": 306,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "A-sluttspill",
+   "status": "Finished"
+  },
+  {
+   "id": 307,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Kamp om 5. plass",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}

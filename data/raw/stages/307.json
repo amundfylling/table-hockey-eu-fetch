@@ -1,0 +1,174 @@
+{
+ "canEdit": false,
+ "canSetScores": false,
+ "createdAt": "2026-11-18T17:13:22.593447Z",
+ "cycles": 1,
+ "divisionRank": 1,
+ "field": {
+  "autoLockPaused": false,
+  "canUnlock": false,
+  "carryForwardResults": false,
+  "isSatisfied": true,
+  "rule": [
+   {
+    "groups": [],
+    "isRoster": false,
+    "placeFrom": 5,
+    "playerIds": [],
+    "stageId": 304,
+    "stageName": "A-mellomspill"
+   }
+  ],
+  "samePlaceOrder": "ByGroup",
+  "slots": [],
+  "source": "Stage",
+  "status": "Locked",
+  "waiting": [
+   {
+    "clinchedCount": 0,
+    "hasUnresolvedTie": false,
+    "isComplete": true,
+    "isDrawn": true,
+    "isFinalPlaces": false,
+    "played": 15,
+    "stageId": 304,
+    "stageName": "A-mellomspill",
+    "total": 15
+   }
+  ]
+ },
+ "groups": [],
+ "hasPlayingDependents": false,
+ "id": 307,
+ "isAwaitingField": false,
+ "isForFun": false,
+ "isPlayoffDrawLocked": true,
+ "isTournamentArchived": false,
+ "isTournamentFinished": true,
+ "name": "Kamp om 5. plass",
+ "placementBands": [],
+ "playoffRounds": [
+  {
+   "bandEndPlace": 2,
+   "bandSize": 2,
+   "bandStartPlace": 1,
+   "bestOf": 3,
+   "gamesToWin": 2,
+   "id": 397,
+   "matches": [
+    {
+     "awayOrigin": "A6",
+     "awayPlayerId": 1532,
+     "awayPlayerName": "Ruben Nesse Haland",
+     "awayScore": 2,
+     "awaySeed": 2,
+     "clinchedAt": 1,
+     "games": [
+      {
+       "awayScore": 1,
+       "gameNumber": 1,
+       "homeScore": 0,
+       "id": 1874,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "awayScore": 3,
+       "gameNumber": 2,
+       "homeScore": 0,
+       "id": 1877,
+       "isBeyondClinch": false,
+       "isDrawn": false,
+       "wentToOvertime": false
+      },
+      {
+       "gameNumber": 3,
+       "id": 0,
+       "isBeyondClinch": true,
+       "isDrawn": false,
+       "wentToOvertime": false
+      }
+     ],
+     "homeOrigin": "A5",
+     "homePlayerId": 1589,
+     "homePlayerName": "Sille Moberg",
+     "homeScore": 0,
+     "homeSeed": 1,
+     "id": 884,
+     "isBye": false,
+     "isCompleted": true,
+     "overtimeGames": 0,
+     "position": 0,
+     "walkover": "None"
+    }
+   ],
+   "roundNumber": 1,
+   "stageId": 307
+  }
+ ],
+ "playoffSeeds": [
+  {
+   "originLabel": "A5",
+   "playerId": 1589,
+   "playerName": "Sille Moberg",
+   "seed": 1
+  },
+  {
+   "originLabel": "A6",
+   "playerId": 1532,
+   "playerName": "Ruben Nesse Haland",
+   "seed": 2
+  }
+ ],
+ "roundRobinSchedule": "Standard",
+ "scoringSystem": "Standard",
+ "sources": [
+  {
+   "divisionRank": 1,
+   "name": "A-mellomspill",
+   "stageId": 304
+  }
+ ],
+ "tournamentId": 68,
+ "tournamentName": "Jærliga 2026/27 #15",
+ "tournamentStages": [
+  {
+   "id": 303,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Grunnspill",
+   "status": "Finished"
+  },
+  {
+   "id": 304,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "A-mellomspill",
+   "status": "Finished"
+  },
+  {
+   "id": 305,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "B-mellomspill",
+   "status": "Finished"
+  },
+  {
+   "id": 306,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "A-sluttspill",
+   "status": "Finished"
+  },
+  {
+   "id": 307,
+   "isAwaitingField": false,
+   "isForFun": false,
+   "name": "Kamp om 5. plass",
+   "status": "Finished"
+  }
+ ],
+ "type": "Playoff",
+ "typeDisplayName": "Playoff"
+}
