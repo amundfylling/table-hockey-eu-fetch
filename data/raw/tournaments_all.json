@@ -237,7 +237,14 @@
   "canEdit": false,
   "canSetScores": false,
   "country": "LTU",
-  "currentStages": [],
+  "currentStages": [
+   {
+    "name": "Grupe 2",
+    "playedMatches": 30,
+    "stageId": 338,
+    "totalMatches": 45
+   }
+  ],
   "effectiveOrganizerName": "THC Vilnius",
   "endDate": "2026-11-21T00:00:00Z",
   "id": 21,
@@ -598,7 +605,7 @@
   "name": "Riga Cup 2026",
   "organizerId": 13,
   "organizerName": "Latvian Table Hockey Federation",
-  "playerCount": 68,
+  "playerCount": 72,
   "startDate": "2026-12-05T00:00:00Z",
   "status": "Planned"
  },
@@ -1017,10 +1024,10 @@
   "canSetScores": false,
   "currentStages": [
    {
-    "name": "Apļa turnīrs",
+    "name": "play-off",
     "playedMatches": 0,
-    "stageId": 317,
-    "totalMatches": 136
+    "stageId": 339,
+    "totalMatches": 7
    }
   ],
   "effectiveOrganizerName": "Valmieras novada GHK",
@@ -1033,6 +1040,34 @@
   "organizerName": "Valmieras novada GHK",
   "playerCount": 17,
   "startDate": "2026-11-21T00:00:00Z",
+  "status": "Planned"
+ },
+ {
+  "bannerFromSeries": false,
+  "canEdit": false,
+  "canSetScores": false,
+  "country": "NOR",
+  "currentStages": [],
+  "effectiveOrganizerName": "Bergensligaen",
+  "endDate": "2026-11-24T00:00:00Z",
+  "id": 80,
+  "level": "Level5",
+  "location": "Bergen",
+  "name": "Bergensliga Autumn 2026 #14",
+  "organizerId": 8,
+  "organizerName": "Bergensligaen",
+  "playerCount": 0,
+  "seriesInfo": {
+   "color": "#0f766e",
+   "hasCustomName": false,
+   "number": 14,
+   "seasonId": 3,
+   "seasonLabel": "Autumn 2026",
+   "seriesId": 4,
+   "seriesName": "Bergensliga",
+   "weight": 1
+  },
+  "startDate": "2026-11-24T00:00:00Z",
   "status": "Planned"
  }
 ]
